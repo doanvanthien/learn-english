@@ -1,0 +1,59 @@
+1|your|(pronoun)|bạn
+1|I|(pronoun)|tôi
+1|they|(pronoun)|họ
+1|their|(pronoun)|họ
+1|we|(pronoun)|chúng tôi
+1|who|(pronoun)|ai?
+1|them|(pronoun)|bọn họ
+1|its|(pronoun)|chúng nó
+1|our|(pronoun)|của chúng tôi
+1|my|(pronoun)|của tôi
+1|those|(pronoun)|những cái đó
+1|he|(pronoun)|anh ấy
+1|us|(pronoun)|chúng tôi
+1|her|(pronoun)|cô ấy
+1|something|(pronoun)|một vài
+1|me|(pronoun)|tôi
+1|yourself|(pronoun)|chính bạn
+1|someone|(pronoun)|ai đó
+1|everything|(pronoun)|mọi thứ
+1|itself|(pronoun)|chính nó
+1|everyone|(pronoun)|mọi người
+1|themselves|(pronoun)|bản thân họ
+1|anyone|(pronoun)|bất kỳ ai
+1|him|(pronoun)|anh ấy
+1|whose|(pronoun)|của ai?
+1|myself|(pronoun)|chính bản thân tôi
+1|everybody|(pronoun)|tất cả mọi người
+1|ourselves|(pronoun)|bản thân chúng tôi
+1|himself|(pronoun)|bản thân anh ấy
+1|somebody|(pronoun)|vài người
+1|yours|(pronoun)|của bạn
+1|herself|(pronoun)|chính cô ấy
+1|whoever|(pronoun)|bất cứ ai
+1|you|(pronoun, noun)|bạn
+1|that|(pronoun, adjective, adverb)|kia
+1|it|(pronoun, noun)|nó
+1|this|(pronoun, adjective, adverb)|đây
+1|what|(pronoun, adjective, adverb)|cái gì
+1|which|(pronoun, adjective)|nào, ngụ ý lựa chọn
+1|these|(pronoun, adjective)|những
+1|his|(pronoun, adjective)|anh ấy
+1|she|(pronoun, noun)|cô ấy
+1|lot|(pronoun, adverb, noun)|nhiều
+1|anything|(pronoun, noun, adverb)|vật gì, việc gì(phủ định và câu hỏi)
+1|whatever|(pronoun, adverb, interjection)|bất cứ thứ gì
+1|nobody|(pronoun, noun)|không ai cả
+1|none|(pronoun, adverb, adjective)|không ai, chẳng ai cả
+1|mine|(pronoun, noun, verb)|chính tôi
+1|anybody|(pronoun, noun)|vài người (phủ định và câu hỏi)
+1|some|(adjective, pronoun, adverb)|một vài
+1|there|(adverb, pronoun, noun)|ở nơi đó, tại nơi đó
+1|all|(adjective, pronoun, noun)|tất cả
+1|where|(adverb, pronoun, noun)|ở đâu?
+1|another|(adjective, pronoun)|khác, lần khác, nữa
+1|same|(adjective, pronoun, adverb)|cùng
+1|certain|(adjective, pronoun)|chắc chắn
+1|nothing|(noun, pronoun, adjective)|không có gì
+1|self|(noun, pronoun, adjective)|bản thân mình, cái tôi
+1|nowhere|(adverb, pronoun, adjective)|không nơi nào

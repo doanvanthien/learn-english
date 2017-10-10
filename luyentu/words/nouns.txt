@@ -1,0 +1,1525 @@
+0|people|(noun)|Người
+0|history|(noun)|Lịch sử
+0|way|(noun)|cách
+0|art|(noun)|Mỹ thuật
+0|world|(noun)|thế giới
+0|information|(noun)|dữ liệu
+0|map|(noun)|bản đồ
+0|two|(noun)|hai
+0|family|(noun)|gia đình
+0|government|(noun)|chính phủ
+0|health|(noun)|Sức khỏe
+0|system|(noun)|thoát khí
+0|computer|(noun)|máy tính
+0|meat|(noun)|thịt
+0|year|(noun)|năm
+0|thanks|(noun)|Âm thanh
+0|music|(noun)|âm nhạc
+0|person|(noun)|người
+0|reading|(noun)|Đọc
+0|method|(noun)|Phương Pháp
+0|data|(noun)|dữ liệu
+0|food|(noun)|Thực phẩm
+0|understanding|(noun)|sự hiểu biết
+0|theory|(noun)|lý thuyết
+0|law|(noun)|pháp luật
+0|bird|(noun)|con chim
+0|literature|(noun)|Văn
+0|problem|(noun)|Vấn đề
+0|software|(noun)|Phần mềm
+0|control|(noun)|kiểm soát
+0|knowledge|(noun)|nhận thức
+0|power|(noun)|Công suất
+0|ability|(noun)|có khả năng
+0|economics|(noun)|kinh tế
+0|love|(noun)|Yêu
+0|internet|(noun)|mạng internet
+0|television|(noun)|vô tuyến truyền hình
+0|science|(noun)|Khoa học
+0|library|(noun)|thư viện
+0|nature|(noun)|Tự nhiên
+0|fact|(noun)|Sự thật
+0|product|(noun)|Sản phẩm
+0|idea|(noun)|Ý tưởng
+0|temperature|(noun)|Nhiệt độ
+0|investment|(noun)|đầu tư
+0|area|(noun)|diện tích
+0|society|(noun)|xã hội
+0|activity|(noun)|hoạt động
+0|story|(noun)|hom
+0|industry|(noun)|công nghiệp
+0|media|(noun)|Hình ảnh
+0|thing|(noun)|Đồ
+0|oven|(noun)|lò nướng
+0|community|(noun)|Tập thể
+0|definition|(noun)|Định nghĩa
+0|safety|(noun)|Sự an toàn
+0|quality|(noun)|Chất lượng
+0|development|(noun)|tiến hóa
+1|language|(noun)|ngôn ngữ
+1|management|(noun)|quản lý
+1|player|(noun)|diễn viên
+0|variety|(noun)|đa dạng
+1|video|(noun)|video
+0|week|(noun)|tuần
+0|security|(noun)|An ninh
+0|country|(noun)|Quốc gia
+0|exam|(noun)|Thăm khám
+0|movie|(noun)|Điện ảnh Phim Hay
+0|organization|(noun)|tổ chức
+0|equipment|(noun)|Trang bị
+0|physics|(noun)|Vật lý học
+0|analysis|(noun)|Phân tích
+0|policy|(noun)|Chính sách
+0|series|(noun)|Số sê-ri
+0|thought|(noun)|Nghĩ
+0|basis|(noun)|cơ sở
+0|boyfriend|(noun)|Boyfriend (ban nhạc)
+0|direction|(noun)|hướng
+0|strategy|(noun)|Chiến dịch
+0|technology|(noun)|công nghệ
+0|army|(noun)|lục quân
+0|camera|(noun)|máy ảnh
+0|freedom|(noun)|tự do
+0|paper|(noun)|giấy
+0|environment|(noun)|thử nghiệm
+0|child|(noun)|trẻ em
+0|instance|(noun)|thể hiện
+0|month|(noun)|tháng
+0|truth|(noun)|Sự thật
+0|marketing|(noun)|Tiếp thị
+0|university|(noun)|Trường đại học
+0|writing|(noun)|Viết
+0|article|(noun)|bài viết
+0|department|(noun)|khoa
+0|difference|(noun)|Chênh lệch
+0|goal|(noun)|bàn thắng
+0|news|(noun)|Tin tức
+0|audience|(noun)|thính giả
+0|fishing|(noun)|Câu cá
+0|growth|(noun)|cao hơn
+0|income|(noun)|Thu nhập
+0|marriage|(noun)|Hôn nhân
+0|user|(noun)|thành viên
+0|combination|(noun)|Kết hợp
+0|failure|(noun)|thất bại
+0|meaning|(noun)|Ý nghĩa
+0|medicine|(noun)|Y học
+0|philosophy|(noun)|Triết học
+0|teacher|(noun)|Giáo viên
+0|communication|(noun)|giao tiếp
+0|night|(noun)|đêm
+0|chemistry|(noun)|Hóa học
+0|disease|(noun)|Bệnh
+0|disk|(noun)|ĐĨA
+0|energy|(noun)|năng lượng
+0|nation|(noun)|Quốc gia
+0|road|(noun)|đường giao thông
+0|role|(noun)|Vai trò
+0|soup|(noun)|súp
+0|advertising|(noun)|quảng cáo
+0|location|(noun)|vị trí
+0|success|(noun)|thành công
+0|addition|(noun)|gắn thêm
+0|apartment|(noun)|căn hộ, chung cư
+0|education|(noun)|phương pháp giáo dục
+0|math|(noun)|Toán học
+0|moment|(noun)|hiện tại.
+0|painting|(noun)|sơn
+0|politics|(noun)|chính trị
+0|attention|(noun)|Chú ý
+0|decision|(noun)|sự giải quyết
+0|event|(noun)|biến cố
+0|property|(noun)|Bất động sản
+0|shopping|(noun)|Mua sắm
+0|student|(noun)|học sinh
+0|wood|(noun)|gỗ
+0|competition|(noun)|cạnh tranh
+0|distribution|(noun)|Phân phối
+0|entertainment|(noun)|giải trí
+0|office|(noun)|văn phòng
+0|population|(noun)|Dân số
+0|president|(noun)|Viện trưởng
+0|unit|(noun)|khối|bộ
+0|category|(noun)|danh mục
+0|cigarette|(noun)|Thuốc lá
+0|context|(noun)|Ngữ cảnh
+0|introduction|(noun)|LỜI GIỚI THIỆU
+0|opportunity|(noun)|Cơ hội
+0|performance|(noun)|hiệu năng
+0|driver|(noun)|Bộ xử lý
+0|flight|(noun)|CHUYẾN BAY
+0|length|(noun)|Độ dài
+0|magazine|(noun)|Tạp chí
+0|newspaper|(noun)|Rao vặt
+0|relationship|(noun)|Mối quan hệ
+0|teaching|(noun)|phương pháp giáo dục
+0|cell|(noun)|細胞
+0|dealer|(noun)|Nhà cái
+0|finding|(noun)|Tìm đường
+0|lake|(noun)|hồ
+0|member|(noun)|thành viên
+0|message|(noun)|lời nhắn gửi
+0|phone|(noun)|ddiện thoại
+0|scene|(noun)|cảnh
+0|appearance|(noun)|vẻ ngoài
+0|association|(noun)|Liên doanh NJPT
+0|concept|(noun)|Khái niệm
+0|customer|(noun)|khách hàng
+0|death|(noun)|chết
+0|discussion|(noun)|thảo luận
+0|housing|(noun)|Nhà ở
+0|inflation|(noun)|Lạm phát
+0|insurance|(noun)|bảo hiểm
+0|mood|(noun)|khí sắc
+0|woman|(noun)|nữ
+0|advice|(noun)|tư vấn
+0|blood|(noun)|máu
+0|effort|(noun)|chiến dịch
+0|expression|(noun)|biểu hiện
+0|importance|(noun)|TẦM QUAN TRỌNG
+0|opinion|(noun)|Ý kiến
+0|payment|(noun)|thanh toán
+0|reality|(noun)|Reality (Thực tế)
+0|responsibility|(noun)|Trách nhiệm
+0|situation|(noun)|TÌNH HÌNH THỰC TRẠNG
+0|skill|(noun)|Kỹ năng
+0|statement|(noun)|sự bày tỏ
+0|wealth|(noun)|Giàu
+0|application|(noun)|ứng dụng
+0|city|(noun)|thành phố
+0|county|(noun)|Nước
+0|depth|(noun)|Độ dày
+0|estate|(noun)|Real Estate
+0|foundation|(noun)|Nền tảng
+0|grandmother|(noun)|Bà
+0|heart|(noun)|trái tim
+0|perspective|(noun)|Phối cảnh
+0|photo|(noun)|ảnh
+0|recipe|(noun)|Công thức nấu ăn
+0|studio|(noun)|Studio
+0|topic|(noun)|Chủ đề
+0|collection|(noun)|Bộ sưu tập
+0|depression|(noun)|Hạ xuống
+0|imagination|(noun)|TRÍ TƯỞNG TƯỢNG
+0|passion|(noun)|Lòng đam mê
+0|percentage|(noun)|phần trăm
+0|resource|(noun)|Tài nguyên
+0|setting|(noun)|cài đặt
+0|ad|(noun)|quảng cáo
+0|agency|(noun)|Cơ quan
+0|college|(noun)|của trường
+0|connection|(noun)|kết nối
+0|criticism|(noun)|sự chỉ trích
+0|debt|(noun)|Nợ
+0|description|(noun)|mô tả
+0|memory|(noun)|BỘ NHỚ
+0|patience|(noun)|Kiên nhẫn
+0|secretary|(noun)|Thư ký
+0|solution|(noun)|của chúng tôi.
+0|administration|(noun)|Quản trị viên
+0|aspect|(noun)|Hình dạng:
+0|attitude|(noun)|thái độ của bạn.
+0|director|(noun)|Giám đốc
+0|personality|(noun)|Nhân cách
+0|psychology|(noun)|Tâm lý học
+0|recommendation|(noun)|Sự giới thiệu
+0|response|(noun)|câu trả lời
+0|selection|(noun)|VÙNG LỰA CHỌN
+0|storage|(noun)|BẢO QUẢN
+0|version|(noun)|BẢN
+0|alcohol|(noun)|Cồn
+0|argument|(noun)|đối
+0|complaint|(noun)|Liên kết khiếu nại
+0|contract|(noun)|Contract
+0|emphasis|(noun)|nhấn mạnh
+0|highway|(noun)|Xa lộ
+0|loss|(noun)|Mất mát
+0|membership|(noun)|thành viên
+0|possession|(noun)|Sở hữu
+0|preparation|(noun)|Công tác Chuẩn bị
+0|steak|(noun)|Bít tết
+0|union|(noun)|hôn nhân
+0|agreement|(noun)|hợp đồng
+0|cancer|(noun)|Cự Giải
+0|currency|(noun)|tiền tệ
+0|employment|(noun)|Việc làm
+0|engineering|(noun)|công nghệ
+0|entry|(noun)|Số thứ tự
+0|interaction|(noun)|Tương tác
+0|mixture|(noun)|Hỗn hợp
+0|preference|(noun)|Diễn giải
+0|region|(noun)|khu
+0|republic|(noun)|cộng hòa
+0|tradition|(noun)|Phong tục
+0|virus|(noun)|Virus
+0|actor|(noun)|diễn viên
+0|classroom|(noun)|Lớp học
+0|delivery|(noun)|Giao hàng
+0|device|(noun)|thiết bị
+0|difficulty|(noun)|Độ khó
+0|drama|(noun)|Kịch
+0|election|(noun)|bầu cử
+0|engine|(noun)|Động cơ
+0|football|(noun)|Bóng đá
+0|guidance|(noun)|Hướng dẫn
+0|hotel|(noun)|khách sạn
+0|owner|(noun)|Chủ sở hữu
+0|priority|(noun)|ưu tiên
+0|protection|(noun)|Bảo vệ
+0|suggestion|(noun)|Gợi ý
+0|tension|(noun)|Căng thẳng
+0|variation|(noun)|Biến thể:
+0|anxiety|(noun)|Lo lắng
+0|atmosphere|(noun)|Khí quyển
+0|awareness|(noun)|Nâng cao
+0|bath|(noun)|phòng tắm
+0|bread|(noun)|bánh mì
+0|candidate|(noun)|Ứng viên
+0|climate|(noun)|Khí hậu
+0|comparison|(noun)|So sánh
+0|confusion|(noun)|bất ngờ
+0|construction|(noun)|xây dựng
+0|elevator|(noun)|Thang máy
+0|emotion|(noun)|Cảm xúc
+0|employee|(noun)|Nhân viên
+0|employer|(noun)|Nhà tuyển dụng
+0|guest|(noun)|khách
+0|height|(noun)|cao
+0|leadership|(noun)|Điểm thưởng
+0|mall|(noun)|Trung tâm mua sắm
+0|manager|(noun)|Quản lý
+0|operation|(noun)|hiệu năng
+0|recording|(noun)|Ghi âm
+0|sample|(noun)|mẫu
+0|transportation|(noun)|Vận chuyển
+0|charity|(noun)|Từ thiện
+0|cousin|(noun)|Anh em họ
+0|disaster|(noun)|thảm họa
+0|editor|(noun)|Biên tập viên
+0|efficiency|(noun)|Hiệu suất
+0|excitement|(noun)|sự phấn khích
+0|extent|(noun)|Phạm vi
+0|feedback|(noun)|Phản hồi
+0|guitar|(noun)|ghi-ta
+0|homework|(noun)|Bài tập về nhà
+0|leader|(noun)|LÃNH ĐẠO
+0|mom|(noun)|ma
+0|outcome|(noun)|Kết quả
+0|permission|(noun)|Quyền hạn
+0|presentation|(noun)|Trình bày
+0|promotion|(noun)|khuyễn mãi
+0|reflection|(noun)|Reflection - Phản xạ
+0|refrigerator|(noun)|Tủ Lạnh
+0|resolution|(noun)|độ phân giải
+0|revenue|(noun)|Doanh thu
+0|session|(noun)|Phiên
+0|singer|(noun)|Ca sĩ
+0|tennis|(noun)|quần vợt
+0|basket|(noun)|Giỏ
+0|bonus|(noun)|vượt cấp,
+0|cabinet|(noun)|Nội các
+0|childhood|(noun)|thời thơ ấu
+0|church|(noun)|nhà thờ
+0|clothes|(noun)|quần áo
+0|coffee|(noun)|cà phê
+0|dinner|(noun)|bữa tối
+0|drawing|(noun)|Sự khéo léo
+0|hair|(noun)|lông
+0|hearing|(noun)|Thính giác
+0|initiative|(noun)|Sáng kiến
+0|judgment|(noun)|Án
+0|lab|(noun)|Lab :
+0|measurement|(noun)|khoa đo lường
+0|mode|(noun)|Phương thức
+0|mud|(noun)|Bùn
+0|orange|(noun)|cam
+0|poetry|(noun)|thơ
+0|police|(noun)|cảnh sát
+0|possibility|(noun)|khả năng
+0|procedure|(noun)|chuyên viên xuất nhập khẩu cấp cao
+0|queen|(noun)|Queen
+0|ratio|(noun)|Tỷ số
+0|relation|(noun)|quan hệ
+0|restaurant|(noun)|nhà hàng ăn uống
+0|satisfaction|(noun)|Sự hài lòng
+0|sector|(noun)|Khu vực
+0|signature|(noun)|Chữ ký
+0|significance|(noun)|Tầm quan trọng
+0|song|(noun)|bài hát
+0|tooth|(noun)|Răng
+0|town|(noun)|thành phố
+0|vehicle|(noun)|Loại xe
+0|volume|(noun)|sách
+0|wife|(noun)|oxa
+0|accident|(noun)|Lồi lõm
+0|airport|(noun)|sân bay
+0|appointment|(noun)|cuộc hẹn
+0|arrival|(noun)|Điểm đến
+0|assumption|(noun)|Giả thiết
+0|baseball|(noun)|môn bóng chày
+0|chapter|(noun)|Chương
+0|committee|(noun)|Ủy ban
+0|conversation|(noun)|cuộc trò chuyện.
+0|database|(noun)|Cơ sở dữ liệu
+0|enthusiasm|(noun)|hăng hái
+0|error|(noun)|lỗi
+0|explanation|(noun)|Giải thích
+0|farmer|(noun)|Nông dân
+0|gate|(noun)|Cổng
+0|girl|(noun)|Cô gái
+0|hall|(noun)|Hội trường
+0|historian|(noun)|Trình Historian
+0|hospital|(noun)|bệnh viện
+0|injury|(noun)|chấn thương
+0|instruction|(noun)|phương pháp giáo dục
+0|maintenance|(noun)|BẢO DƯỠNG
+0|manufacturer|(noun)|Nhà sản xuất
+0|meal|(noun)|Bữa ăn
+0|perception|(noun)|Cảm nhận
+0|pie|(noun)|Bánh
+0|poem|(noun)|Thơ
+0|presence|(noun)|Vị trí
+0|proposal|(noun)|đề nghị
+0|reception|(noun)|Lễ tân
+0|replacement|(noun)|Thay thế
+0|revolution|(noun)|Cách mạng
+0|river|(noun)|sông
+0|son|(noun)|Con trai
+0|speech|(noun)|bài phát biểu
+0|tea|(noun)|trà
+0|village|(noun)|làng
+0|warning|(noun)|cảnh báo
+0|winner|(noun)|Người Thắng
+0|worker|(noun)|công nhân
+0|writer|(noun)|Tác giả
+0|assistance|(noun)|trợ giúp
+0|breath|(noun)|Thở
+0|buyer|(noun)|Người mua
+0|chest|(noun)|Đau ngực
+0|chocolate|(noun)|sô-cô-la
+0|conclusion|(noun)|cuối cùng
+0|contribution|(noun)|Lợi nhuận
+0|cookie|(noun)|Tên Cookie
+0|courage|(noun)|Dũng sĩ
+0|dad|(noun)|DAD
+0|desk|(noun)|Bàn làm việc
+0|drawer|(noun)|Ngăn kéo phía trên
+0|establishment|(noun)|Thành lập
+0|examination|(noun)|Kỳ thi
+0|garbage|(noun)|Chất thải
+0|grocery|(noun)|tạp hóa
+0|honey|(noun)|Mật ong
+0|impression|(noun)|IMPRESSION
+0|improvement|(noun)|Mức độ cải thiện (%)
+0|independence|(noun)|﻿Độc lập
+0|insect|(noun)|côn trùng
+0|inspection|(noun)|Phiếu
+0|inspector|(noun)|THANH TRA
+0|king|(noun)|vương
+0|ladder|(noun)|thang
+0|menu|(noun)|thực đơn
+0|penalty|(noun)|thuật toán.
+0|piano|(noun)|Dương cầm
+0|potato|(noun)|khoai tây
+0|profession|(noun)|Chuyên môn:
+0|professor|(noun)|Giáo sư
+0|quantity|(noun)|số lượng
+0|reaction|(noun)|Phản ứng
+0|requirement|(noun)|Yêu cầu
+0|salad|(noun)|món rau trộn
+0|sister|(noun)|chị
+0|supermarket|(noun)|siêu thị
+0|tongue|(noun)|lưỡi
+0|weakness|(noun)|Suy nhược
+0|wedding|(noun)|lễ cưới
+0|affair|(noun)|Chuyện
+0|ambition|(noun)|Nhà đồng sáng lập của Tham vọng Sức khỏe
+0|analyst|(noun)|Nhân viên phân tích
+0|apple|(noun)|quả táo
+0|assignment|(noun)|Gán vào kho
+0|assistant|(noun)|Trợ lý là Khách
+0|bathroom|(noun)|chung
+0|bedroom|(noun)|có đồ đạc
+0|beer|(noun)|bia
+0|birthday|(noun)|Ngày sinh
+0|celebration|(noun)|lễ kỷ niệm
+0|championship|(noun)|Vô địch
+0|cheek|(noun)|Má
+0|client|(noun)|khách hàng
+0|consequence|(noun)|hậu quả
+0|departure|(noun)|Khởi hành
+0|diamond|(noun)|Kim cương
+0|dirt|(noun)|Đất
+0|ear|(noun)|Tai
+0|fortune|(noun)|vận may
+0|friendship|(noun)|tình bạn
+0|funeral|(noun)|đám tang
+0|gene|(noun)|Gen
+0|girlfriend|(noun)|ban gai
+0|hat|(noun)|mũ
+0|indication|(noun)|Chỉ định
+0|intention|(noun)|Ý định
+0|lady|(noun)|"bóng hồng"
+0|midnight|(noun)|nửa đêm
+0|negotiation|(noun)|Thương lượng
+0|obligation|(noun)|Nghĩa vụ
+0|passenger|(noun)|Hành khách
+0|pizza|(noun)|bánh sanchvich, bánh pizza
+0|platform|(noun)|Bục
+0|poet|(noun)|Nhà thơ
+0|pollution|(noun)|Phòng ngừa
+0|recognition|(noun)|nhận dạng
+0|reputation|(noun)|Danh tiếng
+0|shirt|(noun)|áo sơ mi
+0|sir|(noun)|Ngài!
+0|speaker|(noun)|Loa
+0|stranger|(noun)|Người lạ
+0|surgery|(noun)|Ngoại khoa
+0|sympathy|(noun)|cảm thông
+0|tale|(noun)|Câu chuyện
+0|throat|(noun)|họng
+0|trainer|(noun)|Người huấn luyện
+0|uncle|(noun)|Bác
+0|youth|(noun)|Tuổi Trẻ
+0|time|(noun, adjective, verb)|thời gian
+0|work|(noun, adjective, verb)|lao động
+0|film|(noun, verb)|Điện ảnh
+0|water|(noun, verb, adjective)|Nước
+0|money|(noun, adjective)|tiền
+0|example|(noun, verb)|Ví dụ
+0|while|(noun, conjunction, preposition)|trong khi
+0|business|(noun, adjective)|Công việc
+0|study|(noun, verb)|báo cáo
+0|game|(noun, adjective, verb)|trò chơi
+0|life|(noun, adjective)|sự sống
+0|form|(noun, verb)|Mẫu
+0|air|(noun, verb)|Hàng không
+0|day|(noun, adjective)|ngày
+0|place|(noun, verb)|Địa điểm
+0|number|(noun, verb)|bộ phận
+0|part|(noun, verb, adverb)|Phần
+0|field|(noun, verb, adjective)|trường
+0|fish|(noun, verb)|cá
+0|back|(noun, adverb, verb)|MẶT SAU
+0|process|(noun, verb)|biên tập.
+0|heat|(noun, verb)|Nhiệt năng
+0|hand|(noun, verb)|tay
+0|experience|(noun, verb)|KINH NGHIỆM
+0|job|(noun, verb)|nhiệm vụ
+0|book|(noun, verb)|tài suất api
+0|end|(noun, verb)|Cuối
+0|point|(noun, verb)|điểm
+0|type|(noun, verb)|Loại
+0|home|(noun, adjective, adverb)|trang chính
+0|economy|(noun, adjective)|kinh tế
+0|value|(noun, verb)|value
+0|body|(noun, verb)|.
+0|market|(noun, verb)|chợ
+0|guide|(noun, verb)|Hướng dẫn
+0|interest|(noun, verb)|quan tâm
+0|state|(noun, verb)|BANG:
+0|radio|(noun, verb)|đài
+0|course|(noun, verb)|khoa-hoc
+0|company|(noun, verb)|công ty
+0|price|(noun, verb)|giá
+0|size|(noun, verb, adjective)|size
+0|card|(noun, verb)|Thẻ
+0|list|(noun, verb)|danh sách
+0|mind|(noun, verb)|TRÍ ÓC
+0|trade|(noun, verb)|thương mại
+0|line|(noun, verb)|Đường
+0|care|(noun, verb)|quan tâm
+0|group|(noun, verb)|nhóm
+0|risk|(noun, verb)|rủi ro
+0|word|(noun, verb, interjection)|sự thảo luận
+0|fat|(noun, adjective, verb)|Chất béo
+0|force|(noun, verb)|lực
+0|key|(noun, adjective, verb)|chìa khóa
+0|light|(noun, verb, adjective)|Ánh sáng
+0|training|(noun, adjective)|luyện
+0|name|(noun, verb, adjective)|Tên
+0|school|(noun, verb)|trường học
+0|top|(noun, adjective, verb)|trên
+0|amount|(noun, verb)|Thành tiền
+0|level|(noun, adjective, verb)|Cấp Độ
+0|order|(noun, verb)|Đơn hàng
+0|practice|(noun, verb)|luyện tập
+0|research|(noun, verb)|nghiên cứu
+0|sense|(noun, verb)|Giác quan
+0|service|(noun, verb)|service
+0|piece|(noun, verb)|Chiếc
+0|web|(noun, verb)|Web
+0|boss|(noun, verb, adjective)|Ông chủ!
+0|sport|(noun, verb)|Thể thao
+0|fun|(noun, adjective, verb)|Vui vẻ
+0|house|(noun, adjective, verb)|nhà
+0|page|(noun, verb)|trang
+0|term|(noun, verb)|thuật ngữ
+0|test|(noun, verb)|Thử dịch
+0|answer|(noun, verb)|câu trả lời
+0|sound|(noun, verb, adjective)|âm thanh
+0|focus|(noun, verb)|Tiêu điểm
+0|matter|(noun, verb)|vật chất
+0|kind|(noun, adjective)|Kiểu
+0|soil|(noun, verb)|đất
+0|board|(noun, verb)|Bảng
+0|oil|(noun, verb)|dầu mỏ
+0|picture|(noun, verb)|ảnh
+0|access|(noun, verb, adjective)|truy cập
+0|garden|(noun, verb)|vườn cảnh
+0|range|(noun, verb)|DẢI
+0|rate|(noun, verb)|xếp hạng
+0|reason|(noun, verb)|Lý do
+0|future|(noun, adjective)|Kế hoạch
+0|site|(noun, verb)|site
+0|demand|(noun, verb)|nhu cầu
+0|exercise|(noun, verb)|tập thể dục
+0|image|(noun, verb)|hình ảnh
+0|case|(noun, verb)|thể hiện
+0|cause|(noun, verb)|gây ra
+0|coast|(noun, verb)|Duyên hải
+0|action|(noun, adjective)|hoạt động
+0|age|(noun, verb)|Tuối
+0|bad|(noun, adverb, adjective)|xấu
+0|boat|(noun, verb)|thuyền máy
+0|record|(noun, verb)|Bản ghi
+0|result|(noun, verb)|kết quả.
+0|section|(noun, verb)|Mục
+0|building|(noun, verb)|Xây dựng
+0|mouse|(noun, verb)|con chuột
+0|cash|(noun, verb)|Tiền mặt
+0|class|(noun, verb, adjective)|Chi phí vận chuyển
+0|nothing|(noun, pronoun, adjective)|không có gì
+0|period|(noun, adjective)|chu kỳ kinh nguyệt
+0|plan|(noun, verb)|bản vẽ
+0|store|(noun, verb)|cửa hàng
+0|tax|(noun, verb)|Tax
+0|side|(noun, verb)|Bên
+0|subject|(noun, adjective, adverb)|subject
+0|space|(noun, verb)|Khoảng trống
+0|rule|(noun, verb)|QUY TẮC
+0|stock|(noun, adjective, verb)|Số
+0|weather|(noun, verb)|Thời tiết
+0|chance|(noun, adjective, verb)|Cơ hội
+0|figure|(noun, verb)|Hình mẫu
+0|man|(noun, verb, interjection)|nam
+0|model|(noun, verb)|Cấu hình
+0|source|(noun, verb)|nguồn
+0|beginning|(noun, adjective, verb)|nguồn
+0|earth|(noun, verb)|Trái Đất
+0|program|(noun, verb)|Chương trình
+0|chicken|(noun, adjective)|gà
+0|design|(noun, verb)|Thiết kế
+0|feature|(noun, verb)|đặc trưng
+0|head|(noun, adjective, verb)|Đi về
+0|material|(noun, adjective)|vải
+0|purpose|(noun, verb)|hàm số
+0|question|(noun, verb)|cau-hoi
+0|rock|(noun, verb)|đá
+0|salt|(noun, adjective, verb)|muối
+0|act|(noun, verb)|Hành động
+0|birth|(noun, verb)|Ngày sinh
+0|car|(noun, adjective)|xe ô tô
+0|dog|(noun, verb)|chó
+0|object|(noun, verb)|Đối tượng
+0|scale|(noun, verb)|Chỉnh
+0|sun|(noun, verb)|mặt trời
+0|note|(noun, verb)|Lưu ý.
+0|profit|(noun, verb)|lợi nhuận
+0|rent|(noun, verb)|cho thuê
+0|speed|(noun, verb)|tốc độ
+0|style|(noun, verb)|kiểu dáng
+0|war|(noun, verb)|Chiến tranh
+0|bank|(noun, verb)|ngân hàng
+0|craft|(noun, verb)|Chế tạo
+0|half|(noun, predeterminer, adverb)|HALF ON
+0|inside|(noun, adjective, preposition)|bên trong
+0|outside|(noun, adjective, preposition)|bên ngoài
+0|standard|(noun, adjective)|Tiêu chuẩn
+0|bus|(noun, verb)|xe buýt
+0|exchange|(noun, verb)|Trao đổi
+0|eye|(noun, verb)|mắt
+0|fire|(noun, verb)|lửa
+0|position|(noun, verb)|Đã kết nối
+0|pressure|(noun, verb)|áp suất
+0|stress|(noun, verb)|Stress
+0|advantage|(noun, verb)|lợi thế
+0|benefit|(noun, verb)|Lợi Ích
+0|box|(noun, verb)|khung
+0|frame|(noun, verb)|khung
+0|issue|(noun, verb)|xuất bản
+0|step|(noun, verb)|Bước
+0|cycle|(noun, verb)|Chu kỳ
+0|face|(noun, verb)|mặt
+0|item|(noun, adverb)|sản phẩm
+0|metal|(noun, verb)|kim loại
+0|paint|(noun, verb)|màu vẽ
+0|review|(noun, verb)|đánh giá
+0|room|(noun, verb)|phòng
+0|screen|(noun, verb)|Màn hình
+0|structure|(noun, verb)|Cấu trúc
+0|view|(noun, verb)|xem
+0|account|(noun, verb)|tài khoản Úc.
+0|ball|(noun, verb)|quả bóng
+0|discipline|(noun, verb)|Kỷ luật
+0|medium|(noun, adjective)|vừa
+0|share|(noun, verb)|Chia sẻ
+0|balance|(noun, verb)|Cân đối
+0|bit|(noun, verb)|Bit
+0|black|(noun, verb, adjective)|màu đen
+0|bottom|(noun, verb, adjective)|bên dưới
+0|choice|(noun, adjective)|Lựa chọn
+0|gift|(noun, verb)|quà tặng
+0|impact|(noun, verb)|tác động
+0|machine|(noun, verb)|ô tô
+0|shape|(noun, verb)|Hình dạng
+0|tool|(noun, verb)|CÔng cụ
+0|wind|(noun, verb)|gió
+0|address|(noun, verb)|địa chỉ
+0|average|(noun, verb, adjective)|trung bình
+0|career|(noun, verb, adjective)|Nghề nghiệp
+0|culture|(noun, verb)|văn hóa
+0|morning|(noun, adverb)|Buổi sáng
+0|pot|(noun, verb)|chậu
+0|sign|(noun, verb)|Ký tên
+0|table|(noun, verb)|表
+0|task|(noun, verb)|Hoạt động
+0|condition|(noun, verb)|tình trạng
+0|contact|(noun, verb)|liên hệ
+0|credit|(noun, verb)|Có
+0|egg|(noun, verb)|quả trứng
+0|hope|(noun, verb)|mong
+0|ice|(noun, verb)|băng
+0|network|(noun, verb)|mạng
+0|north|(noun, adjective, adverb)|hướng bắc
+0|square|(noun, adjective, adverb)|vuông
+0|attempt|(noun, verb)|試行
+0|date|(noun, verb)|ngày
+0|effect|(noun, verb)|Ảnh hưởng
+0|link|(noun, verb)|liên kết
+0|post|(noun, verb, adverb)|bài viết
+0|star|(noun, verb)|sao
+0|voice|(noun, verb)|音声
+0|capital|(noun, adjective)|thủ đô
+0|challenge|(noun, verb, adjective)|Thách thức
+0|friend|(noun, verb)|bạn bè
+0|self|(noun, pronoun, adjective)|Self
+0|shot|(noun, adjective)|shot
+0|brush|(noun, verb)|Bút vẽ
+0|couple|(noun, verb)|Vợ chồng
+0|debate|(noun, verb)|Cuộc tranh luận
+0|exit|(noun, verb)|thoát
+0|front|(noun, adjective, verb)|MẶT TRƯỚC
+0|function|(noun, verb)|hàm số
+0|lack|(noun, verb)|thiếu sót
+0|living|(noun, adjective)|Phòng khách
+0|plant|(noun, verb)|thực vật
+0|plastic|(noun, adjective)|Nhựa
+0|spot|(noun, verb)|Vết đen
+0|summer|(noun, verb)|mùa hạ
+0|taste|(noun, verb)|Vị
+0|theme|(noun, verb)|Chủ đề
+0|track|(noun, verb)|bài hát
+0|wing|(noun, verb)|WING
+0|brain|(noun, verb)|não
+0|button|(noun, verb)|Nút bấm
+0|click|(noun, verb)|Nhấp vào
+0|desire|(noun, verb)|khao khát
+0|foot|(noun, verb)|chân
+0|gas|(noun, verb)|dung ma
+0|influence|(noun, verb)|Ảnh hưởng
+0|notice|(noun, verb)|Thông báo
+0|rain|(noun, verb)|mưa
+0|wall|(noun, verb)|tường
+0|base|(noun, verb, adjective)|Cơ sở
+0|damage|(noun, verb)|hư hại
+0|distance|(noun, verb)|Khoảng cách:
+0|feeling|(noun, adjective)|Cảm thấy
+0|pair|(noun, verb)|đôi
+0|savings|(noun, adjective, preposition)|Tiết kiệm
+0|staff|(noun, verb)|cán bộ
+0|sugar|(noun, verb)|bien duong
+0|target|(noun, verb)|MỤC TIÊU
+0|text|(noun, verb)|Văn bản
+0|animal|(noun, adjective)|động vật
+0|author|(noun, verb)|URL tác giả của giao diện gốc
+0|budget|(noun, adjective, verb)|Ngân sách
+0|discount|(noun, verb, adjective)|Khuyến mãi
+0|file|(noun, verb)|tập tin
+0|ground|(noun, verb, adjective)|cơ sở
+0|lesson|(noun, verb)|bai-hoc
+0|minute|(noun, adjective, verb)|phút
+0|officer|(noun, verb)|Cán bộ
+0|phase|(noun, verb)|pha
+0|reference|(noun, verb, adjective)|tín hiệu
+0|register|(noun, verb)|Đăng ký lần đầu
+0|sky|(noun, verb)|trời
+0|stage|(noun, verb)|pha
+0|stick|(noun, verb)|Dán
+0|title|(noun, verb)|tiêu đề
+0|trouble|(noun, verb)|rắc rối
+0|bowl|(noun, verb)|cái bát
+0|bridge|(noun, verb)|cầu
+0|campaign|(noun, verb)|chiến dịch
+0|character|(noun, adjective, verb)|Tính cách, ký tự
+0|club|(noun, verb)|Câu lạc bộ
+0|edge|(noun, verb, idiom)|Biên
+0|evidence|(noun, verb, idiom)|[Minh chứng]
+0|fan|(noun, verb, idiom)|Quạt
+0|letter|(noun, verb, idiom)|kí tự
+0|lock|(noun, verb, idiom)|khóa
+0|maximum|(noun, adjective)|maximum
+0|novel|(noun, adjective)|Tiểu thuyết
+0|option|(noun, verb)|Lựa Chọn
+0|pack|(noun, verb, adjective)|Đóng gói
+0|park|(noun, verb)|Công viên
+0|plenty|(noun, adjective, adverb)|rất nhiều
+0|quarter|(noun, verb, adjective)|Quý
+0|skin|(noun, verb)|da
+0|sort|(noun, verb)|Sắp xếp
+0|weight|(noun, verb)|trọng lượng
+0|baby|(noun, verb, adjective)|bé
+0|background|(noun, adjective)|SƠ LƯỢC
+0|carry|(noun, verb)|Mang
+0|dish|(noun, verb, idiom)|Món ăn
+0|factor|(noun, verb)|gene
+0|fruit|(noun, verb)|trái cây
+0|glass|(noun, adjective, verb)|cốc
+0|joint|(noun, adjective, verb)|Danh sách chung
+0|master|(noun, adjective, verb)|Bậc Thầy
+0|muscle|(noun, verb, adjective)|mô cơ
+0|red|(noun, adjective, idiom)|màu đỏ
+0|strength|(noun, idiom)|lực
+0|traffic|(noun, verb)|Giao thông
+0|trip|(noun, verb, idiom)|Chuyến
+0|vegetable|(noun, adjective)|Rau
+0|appeal|(noun, verb)|Kháng cáo
+0|chart|(noun, verb)|Biểu đồ
+0|gear|(noun, verb, adjective)|Thiết bị
+0|ideal|(noun, adjective)|lý tưởng
+0|kitchen|(noun, adjective)|chung
+0|land|(noun, verb, idiom)|quốc gia
+0|log|(noun, verb)|SỔ GHI
+0|mother|(noun, adjective, verb)|á
+0|net|(noun, verb)|net
+0|party|(noun, adjective, verb)|Số lượng
+0|principle|(noun, idiom)|Nguyên tắc
+0|relative|(noun, adjective)|Quan hệ
+0|sale|(noun, idiom)|Giảm giá
+0|season|(noun, verb, idiom)|mùa
+0|signal|(noun, adjective, verb)|Ký hiÖu
+0|spirit|(noun, verb, idiom)|Quỷ
+0|street|(noun, adjective, idiom)|Đường
+0|tree|(noun, verb, idiom)|cây
+0|wave|(noun, verb, idiom)|Sóng
+0|belt|(noun, verb)|thắt lưng
+0|bench|(noun, verb)|Cung độ vận tải
+0|commission|(noun, verb)|Hoa hồng
+0|copy|(noun, verb, idiom)|copy
+0|drop|(noun, verb)|Huỷ
+0|minimum|(noun, adjective)|Nhỏ nhất
+0|path|(noun, idiom)|Đường  dẫn
+0|progress|(noun, verb, idiom)|tiến bộ
+0|project|(noun, verb)|ĐỒ ÁN
+0|sea|(noun, adjective, idiom)|biển
+0|south|(noun, adjective, adverb)|hướng nam
+0|status|(noun, adjective)|tình trạng
+0|stuff|(noun, verb)|vật liệu
+0|ticket|(noun, verb, idiom)|vé
+0|tour|(noun, verb)|tour
+0|angle|(noun, verb)|góc
+0|blue|(noun, verb, adjective)|xanh
+0|breakfast|(noun, verb)|Bữa sáng
+0|confidence|(noun, idiom)|tự tin.
+0|daughter|(noun, adjective)|Con gái
+0|degree|(noun, idiom)|độ
+0|doctor|(noun, verb)|Bác sỹ
+0|dot|(noun, verb, idiom)|Dấu chấm
+0|dream|(noun, verb, adjective)|Giấc mơ
+0|duty|(noun, idiom)|túc trực
+0|essay|(noun, verb)|Sự cố gắng
+0|father|(noun, verb)|ba
+0|fee|(noun, verb)|Phí
+0|finance|(noun, verb)|Tài chính
+0|hour|(noun, adjective, idiom)|giờ
+0|juice|(noun, verb, idiom)|nước ép
+0|limit|(noun, verb)|Giới hạn Bộ nhớ WP
+0|luck|(noun, verb, idiom)|May mắn
+0|milk|(noun, verb, idiom)|sữa
+0|mouth|(noun, verb, idiom)|miệng
+0|peace|(noun, interjection, verb)|hòa bình
+0|pipe|(noun, verb)|Tẩu
+0|seat|(noun, verb)|ghế
+0|stable|(noun, verb)|Ổn định
+0|storm|(noun, verb, idiom)|bão
+0|substance|(noun, idiom)|hạt nhân
+0|team|(noun, verb, adjective)|Team
+0|trick|(noun, adjective, verb)|thủ thuật
+0|afternoon|(noun, adjective)|Buổi chiều
+0|bat|(noun, verb)|Bộ Dơi
+0|beach|(noun, verb)|Bãi biển
+0|blank|(noun, verb, adjective)|ブランク
+0|catch|(noun, verb)|bắt lấy
+0|chain|(noun, verb)|Chuỗi
+0|consideration|(noun, idiom)|Xem xét
+0|cream|(noun, verb, adjective)|Kem
+0|crew|(noun, verb)|phi hành đoàn
+0|detail|(noun, verb, idiom)|Chi tiết
+0|gold|(noun, adjective)|(bằng) vàng
+0|interview|(noun, verb)|phỏng vấn
+0|kid|(noun, verb, adjective)|trẻ em
+0|mark|(noun, verb, idiom)|Điểm
+0|match|(noun, verb)|MATCH
+0|mission|(noun, adjective)|Nhiệm vụ
+0|pain|(noun, verb, idiom)|Đau
+0|pleasure|(noun, verb)|Niềm vui
+0|score|(noun, verb, idiom)|lang
+0|screw|(noun, verb, idiom)|Ốc vít
+0|sex|(noun, verb, idiom)|Giới tính
+0|shop|(noun, verb, interjection)|shop
+0|shower|(noun, verb, idiom)|vòi hoa sen
+0|suit|(noun, verb, idiom)|bộ đồ
+0|tone|(noun, verb)|tấn
+0|window|(noun, verb)|cửa sổ
+0|agent|(noun, adjective, verb)|Tư vấn viên
+0|band|(noun, verb)|Ban nhạc
+0|block|(noun, verb)|Chặn
+0|bone|(noun, verb, adverb)|xương
+0|calendar|(noun, verb)|カレンダー
+0|cap|(noun, verb)|Cap
+0|coat|(noun, verb)|áo khoác
+0|contest|(noun, verb)|Cuộc thi
+0|corner|(noun, adjective, verb)|コーナー
+0|court|(noun, verb, idiom)|tòa án
+0|cup|(noun, verb)|Cúp
+0|district|(noun, verb)|Quận/Huyện
+0|door|(noun, idiom)|cửa
+0|east|(noun, adjective, adverb)|hướng đông
+0|finger|(noun, verb, idiom)|Ngón tay
+0|garage|(noun, verb)|nhà xe
+0|guarantee|(noun, verb)|bảo lãnh
+0|hole|(noun, verb, idiom)|Lô
+0|hook|(noun, verb, idiom)|Kéo
+0|implement|(noun, verb)|Triển Khai
+0|layer|(noun, verb)|khối:
+0|lecture|(noun, verb)|Bài giảng
+0|lie|(noun, verb, idiom)|lời nói dối
+0|manner|(noun, idiom)|cách thức
+0|meeting|(noun, idiom)|chuuẩn bị
+0|nose|(noun, verb, idiom)|mũi
+0|parking|(noun, adjective)|Gửi xe
+0|partner|(noun, verb)|Đối tác
+0|profile|(noun, verb)|profile
+0|respect|(noun, verb)|Tôn trọng
+0|rice|(noun, verb)|gạo
+0|routine|(noun, adjective)|công Việt Hằng ngày
+0|schedule|(noun, verb)|lịch trình
+0|swimming|(noun, adjective)|bơi lội
+0|telephone|(noun, verb)|điện thoại
+0|tip|(noun, verb)|Mẹo
+0|winter|(noun, adjective, verb)|mùa đông
+0|airline|(noun, adjective)|Hãng hàng không
+0|bag|(noun, verb)|bao
+0|battle|(noun, verb)|Trận chiến
+0|bed|(noun, verb)|giường ngủ
+0|bill|(noun, verb)|hóa đơn
+0|bother|(noun, verb)|làm phiền
+0|cake|(noun, verb)|bò hun khói
+0|code|(noun, verb)|tính năng
+0|curve|(noun, verb, idiom)|Cong
+0|designer|(noun, adjective)|Nhà thiết kế
+0|dimension|(noun, verb)|Kích thước
+0|dress|(noun, adjective, verb)|Váy
+0|ease|(noun, verb)|Dễ
+0|emergency|(noun, adjective)|KHẨN CẤP
+0|evening|(noun, adjective)|Chào buổi tối
+0|extension|(noun, adjective)|Mở rộng
+0|farm|(noun, verb, idiom)|Farm
+0|fight|(noun, verb)|ĐÁNH
+0|gap|(noun, verb)|Khe
+0|grade|(noun, verb)|lớp
+0|holiday|(noun, adjective, verb)|(period of time +) nghỉ hè
+0|horror|(noun, adjective)|kinh dị
+0|horse|(noun, verb, adjective)|con ngựa
+0|host|(noun, verb)|máy chủ
+0|husband|(noun, verb)|chồng
+0|loan|(noun, verb, idiom)|Tiền vay
+0|mistake|(noun, verb, idiom)|lỗi
+0|mountain|(noun, adjective, idiom)|núi
+0|nail|(noun, verb, idiom)|Móng (động vật)
+0|noise|(noun, verb)|Tiếng ồn
+0|occasion|(noun, verb, idiom)|dịp
+0|package|(noun, verb)|trọn gói
+0|patient|(noun, adjective)|bệnh nhân
+0|pause|(noun, verb, idiom)|Tạm dừng
+0|phrase|(noun, verb)|Cụm từ
+0|proof|(noun, adjective, verb)|bằng chứng
+0|race|(noun, verb)|Đua
+0|relief|(noun, idiom)|cứu trợ
+0|sand|(noun, verb, idiom)|bụi
+0|sentence|(noun, verb)|câu.
+0|shoulder|(noun, verb, idiom)|Vai
+0|smoke|(noun, verb, idiom)|Khói
+0|stomach|(noun, verb)|dạ dày
+0|string|(noun, verb, idiom)|chuỗi
+0|tourist|(noun, adverb)|Du lịch
+0|towel|(noun, verb)|khăn tắm
+0|vacation|(noun, verb)|(period of time +) nghỉ hè
+0|west|(noun, adjective, adverb)|hướng tây
+0|wheel|(noun, verb, idiom)|xe đạp
+0|wine|(noun, adjective, verb)|rượu
+0|arm|(noun, verb)|Cánh tay
+0|aside|(noun, adverb)|Ghi chú
+0|associate|(noun, verb, adjective)|Liên kết
+0|bet|(noun, verb)|Đặt cược
+0|blow|(noun, verb)|Blow
+0|border|(noun, verb)|Đường viền
+0|branch|(noun, verb)|CHI NHÁNH
+0|breast|(noun, verb)|Vú
+0|brother|(noun, interjection)|Em trai
+0|buddy|(noun, verb)|Bạn bè
+0|bunch|(noun, verb)|Bó
+0|chip|(noun, verb)|Chip
+0|coach|(noun, verb, adverb)|huấn luyện
+0|cross|(noun, verb, adjective)|クロス
+0|document|(noun, verb)|Hồ sơ
+0|draft|(noun, verb, adjective)|Bản nháp
+0|dust|(noun, verb)|bão cát
+0|expert|(noun, adjective)|Lão làng
+0|floor|(noun, verb)|Sàn nhà
+0|god|(noun, interjection)|Thiên Chúa
+0|golf|(noun, verb)|môn đánh golf
+0|habit|(noun, verb)|thói quen
+0|iron|(noun, verb)|sắt
+0|judge|(noun, verb)|Thẩm phán
+0|knife|(noun, verb)|con dao
+0|landscape|(noun, verb)|風景
+0|league|(noun, verb)|liên đoàn
+0|mail|(noun, verb)|Nhập tên đăng nhập hoặc địa chỉ email.
+0|mess|(noun, verb)|Lộn xộn
+0|native|(noun, adjective)|Tự nhiên
+0|opening|(noun, adjective)|Đang Mở
+0|parent|(noun, verb)|parent
+0|pattern|(noun, verb)|Mẫu
+0|pin|(noun, verb)|ghim
+0|pool|(noun, verb)|プール
+0|pound|(noun, verb)|Bảng Anh
+0|request|(noun, verb)|yêu cầu
+0|salary|(noun, verb)|Lương
+0|shame|(noun, verb)|xấu hổ
+0|shelter|(noun, verb)|nơi trú ẩn
+0|shoe|(noun, verb)|Giày
+0|silver|(noun, adjective, verb)|bạc
+0|tackle|(noun, verb)|Giải quyết
+0|tank|(noun, verb)|Xe tăng
+0|trust|(noun, verb)|Tin tưởng
+0|assist|(noun, verb)|trợ giúp
+0|bake|(noun, verb)|Bake
+0|bar|(noun, verb, preposition)|Bar
+0|bell|(noun, verb)|(cái) chuông
+0|bike|(noun, verb)|xe đạp
+0|blame|(noun, verb)|đổ lỗi
+0|boy|(noun, interjection)|Tiếng Anh
+0|brick|(noun, verb)|gạch
+0|chair|(noun, verb)|ghế
+0|closet|(noun, verb, adjective)|tủ quần áo
+0|clue|(noun, verb)|Đầu mối
+0|collar|(noun, verb)|Cổ áo
+0|comment|(noun, verb)|bình luận
+0|conference|(noun, verb)|hội nghị
+0|devil|(noun, verb)|quy su ha
+0|diet|(noun, verb)|CHẾ ĐỘ ĂN KIÊNG:
+0|fear|(noun, verb)|Sợ
+0|fuel|(noun, verb)|Nhiên Liệu
+0|glove|(noun, verb)|găng tay
+0|jacket|(noun, verb)|áo khoác
+0|lunch|(noun, verb)|bữa ăn trưa
+0|monitor|(noun, verb)|BỘ THEO DÕI
+0|mortgage|(noun, verb)|Thế chấp
+0|nurse|(noun, verb)|Y tá
+0|pace|(noun, verb, preposition)|tốc độ
+0|panic|(noun, verb)|hoảng loạn
+0|peak|(noun, verb, adjective)|Peak
+0|plane|(noun, adjective, verb)|máy bay
+0|reward|(noun, verb)|KHEN THƯỞNG
+0|row|(noun, verb)|dòng
+0|sandwich|(noun, verb)|bánh mì kẹp
+0|shock|(noun, verb)|Rung lắc
+0|spite|(noun, verb)|Bất bình
+0|spray|(noun, verb)|Phun bọt
+0|surprise|(noun, verb)|bat ngo
+0|till|(noun, verb)|đến
+0|transition|(noun, verb)|CHuyển đổi
+0|weekend|(noun, verb)|Cuối tuần
+0|welcome|(noun, interjection, verb)|Chào mừng bạn đến
+0|yard|(noun, verb)|Yard
+0|alarm|(noun, verb)|Còi báo động
+0|bend|(noun, verb)|bẻ cong
+0|bicycle|(noun, verb)|xe đạp
+0|bite|(noun, verb)|cắn
+0|blind|(noun, verb, adjective)|Ngày mù
+0|bottle|(noun, verb)|(con) chai (1&amp
+0|cable|(noun, verb)|Cáp
+0|candle|(noun, verb)|Nến
+0|clerk|(noun, verb)|thư ký
+0|cloud|(noun, verb)|đám mây
+0|concert|(noun, verb)|Buổi hòa nhạc
+0|counter|(noun, verb, adverb)|Người đếm
+0|flower|(noun, verb)|hoa
+0|grandfather|(noun, verb)|Ông
+0|harm|(noun, verb)|làm hại
+0|knee|(noun, verb)|chavakano
+0|lawyer|(noun, verb)|Luật sư
+0|leather|(noun, adjective, verb)|Da thuộc
+0|load|(noun, verb)|Trọng tải
+0|mirror|(noun, verb)|gương
+0|neck|(noun, verb)|Cổ
+0|pension|(noun, verb)|Tiền cấp dưỡng
+0|plate|(noun, verb)|cái đĩa
+0|purple|(noun, adjective, verb)|màu tím
+0|ruin|(noun, verb)|Hủy hoại
+0|ship|(noun, verb)|Tàu thủy
+0|skirt|(noun, verb)|váy
+0|slice|(noun, verb)|Lát
+0|snow|(noun, verb)|tuyết
+0|specialist|(noun, adjective)|Chuyên gia trong
+0|stroke|(noun, verb)|đột quỵ
+0|switch|(noun, verb)|chuyển đổi
+0|trash|(noun, verb)|Rác
+0|tune|(noun, verb)|Điều chỉnh
+0|zone|(noun, verb)|Vùng
+0|anger|(noun, verb)|Tức giận
+0|award|(noun, verb)|Giải thưởng
+0|bid|(noun, verb)|Đấu Thầu
+0|bitter|(noun, adjective)|cay đắng
+0|boot|(noun, verb)|Ủng
+0|bug|(noun, verb)|Lỗi #
+0|camp|(noun, verb, adjective)|trại
+0|candy|(noun, verb)|Kẹo
+0|carpet|(noun, verb)|thảm
+0|cat|(noun, verb)|con mèo
+0|champion|(noun, verb)|Quán quân
+0|channel|(noun, verb)|Kênh
+0|clock|(noun, verb)|Đồng hồ
+0|comfort|(noun, verb)|Comfort
+0|cow|(noun, verb)|con bò
+0|crack|(noun, verb, adjective)|đứt gãy
+0|engineer|(noun, verb)|Kỹ sư
+0|entrance|(noun, verb)|Sự đi vào
+0|fault|(noun, verb)|lỗi
+0|grass|(noun, verb)|cỏ
+0|guy|(noun, verb)|chàng
+0|hell|(noun, interjection)|Địa ngục
+0|highlight|(noun, verb)|Nổi bật
+0|incident|(noun, adjective)|Sự việc bất ngờ:
+0|island|(noun, verb)|đảo
+0|joke|(noun, verb)|Mẩu truyện cười
+0|jury|(noun, verb, adjective)|Bồi thẩm đoàn
+0|leg|(noun, verb)|chân
+0|lip|(noun, verb)|Môi
+0|mate|(noun, verb)|Mate
+0|motor|(noun, adjective, verb)|mô tơ
+0|nerve|(noun, verb)|Hệ thần kinh
+0|passage|(noun, verb)|đoạn văn
+0|pen|(noun, verb)|cái bút
+0|pride|(noun, verb)|tự hào
+0|priest|(noun, verb)|LINH MỤC
+0|prize|(noun, adjective, verb)|giải thưởng
+0|promise|(noun, verb)|lời hứa
+0|resident|(noun, adjective)|cư dân
+0|resort|(noun, verb)|Khu nghỉ mát
+0|ring|(noun, verb)|gọi
+0|roof|(noun, verb)|mái nhà
+0|rope|(noun, verb)|dây thừng
+0|sail|(noun, verb)|Buồm
+0|scheme|(noun, verb)|hệ thống
+0|script|(noun, verb)|Kịch bản
+0|sock|(noun, verb)|Bít tất
+0|station|(noun, verb)|trạm
+0|toe|(noun, verb)|Ngón chân
+0|tower|(noun, verb)|Tháp
+0|truck|(noun, verb)|Xe tải
+0|witness|(noun, verb)|NHÂN CHỨNG:
+0|a|(indefinite article, noun, preposition)|a
+0|you|(pronoun, noun)|bạn
+0|it|(pronoun, noun)|Bạn
+0|can|(auxiliary verb, noun)|có thể
+0|will|(auxiliary verb, noun)|sẽ
+0|if|(conjunction, noun)|nếu
+0|one|(adjective, noun, pronoun)|một
+0|many|(adjective, noun, pronoun)|Nhiều
+0|most|(adjective, noun, adverb)|gần (như)
+0|other|(adjective, noun, pronoun)|khác
+0|use|(verb, noun)|sử dụng
+0|make|(verb, noun)|Hãng
+0|good|(adjective, noun, adverb)|tốt
+0|look|(verb, noun, interjection)|nhin
+0|help|(verb, noun, interjection)|trợ giúp
+0|go|(verb, noun, adjective)|đi
+0|great|(adjective, noun, adverb)|Tuyệt quá
+0|being|(verb, noun)|Đang được sử dụng
+0|few|(adjective, noun, pronoun)|Mới vài
+0|might|(auxiliary verb, noun)|Nguồn điện
+0|still|(adjective, noun, adverb)|Vẫn còn
+0|public|(adjective, noun)|công khai
+0|read|(verb, noun)|Đọc
+0|keep|(verb, noun)|Giữ
+0|start|(verb, noun)|Bắt đầu
+0|give|(verb, noun)|Đưa
+0|human|(adjective, noun)|loài người
+0|local|(adjective, noun)|Địa phương
+0|general|(adjective, noun)|Chung
+0|she|(pronoun, noun)|bà ấy
+0|specific|(adjective, noun)|thuốc đặc trị
+0|long|(adjective, noun, adverb)|Dài
+0|play|(verb, noun)|Phát
+0|feel|(verb, noun)|cảm thấy
+0|high|(adjective, noun, adverb)|cao
+0|tonight|(adverb, noun)|Toi nay
+0|put|(verb, noun)|Đặt
+0|common|(adjective, noun)|Chung
+0|set|(verb, noun, adjective)|bộ
+0|change|(verb, noun)|thay đổi
+0|simple|(adjective, noun)|đon giản.
+0|past|(adjective, noun, preposition)|quá khứ
+0|big|(adjective, noun)|đại
+0|possible|(adjective, noun)|có thể.
+0|particular|(adjective, noun)|cụ thể
+0|today|(adverb, noun)|Hôm nay
+0|major|(adjective, noun, verb)|Chính
+0|personal|(adjective, noun)|Cá nhân
+0|current|(adjective, noun)|hiện tại
+0|national|(adjective, noun)|Dân tộc
+0|cut|(verb, noun)|cắt
+0|natural|(adjective, noun, adverb)|Thông thường
+0|physical|(adjective, noun)|Thư phát tay
+0|show|(verb, noun)|hiển thị
+0|try|(verb, noun)|truy
+0|check|(verb, noun, interjection)|Kiểm tra
+0|second|(number, noun)|Thứ hai
+0|call|(verb, noun)|gọi
+0|move|(verb, noun)|Di chuyển
+0|pay|(verb, noun)|trả
+0|let|(verb, noun)|để cho
+0|increase|(verb, noun)|tăng lên
+0|single|(adjective, noun, verb)|đơn
+0|individual|(adjective, noun)|Cá nhân
+0|turn|(verb, noun)|LƯỢT TIẾP THEO
+0|ask|(verb, noun)|hỏi
+0|buy|(verb, noun)|mua
+0|guard|(verb, noun)|BẢO VỆ
+0|hold|(verb, noun)|núm điều tác
+0|main|(adjective, noun)|chính
+0|offer|(verb, noun)|đề xuất
+0|potential|(adjective, noun)|Kha nang
+0|professional|(adjective, noun)|chuyên viên
+0|international|(adjective, noun)|Quốc tế
+0|travel|(verb, noun)|đi
+0|cook|(verb, noun)|Nấu ăn
+0|alternative|(adjective, noun)|Văn bản thay thế
+0|following|(preposition, noun, adjective)|theo dõi
+0|special|(adjective, noun)|đặc biệt
+0|working|(adjective, noun)|làm việc
+0|whole|(adjective, noun, adverb)|Cả Năm
+0|dance|(verb, noun)|Nhảy
+0|excuse|(verb, noun)|tha
+0|cold|(adjective, noun, adverb)|Rét
+0|commercial|(adjective, noun)|Thương mại
+0|low|(adjective, noun, adverb)|thấp
+0|purchase|(verb, noun)|Tiếp tục
+0|deal|(verb, noun)|thỏa thuận
+0|primary|(adjective, noun)|Thứ nhất
+0|worth|(adjective, noun)|giá trị
+0|fall|(verb, noun)|mùa thu
+0|necessary|(adjective, noun)|nếu cần thiết.
+0|positive|(adjective, noun)|dương
+0|produce|(verb, noun)|Hoa màu
+0|search|(verb, noun)|tìm kiếm
+0|present|(adjective, noun, verb)|nay
+0|spend|(verb, noun)|Tiêu
+0|talk|(verb, noun)|tam su
+0|creative|(adjective, noun)|Tài nguyên
+0|tell|(verb, noun)|ĐT:
+0|cost|(verb, noun)|Giá
+0|drive|(verb, noun)|chiến dịch
+0|green|(adjective, noun, verb)|màu xanh lục
+0|support|(verb, noun)|24h
+0|glad|(adjective, noun)|Vui
+0|remove|(verb, noun)|gỡ
+0|return|(verb, noun)|Trở lại
+0|run|(verb, noun)|Chạy
+0|complex|(adjective, noun, verb)|Hoàn thành
+0|due|(adjective, noun, adverb)|Đến hạn
+0|effective|(adjective, noun)|Có tác động
+0|middle|(adjective, noun)|TRUNG BÌNH
+0|regular|(adjective, noun)|thường xuyên
+0|reserve|(verb, noun)|Đặt trước
+0|independent|(adjective, noun)|sống độc lập
+0|leave|(verb, noun)|lại
+0|original|(adjective, noun)|nguyên gốc
+0|reach|(verb, noun)|tiếp cận
+0|rest|(verb, noun)|Phần còn lại
+0|serve|(verb, noun)|Phục vụ
+0|watch|(verb, noun)|đồng hồ
+0|beautiful|(adjective, noun, interjection)|đẹp
+0|charge|(verb, noun)|điện tích
+0|active|(adjective, noun)|đang hoạt động
+0|break|(verb, noun)|Nghỉ giải lao
+0|negative|(adjective, noun, interjection)|Âm
+0|safe|(adjective, noun)|AN TOÀN
+0|stay|(verb, noun)|ở khách sạn
+0|visit|(verb, noun)|truy cập
+0|visual|(adjective, noun)|Trực quan
+0|affect|(verb, noun)|Ảnh hưởng đến
+0|cover|(verb, noun)|Phủ
+0|report|(verb, noun)|BÁO CÁO
+0|rise|(verb, noun)|Tăng lên
+0|walk|(verb, noun)|đi bộ
+0|white|(adjective, noun, verb)|màu trắng
+0|beyond|(preposition, noun)|vượt qua giới hạn
+0|junior|(adjective, noun)|em
+0|pick|(verb, noun)|Chọn
+0|unique|(adjective, noun)|duy nhất
+0|anything|(pronoun, noun, adverb)|những thứ khác.
+0|classic|(adjective, noun)|Cổ điển
+0|final|(adjective, noun)|Cuối cùng
+0|lift|(verb, noun)|thang máy
+0|mix|(verb, noun)|pha trộn
+0|private|(adjective, noun)|tư
+0|stop|(verb, noun)|Dừng
+0|teach|(verb, noun)|Dạy
+0|western|(adjective, noun)|Hướng tây
+0|concern|(verb, noun)|mối quan ngại
+0|familiar|(adjective, noun)|Linh hồn ma vật
+0|fly|(verb, noun)|Bay
+0|official|(adjective, noun)|Chính thức
+0|broad|(adjective, noun)|rộng lớn
+0|comfortable|(adjective, noun)|khong yen tam
+0|gain|(verb, noun)|Đạt được
+0|maybe|(adverb, noun)|Có lẽ
+0|rich|(adjective, noun)|giàu có
+0|save|(verb, noun, preposition)|lưu
+0|stand|(verb, noun)|1 kệ đứng
+0|young|(adjective, noun)|Young
+0|fail|(verb, noun)|KHÔNG ĐẠT
+0|heavy|(adjective, noun, adverb)|nặng
+0|hello|(interjection, noun)|Xin Chào
+0|lead|(verb, noun)|chì
+0|listen|(verb, noun)|nghe
+0|valuable|(adjective, noun)|Giá trị
+0|worry|(verb, noun)|Lo âu
+0|handle|(verb, noun)|núm điều tác
+0|leading|(adjective, noun)|Dẫn tới
+0|meet|(verb, noun)|gặp mặt
+0|release|(verb, noun)|xuất bản
+0|sell|(verb, noun)|Bán
+0|finish|(verb, noun)|đích
+0|normal|(adjective, noun)|bình thường
+0|press|(verb, noun)|nhấn
+0|ride|(verb, noun)|đi chơi
+0|secret|(adjective, noun)|Bí mật
+0|spread|(verb, noun)|độ phân bổ
+0|spring|(verb, noun)|lò xo
+0|tough|(adjective, noun)|khó khăn
+0|wait|(verb, noun)|Chờ
+0|brown|(adjective, noun, verb)|màu nâu
+0|deep|(adjective, noun, adverb)|Sâu
+0|display|(verb, noun)|giao diện
+0|flow|(verb, noun)|dòng chảy
+0|hit|(verb, noun)|Sản phẩm hot
+0|objective|(adjective, noun)|Mục tiêu
+0|shoot|(verb, noun, interjection)|bắn
+0|touch|(verb, noun)|Chạm
+0|cancel|(verb, noun)|hủy
+0|chemical|(adjective, noun)|Bộ Dụng cụ Hóa Chất
+0|cry|(verb, noun, idiom)|Khóc
+0|dump|(verb, noun, idiom)|Đổ
+0|extreme|(adjective, noun)|cực
+0|push|(verb, noun, idiom)|nút
+0|conflict|(verb, noun)|Xung đột
+0|eat|(verb, noun, idiom)|ăn
+0|fill|(verb, noun, idiom)|Điền đầy
+0|formal|(adjective, noun, adverb)|Chính thức
+0|jump|(verb, noun, adjective)|Trình đơn nhảy
+0|kick|(verb, noun, idiom)|Cước
+0|opposite|(adjective, noun, preposition)|Đối diện
+0|pass|(verb, noun, idiom)|qua
+0|pitch|(verb, noun)|Sân để chơi thể thao có vạch
+0|remote|(adjective, noun)|Dạy Online / Từ xa
+0|total|(adjective, noun, verb)|tổng
+0|treat|(verb, noun)|Treat
+0|vast|(adjective, noun)|Rộng lớn
+0|abuse|(verb, noun)|Lạm dụng
+0|beat|(verb, noun, adjective)|Phách
+0|burn|(verb, noun)|Bỏng
+0|deposit|(verb, noun)|Tiền gửi
+0|print|(verb, noun, adjective)|In
+0|raise|(verb, noun, idiom)|nâng cao
+0|sleep|(verb, noun, idiom)|Ngủ
+0|somewhere|(adverb, noun)|một nơi nào đó
+0|advance|(verb, noun, adjective)|Khoản tạm ứng
+0|anywhere|(adverb, noun)|bất cứ nơi nào
+0|consist|(verb, noun)|Bao gồm
+0|dark|(adjective, noun, idiom)|Màu tối
+0|double|(adjective, noun, verb)|nét đôi
+0|draw|(verb, noun, idiom)|Huề
+0|equal|(adjective, noun, verb)|bằng
+0|fix|(verb, noun, idiom)|"Sửa chữa ___"
+0|hire|(verb, noun, adjective)|thuê mướn
+0|internal|(adjective, noun)|Tùy chọn 1
+0|join|(verb, noun)|Tham gia
+0|kill|(verb, noun, idiom)|Tiêu diệt
+0|sensitive|(adjective, noun)|tự ái
+0|tap|(verb, noun)|TAP
+0|win|(verb, noun)|Thắng
+0|attack|(verb, noun)|Tấn công
+0|claim|(verb, noun)|Yêu cầu
+0|constant|(adjective, noun)|Hằng số
+0|drag|(verb, noun, adjective)|kéo
+0|drink|(verb, noun)|Thức uống
+0|guess|(verb, noun, idiom)|Ước tính
+0|minor|(adjective, noun, verb)|trẻ em
+0|pull|(verb, noun)|KÉO
+0|raw|(adjective, noun, idiom)|Thô
+0|soft|(adjective, noun, adverb)|Mùi nhẹ
+0|solid|(adjective, noun)|nét liền
+0|wear|(verb, noun, idiom)|MANG
+0|weird|(adjective, noun)|Lạ
+0|wonder|(verb, noun, idiom)|thắc mắc
+0|annual|(adjective, noun)|Hàng năm
+0|count|(verb, noun, adjective)|Số lượng
+0|dead|(adjective, noun, adverb)|Chết
+0|doubt|(verb, noun, idiom)|nghi ngờ
+0|feed|(verb, noun, idiom)|Cung cấp
+0|forever|(adverb, noun, idiom)|Mãi mãi
+0|impress|(verb, noun)|gây ấn tượng
+0|nobody|(pronoun, noun)|Không có ai
+0|repeat|(verb, noun)|Lặp lại
+0|round|(adjective, noun, adverb)|tròn
+0|sing|(verb, noun)|hát
+0|slide|(verb, noun, idiom)|Slide
+0|strip|(verb, noun)|Dải
+0|whereas|(conjunction, noun)|XÉT THÁY
+0|wish|(verb, noun)|Muốn
+0|combine|(verb, noun)|Kết hợp
+0|command|(verb, noun)|Lệnh
+0|dig|(verb, noun)|Đào
+0|divide|(verb, noun)|chia ra
+0|equivalent|(adjective, noun)|đương lượng
+0|hang|(verb, noun, idiom)|treo
+0|hunt|(verb, noun)|đi săn
+0|initial|(adjective, noun, verb)|dạng ban đầu
+0|march|(verb, noun, idiom)|Tháng 3
+0|mention|(verb, noun, idiom)|Nhắc đến
+0|smell|(verb, noun)|ngửi
+0|spiritual|(adjective, noun)|tinh thần
+0|survey|(verb, noun)|khảo sát, thăm dò
+0|tie|(verb, noun, idiom)|cà vạt
+0|adult|(adjective, noun)|người lớn
+0|brief|(adjective, noun, verb)|mô tả
+0|crazy|(adjective, noun, idiom)|khung khung dien dien
+0|escape|(verb, noun, adjective)|THOÁT
+0|gather|(verb, noun, idiom)|Quây quần
+0|hate|(verb, noun)|Ghét
+0|prior|(adjective, noun, idiom)|Nghệ thuật nguyên thủy
+0|repair|(verb, noun)|Sửa
+0|rough|(adjective, noun, adverb)|thô
+0|sad|(adjective, noun)|Buồn rầu
+0|scratch|(verb, noun, adjective)|Vết xước
+0|sick|(adjective, noun, idiom)|Đau
+0|strike|(verb, noun, adjective)|tấn công
+0|employ|(verb, noun)|áp dụng
+0|external|(adjective, noun)|Bên ngoài
+0|hurt|(verb, noun)|Vết thương
+0|illegal|(adjective, noun)|Bất hợp pháp
+0|laugh|(verb, noun)|cười
+0|lay|(verb, noun, adjective)|lay
+0|mobile|(adjective, noun)|Di động
+0|nasty|(adjective, noun)|Khó chịu
+0|ordinary|(adjective, noun)|Bình thường
+0|respond|(verb, noun)|trả lời (1)
+0|royal|(adjective, noun)|Quý tộc
+0|senior|(adjective, noun)|Trợ lý cấp cao
+0|split|(verb, noun)|Tách
+0|strain|(verb, noun)|sức căng
+0|struggle|(verb, noun)|
+0|swim|(verb, noun)|bơi
+0|train|(verb, noun)|tàu
+0|upper|(adjective, noun)|trên:
+0|wash|(verb, noun)|rửa
+0|yellow|(adjective, noun, verb)|màu vàng
+0|convert|(verb, noun)|Người theo đạo
+0|crash|(verb, noun, adjective)|tai nạn
+0|dependent|(adjective, noun)|Thêm người phụ thuộc
+0|fold|(verb, noun)|Gập
+0|funny|(adjective, noun)|buồn cười
+0|grab|(verb, noun)|Gọi một
+0|hide|(verb, noun)|ẩn
+0|miss|(verb, noun)|Cô
+0|permit|(verb, noun)|giấy phép
+0|quote|(verb, noun)|báo giá
+0|recover|(verb, noun)|Khôi phục
+0|resolve|(verb, noun)|giải quyết
+0|roll|(verb, noun)|cuốn
+0|sink|(verb, noun)|Chậu treo tường
+0|slip|(verb, noun)|Trượt
+0|spare|(adjective, noun, verb)|phụ tùng
+0|suspect|(verb, noun, adjective)|nghi ngờ
+0|sweet|(adjective, noun)|Ngọt nhẹ
+0|swing|(verb, noun)|lung lay
+0|twist|(verb, noun)|
+0|upstairs|(adjective, noun)|Cầu thang
+0|usual|(adjective, noun)|Không hơn bình thường.
+0|abroad|(adverb, noun)|Ngoài nước
+0|brave|(adjective, noun, verb)|dũng cảm
+0|calm|(adjective, noun, verb)|trời lặng
+0|concentrate|(verb, noun)|Tập trung
+0|estimate|(verb, noun)|Chi phí Ước tính
+0|grand|(adjective, noun)|Giá trị trung bình sau cùng
+0|male|(adjective, noun)|Nam
+0|mine|(pronoun, noun, verb)|mỏ
+0|prompt|(verb, noun, adjective)|Nhắc nhở
+0|quiet|(adjective, noun, verb)|Câm mồm!
+0|refuse|(verb, noun)|Bác bỏ
+0|regret|(verb, noun)|Hối tiếc
+0|reveal|(verb, noun)|Tiết lộ
+0|rush|(verb, noun)|vội vàng
+0|shake|(verb, noun)|Shake
+0|shift|(verb, noun)|Sự thay đổi
+0|shine|(verb, noun)|tỏa sáng
+0|steal|(verb, noun)|ăn cắp
+0|suck|(verb, noun)|Hút
+0|surround|(verb, noun)|môi trường
+0|anybody|(pronoun, noun)|bất cứ ai
+0|bear|(verb, noun)|Gấu
+0|brilliant|(adjective, noun)|rực rỡ
+0|dare|(verb, noun)|dám
+0|dear|(adjective, noun, adverb)|Gửi
+0|delay|(verb, noun)|Độ trễ
+0|drunk|(adjective, noun)|Say rượu
+0|female|(adjective, noun)|Nữ
+0|hurry|(verb, noun)|Nhanh
+0|inevitable|(adjective, noun)|chắc chắn xảy ra
+0|invite|(verb, noun)|Mời
+0|kiss|(verb, noun)|hôn
+0|neat|(adjective, noun)|gọn gàng
+0|pop|(verb, noun, adverb)|Bật lên
+0|punch|(verb, noun)|Cú đấm
+0|quit|(verb, noun)|thoát
+0|reply|(verb, noun)|trả lời
+0|representative|(adjective, noun)|Đại diện bởi
+0|resist|(verb, noun)|chống lại
+0|rip|(verb, noun)|Rip
+0|rub|(verb, noun)|RUB
+0|silly|(adjective, noun)|điên
+0|smile|(verb, noun)|cười
+0|spell|(verb, noun)|Câu thần chú, bùa mê
+0|stretch|(verb, noun)|Kéo dài ra
+0|stupid|(adjective, noun)|ngu ngốc
+0|tear|(verb, noun)|giọt nước mắt
+0|temporary|(adjective, noun)|Thời vụ
+0|tomorrow|(adverb, noun)|Ngày mai
+0|wake|(verb, noun)|Thức dậy
+0|wrap|(verb, noun)|cuốn
+0|yesterday|(adverb, noun)|hôm qua

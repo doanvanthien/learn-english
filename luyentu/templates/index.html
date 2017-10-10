@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Luyện từ</title>
+<script type="text/javascript">
+	function change_background_when_over(target){
+		var id = target.getAttribute('name');
+		var i = document.getElementById(id);
+		if (id == null){
+			return;
+		}
+		i.style.background = "#F1EBE4";
+		i.style.borderRadius = "10px";
+
+	}
+	function change_background_when_leave(target){
+		var id = target.getAttribute('name');
+		var i = document.getElementById(id);
+		i.style.background = "none";
+
+	}
+	function when_click(target){
+		var link = target.getAttribute('name');
+		window.location = '/luyentu/' + link;
+	}
+</script>
+
+<style type="text/css">
+	body{
+		background: #ccc;
+	}
+	i{
+		padding: 45px;
+		background: #ccc;
+		height: 500px;
+	}
+	
+	i+i{
+		margin-left: 100px;
+	}
+	span{
+		transition-duration: 1s;
+		opacity: 0
+	}
+	button{
+		background: #C9f6FF;
+		border-collapse: none;border-style: none;
+		width: 170px;
+		border-radius: 90px;
+		text-decoration: none;
+		padding: 15px;
+		outline: none;
+		font-size: 1.1em;
+		font-family: 'Time New Roman';
+		transition-duration: 1s;
+		opacity: 0.7;
+	}
+	button:hover{
+		cursor: pointer;
+		opacity: 1;
+	}
+	button:focus{
+		background: #d9a7c7;
+	}
+	button:hover span:after{
+		content: '\00bb';
+	}
+	button:hover span{
+		padding-right: 20px;
+		opacity: 1;
+	}
+	button:hover i{
+		background: #111;
+	}
+	button:hover span:after{
+		width: 100px;
+		height: 50px;
+	}
+	</style>
+</head>
+<body>
+
+<center style="margin-top: 20%;">
+	<i id="exercise">
+		<button name="exercise" onmouseover="change_background_when_over(event.target)" onmouseleave="change_background_when_leave(event.target)" onclick="when_click(event.target)">Luyện tập <span> </span></button>		
+	</i>
+	<i id="update">
+		<button onclick="when_click(event.target)" onmouseleave="change_background_when_leave(event.target)" name="update" onmouseover="change_background_when_over(event.target)">Update từ mới  <span> </span>
+		</button>
+	</i>
+</center>
+</body>
+</html>

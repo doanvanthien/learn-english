@@ -1,0 +1,13 @@
+1|as| dù 
+1|after| sau khi 
+1|although, though| mặc dù 
+1|before| trước khi
+1|because| vì, bởi vì 
+1|for| dù 
+1|if| nếu, giá như 
+1|lest| sợ rằng, chú ý: "lest + V - nguyên thể" 
+1|for| bởi vì
+1|providing, provided| miễn là
+1|since| từ khi
+1|so, so what| vì, vì vậy
+1|providing, provided| miễn là

@@ -1,0 +1,527 @@
+0|different|(adjective)|
+0|used|(adjective)|
+0|important|(adjective)|
+0|every|(adjective)|
+0|large|(adjective)|
+0|available|(adjective)|
+0|popular|(adjective)|
+0|able|(adjective)|
+0|basic|(adjective)|
+0|known|(adjective)|
+0|various|(adjective)|
+0|difficult|(adjective)|
+0|several|(adjective)|
+0|united|(adjective)|
+0|historical|(adjective)|
+0|hot|(adjective)|
+0|useful|(adjective)|
+0|mental|(adjective)|
+0|scared|(adjective)|
+0|additional|(adjective)|
+0|emotional|(adjective)|
+0|old|(adjective)|
+0|political|(adjective)|
+0|similar|(adjective)|
+0|healthy|(adjective)|
+0|financial|(adjective)|
+0|medical|(adjective)|
+0|traditional|(adjective)|
+0|federal|(adjective)|
+0|entire|(adjective)|
+0|strong|(adjective)|
+0|actual|(adjective)|
+0|significant|(adjective)|
+0|successful|(adjective)|
+0|electrical|(adjective)|
+0|expensive|(adjective)|
+0|pregnant|(adjective)|
+0|intelligent|(adjective)|
+0|interesting|(adjective)|
+0|poor|(adjective)|
+0|happy|(adjective)|
+0|responsible|(adjective)|
+0|cute|(adjective)|
+0|helpful|(adjective)|
+0|recent|(adjective)|
+0|willing|(adjective)|
+0|nice|(adjective)|
+0|wonderful|(adjective)|
+0|impossible|(adjective)|
+0|serious|(adjective)|
+0|huge|(adjective)|
+0|rare|(adjective)|
+0|technical|(adjective)|
+0|typical|(adjective)|
+0|competitive|(adjective)|
+0|critical|(adjective)|
+0|electronic|(adjective)|
+0|immediate|(adjective)|
+0|aware|(adjective)|
+0|educational|(adjective)|
+0|environmental|(adjective)|
+0|global|(adjective)|
+0|legal|(adjective)|
+0|relevant|(adjective)|
+0|accurate|(adjective)|
+0|capable|(adjective)|
+0|dangerous|(adjective)|
+0|dramatic|(adjective)|
+0|efficient|(adjective)|
+0|powerful|(adjective)|
+0|foreign|(adjective)|
+0|hungry|(adjective)|
+0|practical|(adjective)|
+0|psychological|(adjective)|
+0|severe|(adjective)|
+0|suitable|(adjective)|
+0|numerous|(adjective)|
+0|sufficient|(adjective)|
+0|unusual|(adjective)|
+0|consistent|(adjective)|
+0|cultural|(adjective)|
+0|existing|(adjective)|
+0|famous|(adjective)|
+0|pure|(adjective)|
+0|afraid|(adjective)|
+0|obvious|(adjective)|
+0|careful|(adjective)|
+0|latter|(adjective)|
+0|unhappy|(adjective)|
+0|acceptable|(adjective)|
+0|aggressive|(adjective)|
+0|boring|(adjective)|
+0|distinct|(adjective)|
+0|eastern|(adjective)|
+0|logical|(adjective)|
+0|reasonable|(adjective)|
+0|strict|(adjective)|
+0|administrative|(adjective)|
+0|automatic|(adjective)|
+0|civil|(adjective)|
+0|former|(adjective)|
+0|massive|(adjective)|
+0|southern|(adjective)|
+0|unfair|(adjective)|
+0|visible|(adjective)|
+0|alive|(adjective)|
+0|angry|(adjective)|
+0|desperate|(adjective)|
+0|exciting|(adjective)|
+0|friendly|(adjective)|
+0|lucky|(adjective)|
+0|realistic|(adjective)|
+0|sorry|(adjective)|
+0|ugly|(adjective)|
+0|unlikely|(adjective)|
+0|anxious|(adjective)|
+0|comprehensive|(adjective)|
+0|curious|(adjective)|
+0|impressive|(adjective)|
+0|informal|(adjective)|
+0|inner|(adjective)|
+0|pleasant|(adjective)|
+0|sexual|(adjective)|
+0|sudden|(adjective)|
+0|terrible|(adjective)|
+0|unable|(adjective)|
+0|weak|(adjective)|
+0|wooden|(adjective)|
+0|asleep|(adjective)|
+0|confident|(adjective)|
+0|conscious|(adjective)|
+0|decent|(adjective)|
+0|embarrassed|(adjective)|
+0|guilty|(adjective)|
+0|lonely|(adjective)|
+0|mad|(adjective)|
+0|nervous|(adjective)|
+0|odd|(adjective)|
+0|remarkable|(adjective)|
+0|substantial|(adjective)|
+0|suspicious|(adjective)|
+0|tall|(adjective)|
+0|tiny|(adjective)|
+0|more|(adjective, adverb)|
+0|some|(adjective, pronoun, adverb)|
+0|one|(adjective, noun, pronoun)|
+0|all|(adjective, pronoun, noun)|
+0|many|(adjective, noun, pronoun)|
+0|most|(adjective, noun, adverb)|
+0|other|(adjective, noun, pronoun)|
+0|such|(adjective, adverb)|
+0|even|(adjective, verb, adverb)|
+0|new|(adjective, adverb)|
+0|just|(adjective, adverb)|
+0|good|(adjective, noun, adverb)|
+0|any|(adjective, adverb)|
+0|each|(adjective, adverb)|
+0|much|(adjective, adverb)|
+0|own|(adjective, verb)|
+0|great|(adjective, noun, adverb)|
+0|another|(adjective, pronoun)|
+0|same|(adjective, pronoun, adverb)|
+0|few|(adjective, noun, pronoun)|
+0|free|(adjective, adverb, verb)|
+0|right|(adjective, adverb, noun)|
+0|still|(adjective, noun, adverb)|
+0|best|(adjective, adverb, noun)|
+0|public|(adjective, noun)|
+0|human|(adjective, noun)|
+0|both|(adjective, adverb)|
+0|local|(adjective, noun)|
+0|sure|(adjective, adverb)|
+0|better|(adjective, adverb, noun)|
+0|general|(adjective, noun)|
+0|specific|(adjective, noun)|
+0|enough|(adjective, adverb, interjection)|
+0|long|(adjective, noun, adverb)|
+0|small|(adjective, adverb)|
+0|less|(adjective, adverb, preposition)|
+0|high|(adjective, noun, adverb)|
+0|certain|(adjective, pronoun)|
+0|little|(adjective, adverb)|
+0|common|(adjective, noun)|
+0|next|(adjective, adverb, noun)|
+0|simple|(adjective, noun)|
+0|hard|(adjective, adverb)|
+0|past|(adjective, noun, preposition)|
+0|big|(adjective, noun)|
+0|possible|(adjective, noun)|
+0|particular|(adjective, noun)|
+0|real|(adjective, adverb, noun)|
+0|major|(adjective, noun, verb)|
+0|personal|(adjective, noun)|
+0|current|(adjective, noun)|
+0|left|(adjective, adverb)|
+0|national|(adjective, noun)|
+0|least|(adjective, adverb)|
+0|natural|(adjective, noun, adverb)|
+0|physical|(adjective, noun)|
+0|short|(adjective, adverb, noun)|
+0|last|(adjective, adverb, noun)|
+0|single|(adjective, noun, verb)|
+0|individual|(adjective, noun)|
+0|main|(adjective, noun)|
+0|potential|(adjective, noun)|
+0|professional|(adjective, noun)|
+0|international|(adjective, noun)|
+0|lower|(adjective, adverb)|
+0|open|(adjective, verb, noun)|
+0|according|(adjective, verb)|
+0|alternative|(adjective, noun)|
+0|special|(adjective, noun)|
+0|working|(adjective, noun)|
+0|true|(adjective, adverb, verb)|
+0|whole|(adjective, noun, adverb)|
+0|clear|(adjective, adverb, verb)|
+0|dry|(adjective, verb, noun)|
+0|easy|(adjective, adverb, interjection)|
+0|cold|(adjective, noun, adverb)|
+0|commercial|(adjective, noun)|
+0|full|(adjective, adverb, noun)|
+0|low|(adjective, noun, adverb)|
+0|primary|(adjective, noun)|
+0|worth|(adjective, noun)|
+0|necessary|(adjective, noun)|
+0|positive|(adjective, noun)|
+0|present|(adjective, noun, verb)|
+0|close|(adjective, adverb, verb)|
+0|creative|(adjective, noun)|
+0|green|(adjective, noun, verb)|
+0|late|(adjective, adverb, noun)|
+0|fit|(adjective, verb, noun)|
+0|glad|(adjective, noun)|
+0|proper|(adjective, adverb, noun)|
+0|complex|(adjective, noun, verb)|
+0|content|(adjective, verb, noun)|
+0|due|(adjective, noun, adverb)|
+0|effective|(adjective, noun)|
+0|middle|(adjective, noun)|
+0|regular|(adjective, noun)|
+0|fast|(adjective, adverb, verb)|
+0|independent|(adjective, noun)|
+0|original|(adjective, noun)|
+0|wide|(adjective, adverb)|
+0|beautiful|(adjective, noun, interjection)|
+0|complete|(adjective, verb)|
+0|active|(adjective, noun)|
+0|negative|(adjective, noun, interjection)|
+0|safe|(adjective, noun)|
+0|visual|(adjective, noun)|
+0|wrong|(adjective, adverb, noun)|
+0|ago|(adjective, adverb)|
+0|quick|(adjective, adverb, noun)|
+0|ready|(adjective, verb)|
+0|straight|(adjective, adverb, noun)|
+0|white|(adjective, noun, verb)|
+0|direct|(adjective, adverb, verb)|
+0|excellent|(adjective, interjection)|
+0|extra|(adjective, adverb, noun)|
+0|junior|(adjective, noun)|
+0|pretty|(adjective, adverb, noun)|
+0|unique|(adjective, noun)|
+0|classic|(adjective, noun)|
+0|final|(adjective, noun)|
+0|overall|(adjective, adverb, noun)|
+0|private|(adjective, noun)|
+0|separate|(adjective, verb, noun)|
+0|western|(adjective, noun)|
+0|alone|(adjective, adverb)|
+0|familiar|(adjective, noun)|
+0|official|(adjective, noun)|
+0|perfect|(adjective, verb, noun)|
+0|bright|(adjective, adverb, noun)|
+0|broad|(adjective, noun)|
+0|comfortable|(adjective, noun)|
+0|flat|(adjective, adverb, noun)|
+0|rich|(adjective, noun)|
+0|warm|(adjective, verb)|
+0|young|(adjective, noun)|
+0|heavy|(adjective, noun, adverb)|
+0|valuable|(adjective, noun)|
+0|correct|(adjective, verb)|
+0|leading|(adjective, noun)|
+0|slow|(adjective, adverb, verb)|
+0|clean|(adjective, adverb, verb)|
+0|fresh|(adjective, adverb)|
+0|normal|(adjective, noun)|
+0|secret|(adjective, noun)|
+0|tough|(adjective, noun)|
+0|brown|(adjective, noun, verb)|
+0|cheap|(adjective, adverb)|
+0|deep|(adjective, noun, adverb)|
+0|objective|(adjective, noun)|
+0|secure|(adjective, verb)|
+0|thin|(adjective, adverb, verb)|
+0|chemical|(adjective, noun)|
+0|cool|(adjective, adverb, noun)|
+0|extreme|(adjective, noun)|
+0|exact|(adjective, verb)|
+0|fair|(adjective, adverb, noun)|
+0|fine|(adjective, adverb, verb)|
+0|formal|(adjective, noun, adverb)|
+0|opposite|(adjective, noun, preposition)|
+0|remote|(adjective, noun)|
+0|total|(adjective, noun, verb)|
+0|vast|(adjective, noun)|
+0|lost|(adjective, verb, idiom)|
+0|smooth|(adjective, adverb, verb)|
+0|dark|(adjective, noun, idiom)|
+0|double|(adjective, noun, verb)|
+0|equal|(adjective, noun, verb)|
+0|firm|(adjective, verb, adverb)|
+0|frequent|(adjective, verb)|
+0|internal|(adjective, noun)|
+0|sensitive|(adjective, noun)|
+0|constant|(adjective, noun)|
+0|minor|(adjective, noun, verb)|
+0|previous|(adjective, idiom)|
+0|raw|(adjective, noun, idiom)|
+0|soft|(adjective, noun, adverb)|
+0|solid|(adjective, noun)|
+0|weird|(adjective, noun)|
+0|amazing|(adjective, verb)|
+0|annual|(adjective, noun)|
+0|busy|(adjective, verb)|
+0|dead|(adjective, noun, adverb)|
+0|false|(adjective, adverb, idiom)|
+0|round|(adjective, noun, adverb)|
+0|sharp|(adjective, verb, adverb)|
+0|thick|(adjective, adverb, noun)|
+0|wise|(adjective, verb, idiom)|
+0|equivalent|(adjective, noun)|
+0|initial|(adjective, noun, verb)|
+0|narrow|(adjective, verb, noun)|
+0|nearby|(adjective, adverb)|
+0|proud|(adjective, idiom)|
+0|spiritual|(adjective, noun)|
+0|wild|(adjective, adverb, noun)|
+0|adult|(adjective, noun)|
+0|apart|(adjective, adverb)|
+0|brief|(adjective, noun, verb)|
+0|crazy|(adjective, noun, idiom)|
+0|prior|(adjective, noun, idiom)|
+0|rough|(adjective, noun, adverb)|
+0|sad|(adjective, noun)|
+0|sick|(adjective, noun, idiom)|
+0|strange|(adjective, adverb)|
+0|external|(adjective, noun)|
+0|illegal|(adjective, noun)|
+0|loud|(adjective, adverb)|
+0|mobile|(adjective, noun)|
+0|nasty|(adjective, noun)|
+0|ordinary|(adjective, noun)|
+0|royal|(adjective, noun)|
+0|senior|(adjective, noun)|
+0|super|(adjective, adverb, noun)|
+0|tight|(adjective, adverb)|
+0|upper|(adjective, noun)|
+0|yellow|(adjective, noun, verb)|
+0|dependent|(adjective, noun)|
+0|funny|(adjective, noun)|
+0|gross|(adjective, adverb, verb)|
+0|ill|(adjective, adverb, noun)|
+0|spare|(adjective, noun, verb)|
+0|sweet|(adjective, noun)|
+0|upstairs|(adjective, noun)|
+0|usual|(adjective, noun)|
+0|brave|(adjective, noun, verb)|
+0|calm|(adjective, noun, verb)|
+0|dirty|(adjective, verb)|
+0|downtown|(adjective, adverb, noun)|
+0|grand|(adjective, noun)|
+0|honest|(adjective, adverb)|
+0|loose|(adjective, verb)|
+0|male|(adjective, noun)|
+0|quiet|(adjective, noun, verb)|
+0|brilliant|(adjective, noun)|
+0|dear|(adjective, noun, adverb)|
+0|drunk|(adjective, noun)|
+0|empty|(adjective, verb, noun)|
+0|female|(adjective, noun)|
+0|inevitable|(adjective, noun)|
+0|neat|(adjective, noun)|
+0|ok|(adjective, adverb, noun)|
+0|representative|(adjective, noun)|
+0|silly|(adjective, noun)|
+0|slight|(adjective, verb, noun)|
+0|smart|(adjective, verb, noun)|
+0|stupid|(adjective, noun)|
+0|temporary|(adjective, noun)|
+0|weekly|(adjective, adverb, noun)|
+0|that|(pronoun, adjective, adverb)|
+0|this|(pronoun, adjective, adverb)|
+0|what|(pronoun, adjective, adverb)|
+0|which|(pronoun, adjective)|
+0|time|(noun, adjective, verb)|
+0|these|(pronoun, adjective)|
+0|work|(noun, adjective, verb)|
+0|no|(adverb, adjective, noun)|
+0|only|(adverb, adjective, conjunction)|
+0|then|(adverb, adjective)|
+0|first|(adverb, adjective)|
+0|money|(noun, adjective)|
+0|over|(preposition, adjective, noun)|
+0|business|(noun, adjective)|
+0|his|(pronoun, adjective)|
+0|game|(noun, adjective, verb)|
+0|think|(verb, adjective, noun)|
+0|after|(preposition, adjective, adverb)|
+0|life|(noun, adjective)|
+0|day|(noun, adjective)|
+0|home|(noun, adjective, adverb)|
+0|economy|(noun, adjective)|
+0|away|(adverb, adjective)|
+0|either|(conjunction, adjective)|
+0|fat|(noun, adjective, verb)|
+0|key|(noun, adjective, verb)|
+0|training|(noun, adjective)|
+0|top|(noun, adjective, verb)|
+0|level|(noun, adjective, verb)|
+0|far|(adverb, adjective)|
+0|fun|(noun, adjective, verb)|
+0|house|(noun, adjective, verb)|
+0|kind|(noun, adjective)|
+0|future|(noun, adjective)|
+0|action|(noun, adjective)|
+0|live|(verb, adjective, adverb)|
+0|period|(noun, adjective)|
+0|subject|(noun, adjective, adverb)|
+0|mean|(verb, adjective, noun)|
+0|stock|(noun, adjective, verb)|
+0|chance|(noun, adjective, verb)|
+0|beginning|(noun, adjective, verb)|
+0|upset|(verb, adjective)|
+0|chicken|(noun, adjective)|
+0|head|(noun, adjective, verb)|
+0|material|(noun, adjective)|
+0|salt|(noun, adjective, verb)|
+0|car|(noun, adjective)|
+0|appropriate|(verb, adjective)|
+0|inside|(noun, adjective, preposition)|
+0|outside|(noun, adjective, preposition)|
+0|standard|(noun, adjective)|
+0|medium|(noun, adjective)|
+0|choice|(noun, adjective)|
+0|north|(noun, adjective, adverb)|
+0|square|(noun, adjective, adverb)|
+0|born|(verb, adjective, past particple)|
+0|capital|(noun, adjective)|
+0|shot|(noun, adjective)|
+0|front|(noun, adjective, verb)|
+0|living|(noun, adjective)|
+0|plastic|(noun, adjective)|
+0|express|(verb, adjective, adverb)|
+0|feeling|(noun, adjective)|
+0|otherwise|(adverb, adjective)|
+0|plus|(preposition, adjective, noun)|
+0|savings|(noun, adjective, preposition)|
+0|animal|(noun, adjective)|
+0|budget|(noun, adjective, verb)|
+0|minute|(noun, adjective, verb)|
+0|character|(noun, adjective, verb)|
+0|maximum|(noun, adjective)|
+0|novel|(noun, adjective)|
+0|plenty|(noun, adjective, adverb)|
+0|select|(verb, adjective)|
+0|background|(noun, adjective)|
+0|forward|(adverb, adjective, noun)|
+0|glass|(noun, adjective, verb)|
+0|joint|(noun, adjective, verb)|
+0|master|(noun, adjective, verb)|
+0|red|(noun, adjective, idiom)|
+0|vegetable|(noun, adjective)|
+0|ideal|(noun, adjective)|
+0|kitchen|(noun, adjective)|
+0|mother|(noun, adjective, verb)|
+0|party|(noun, adjective, verb)|
+0|relative|(noun, adjective)|
+0|signal|(noun, adjective, verb)|
+0|street|(noun, adjective, idiom)|
+0|connect|(verb, adjective)|
+0|minimum|(noun, adjective)|
+0|sea|(noun, adjective, idiom)|
+0|south|(noun, adjective, adverb)|
+0|status|(noun, adjective)|
+0|daughter|(noun, adjective)|
+0|hour|(noun, adjective, idiom)|
+0|trick|(noun, adjective, verb)|
+0|afternoon|(noun, adjective)|
+0|gold|(noun, adjective)|
+0|mission|(noun, adjective)|
+0|agent|(noun, adjective, verb)|
+0|corner|(noun, adjective, verb)|
+0|east|(noun, adjective, adverb)|
+0|neither|(conjunction, adjective, pronoun)|
+0|parking|(noun, adjective)|
+0|routine|(noun, adjective)|
+0|swimming|(noun, adjective)|
+0|winter|(noun, adjective, verb)|
+0|airline|(noun, adjective)|
+0|designer|(noun, adjective)|
+0|dress|(noun, adjective, verb)|
+0|emergency|(noun, adjective)|
+0|evening|(noun, adjective)|
+0|extension|(noun, adjective)|
+0|holiday|(noun, adjective, verb)|
+0|horror|(noun, adjective)|
+0|mountain|(noun, adjective, idiom)|
+0|patient|(noun, adjective)|
+0|proof|(noun, adjective, verb)|
+0|west|(noun, adjective, adverb)|
+0|wine|(noun, adjective, verb)|
+0|expert|(noun, adjective)|
+0|native|(noun, adjective)|
+0|opening|(noun, adjective)|
+0|silver|(noun, adjective, verb)|
+0|waste|(verb, adjective, noun)|
+0|plane|(noun, adjective, verb)|
+0|leather|(noun, adjective, verb)|
+0|purple|(noun, adjective, verb)|
+0|specialist|(noun, adjective)|
+0|bitter|(noun, adjective)|
+0|incident|(noun, adjective)|
+0|motor|(noun, adjective, verb)|
+0|pretend|(verb, adjective)|
+0|prize|(noun, adjective, verb)|
+0|resident|(noun, adjective)|

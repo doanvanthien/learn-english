@@ -1,0 +1,1011 @@
+1|is|(verb)|là
+1|are|(verb)|Là
+1|has|(verb)|có
+1|get|(verb)|nhận được
+1|see|(verb)|Xem
+1|need|(verb)|nhu cầu
+1|know|(verb)|biết
+1|would|(verb)|sẽ
+1|find|(verb)|検索
+1|take|(verb)|mất
+1|want|(verb)|Muốn
+1|does|(verb)|làm
+1|learn|(verb)|học
+1|become|(verb)|trở nên
+1|come|(verb)|Đến
+1|include|(verb)|Chứa
+1|thank|(verb)|Chân thành cảm ơn.
+1|provide|(verb)|cung cấp
+1|create|(verb)|Tạo
+1|add|(verb)|thêm
+1|understand|(verb)|Hiểu
+1|consider|(verb)|Xem xét
+1|choose|(verb)|chọn
+1|develop|(verb)|phát triển, xây dựng
+1|remember|(verb)|nhớ
+1|determine|(verb)|Xác định
+1|grow|(verb)|Tăng trưởng
+1|allow|(verb)|Cho phép
+1|supply|(verb)|Kho dự trữ
+1|bring|(verb)|mang đến
+1|improve|(verb)|cải thiện
+1|maintain|(verb)|Duy trì
+1|begin|(verb)|Bắt đầu
+1|exist|(verb)|hiện hữu
+1|tend|(verb)|có xu hướng
+1|enjoy|(verb)|thưởng thức
+1|perform|(verb)|biểu diễn
+1|decide|(verb)|quyết định
+1|identify|(verb)|Xác định
+1|continue|(verb)|Tiếp tục
+1|protect|(verb)|Bảo vệ
+1|require|(verb)|Yêu cầu
+1|occur|(verb)|Xảy ra
+1|write|(verb)|Viết
+1|approach|(verb)|Phương pháp tiếp cận
+1|avoid|(verb)|TRÁNH
+1|prepare|(verb)|Chuẩn bị
+1|build|(verb)|Phiên bản
+1|achieve|(verb)|Đạt được
+1|believe|(verb)|Tin
+1|receive|(verb)|Nhận
+1|seem|(verb)|hình như
+1|discuss|(verb)|bàn luận
+1|realize|(verb)|nhận ra
+1|contain|(verb)|Chứa
+1|follow|(verb)|Theo dõi
+1|refer|(verb)|Xem
+1|solve|(verb)|giải quyết
+1|describe|(verb)|miêu tả
+1|prefer|(verb)|thích
+1|prevent|(verb)|Ngăn chặn
+1|discover|(verb)|Khám phá
+1|ensure|(verb)|bảo đảm
+1|expect|(verb)|mong đợi
+1|invest|(verb)|Đầu tư
+1|reduce|(verb)|giảm
+1|speak|(verb)|nói
+1|appear|(verb)|lalabas
+1|explain|(verb)|giải thích
+1|explore|(verb)|Khám phá
+1|involve|(verb)|lien quan
+1|lose|(verb)|Thua
+1|afford|(verb)|Đủ khả năng
+1|agree|(verb)|Đồng ý
+1|hear|(verb)|nghe
+1|remain|(verb)|Giữ bình tĩnh
+1|represent|(verb)|Đại diện
+1|apply|(verb)|áp dụng
+1|forget|(verb)|Quên mật khẩu
+1|recommend|(verb)|Đề nghị
+1|rely|(verb)|Dựa
+1|vary|(verb)|Thay đổi
+1|generate|(verb)|Sinh phiếu
+1|obtain|(verb)|đạt được
+1|accept|(verb)|Đồng ý
+1|communicate|(verb)|Truyền tin
+1|complain|(verb)|Phản ánh
+1|depend|(verb)|tùy theo
+1|enter|(verb)|Nhập
+1|happen|(verb)|Những gì xảy ra
+1|indicate|(verb)|biểu thị
+1|suggest|(verb)|Đề nghị
+1|survive|(verb)|Tồn tại
+1|appreciate|(verb)|đánh giá
+1|compare|(verb)|so sánh
+1|imagine|(verb)|Imagine
+1|manage|(verb)|quản lý
+1|differ|(verb)|Khác nhau
+1|encourage|(verb)|khuyến khích
+1|expand|(verb)|Mở rộng
+1|prove|(verb)|chứng minh
+1|react|(verb)|phản ứng
+1|recognize|(verb)|nhìn nhận
+1|relax|(verb)|thư giãn
+1|replace|(verb)|Thay thế
+1|borrow|(verb)|Vay
+1|earn|(verb)|kiếm
+1|emphasize|(verb)|nhấn mạnh
+1|enable|(verb)|cho phép
+1|operate|(verb)|vận hành
+1|reflect|(verb)|phản ánh
+1|send|(verb)|gửi
+1|anticipate|(verb)|Đoán trước
+1|assume|(verb)|giả định
+1|engage|(verb)|thuê
+1|enhance|(verb)|Nâng cao
+1|examine|(verb)|"Xem xét";
+1|install|(verb)|Cài đặt
+1|participate|(verb)|tham dự
+1|intend|(verb)|Dự định
+1|introduce|(verb)|Giới thiệu
+1|relate|(verb)|Quan hệ
+1|settle|(verb)|Giải quyết
+1|assure|(verb)|cam đoan
+1|attract|(verb)|thu hút
+1|distribute|(verb)|Phân phối
+1|overcome|(verb)|vượt qua
+1|owe|(verb)|Nợ
+1|succeed|(verb)|Thành công
+1|suffer|(verb)|đau khổ
+1|throw|(verb)|Quăng
+1|acquire|(verb)|GIÀNH ĐƯỢC
+1|adapt|(verb)|Chỉnh lại
+1|adjust|(verb)|Điều chỉnh :
+1|argue|(verb)|Luận cứ logic
+1|arise|(verb)|nảy sinh
+1|confirm|(verb)|xac-nhan
+1|encouraging|(verb)|Luôn động viên
+1|incorporate|(verb)|Kết hợp
+1|justify|(verb)|đều
+1|organize|(verb)|Tổ chức...
+1|ought|(verb)|Nên
+1|possess|(verb)|Sở hữu
+1|relieve|(verb)|giải tỏa
+1|retain|(verb)|Giữ lại
+1|shut|(verb)|đóng
+1|calculate|(verb)|Tính toán
+1|compete|(verb)|cạnh tranh
+1|consult|(verb)|Tư vấn
+1|deliver|(verb)|Cung cấp
+1|extend|(verb)|mở rộng
+1|investigate|(verb)|điều tra
+1|negotiate|(verb)|đàm phán
+1|qualify|(verb)|Không đủ điều kiện
+1|retire|(verb)|về hưu
+1|rid|(verb)|thoát khỏi
+1|weigh|(verb)|Lực hấp dẫn#Tr.E1.BB.8Dng l.E1.BB.B1c
+1|arrive|(verb)|Ngày đến
+1|attach|(verb)|Đính kèm
+1|behave|(verb)|hành xử
+1|celebrate|(verb)|ăn mừng
+1|convince|(verb)|Thuyết phục
+1|disagree|(verb)|không đồng ý.
+1|establish|(verb)|thành lập
+1|ignore|(verb)|bỏ qua
+1|imply|(verb)|Ngụ ý
+1|insist|(verb)|năn nỉ
+1|pursue|(verb)|Theo đuổi
+1|remaining|(verb)|còn lại
+1|specify|(verb)|Xác định
+1|warn|(verb)|cảnh báo
+1|accuse|(verb)|Tố cáo
+1|admire|(verb)|Admire, Kansas
+1|admit|(verb)|Thừa nhận
+1|adopt|(verb)|Thông qua
+1|announce|(verb)|CÔNG BỐ
+1|apologize|(verb)|xin lỗi
+1|approve|(verb)|Chấp nhận
+1|attend|(verb)|tham gia
+1|belong|(verb)|Thuộc về
+1|commit|(verb)|Cam kết
+1|criticize|(verb)|chỉ trích
+1|deserve|(verb)|Xứng đáng
+1|destroy|(verb)|hủy hoại
+1|hesitate|(verb)|ngần ngại
+1|illustrate|(verb)|Minh họa
+1|inform|(verb)|Thông báo cho
+1|manufacturing|(verb)|Sản xuất
+1|persuade|(verb)|truy vấn
+1|pour|(verb)|Mưa
+1|propose|(verb)|cầu hôn
+1|remind|(verb)|NHẮC LẠI
+1|shall|(verb)|Có trách nhiệm
+1|submit|(verb)|gửi
+1|suppose|(verb)|giả sử
+1|translate|(verb)|dịch
+1|be|(verb, auxiliary verb)|là:
+1|have|(verb, auxiliary verb)|Có(dùng cho i,they,we,you)
+1|use|(verb, noun)|sử dụng
+1|make|(verb, noun)|Hãng
+1|look|(verb, noun, interjection)|nhin
+1|help|(verb, noun, interjection)|trợ giúp
+1|go|(verb, noun, adjective)|đi
+1|being|(verb, noun)|Đang được sử dụng
+1|think|(verb, adjective, noun)|Nghi
+1|read|(verb, noun)|Đọc
+1|keep|(verb, noun)|Giữ
+1|start|(verb, noun)|Bắt đầu
+1|give|(verb, noun)|Đưa
+1|play|(verb, noun)|Phát
+1|feel|(verb, noun)|cảm thấy
+1|put|(verb, noun)|Đặt
+1|set|(verb, noun, adjective)|bộ
+1|change|(verb, noun)|thay đổi
+1|say|(verb, interjection, noun)|Sậy
+1|cut|(verb, noun)|カット
+1|show|(verb, noun)|hiển thị
+1|try|(verb, noun)|truy
+1|check|(verb, noun, interjection)|Kiểm tra
+1|call|(verb, noun)|gọi
+1|move|(verb, noun)|Di chuyển
+1|pay|(verb, noun)|trả
+1|let|(verb, noun)|để cho
+1|increase|(verb, noun)|tăng lên
+1|turn|(verb, noun)|xoay
+1|ask|(verb, noun)|hỏi
+1|buy|(verb, noun)|mua
+1|guard|(verb, noun)|BẢO VỆ
+1|hold|(verb, noun)|núm điều tác
+1|offer|(verb, noun)|đề xuất
+1|travel|(verb, noun)|đi
+1|cook|(verb, noun)|Nấu ăn
+1|dance|(verb, noun)|Nhảy
+1|excuse|(verb, noun)|tha
+1|live|(verb, adjective, adverb)|Trực tiếp
+1|purchase|(verb, noun)|Tiếp tục
+1|deal|(verb, noun)|thỏa thuận
+1|mean|(verb, adjective, noun)|trung bình
+1|fall|(verb, noun)|mùa thu
+1|produce|(verb, noun)|Hoa màu
+1|search|(verb, noun)|tìm kiếm
+1|spend|(verb, noun)|Tiêu
+1|talk|(verb, noun)|tam su
+1|upset|(verb, adjective)|buồn bã
+1|tell|(verb, noun)|ĐT:
+1|cost|(verb, noun)|Giá
+1|drive|(verb, noun)|chiến dịch
+1|support|(verb, noun)|24h
+1|remove|(verb, noun)|gỡ
+1|return|(verb, noun)|Trở lại
+1|run|(verb, noun)|Chạy
+1|appropriate|(verb, adjective)|hành vi phù hợp
+1|reserve|(verb, noun)|Đặt trước
+1|leave|(verb, noun)|lại
+1|reach|(verb, noun)|chạm tới
+1|rest|(verb, noun)|Phần còn lại
+1|serve|(verb, noun)|Phục vụ
+1|watch|(verb, noun)|đồng hồ
+1|charge|(verb, noun)|điện tích
+1|break|(verb, noun)|Nghỉ giải lao
+1|stay|(verb, noun)|Ở lại
+1|visit|(verb, noun)|truy cập
+1|affect|(verb, noun)|Ảnh hưởng đến
+1|cover|(verb, noun)|Phủ
+1|report|(verb, noun)|BÁO CÁO
+1|rise|(verb, noun)|Tăng lên
+1|walk|(verb, noun)|đi bộ
+1|pick|(verb, noun)|Chọn
+1|lift|(verb, noun)|thang máy
+1|mix|(verb, noun)|pha trộn
+1|stop|(verb, noun)|Dừng
+1|teach|(verb, noun)|Dạy
+1|concern|(verb, noun)|mối quan ngại
+1|fly|(verb, noun)|Bay
+1|born|(verb, adjective, past particple)|Sinh
+1|gain|(verb, noun)|Đạt được
+1|save|(verb, noun, preposition)|lưu
+1|stand|(verb, noun)|1 kệ đứng
+1|fail|(verb, noun)|KHÔNG ĐẠT
+1|lead|(verb, noun)|chì
+1|listen|(verb, noun)|nghe
+1|worry|(verb, noun)|Lo âu
+1|express|(verb, adjective, adverb)|Express
+1|handle|(verb, noun)|núm điều tác
+1|meet|(verb, noun)|gặp mặt
+1|release|(verb, noun)|xuất bản
+1|sell|(verb, noun)|Bán
+1|finish|(verb, noun)|đích
+1|press|(verb, noun)|nhấn
+1|ride|(verb, noun)|đi chơi
+1|spread|(verb, noun)|độ phân bổ
+1|spring|(verb, noun)|lò xo
+1|wait|(verb, noun)|Chờ
+1|display|(verb, noun)|giao diện
+1|flow|(verb, noun)|dòng chảy
+1|hit|(verb, noun)|Sản phẩm hot
+1|shoot|(verb, noun, interjection)|bắn
+1|touch|(verb, noun)|Touch
+1|cancel|(verb, noun)|hủy
+1|cry|(verb, noun, idiom)|Khóc
+1|dump|(verb, noun, idiom)|Đổ
+1|push|(verb, noun, idiom)|nút
+1|select|(verb, adjective)|chọn
+1|conflict|(verb, noun)|Xung đột
+1|die|(verb, idiom)|Chết
+1|eat|(verb, noun, idiom)|ăn
+1|fill|(verb, noun, idiom)|Điền đầy
+1|jump|(verb, noun, adjective)|Nhảy
+1|kick|(verb, noun, idiom)|Cước
+1|pass|(verb, noun, idiom)|qua
+1|pitch|(verb, noun)|ピッチ
+1|treat|(verb, noun)|Treat
+1|abuse|(verb, noun)|Lạm dụng
+1|beat|(verb, noun, adjective)|Phách
+1|burn|(verb, noun)|Bỏng
+1|deposit|(verb, noun)|Tiền gửi
+1|print|(verb, noun, adjective)|In
+1|raise|(verb, noun, idiom)|nâng cao
+1|sleep|(verb, noun, idiom)|Ngủ
+1|advance|(verb, noun, adjective)|Khoản tạm ứng
+1|connect|(verb, adjective)|Kết nối
+1|consist|(verb, noun)|Bao gồm
+1|contribute|(verb, idiom)|Góp phần
+1|draw|(verb, noun, idiom)|Huề
+1|fix|(verb, noun, idiom)|"Sửa chữa ___"
+1|hire|(verb, noun, adjective)|thuê mướn
+1|join|(verb, noun)|Tham gia
+1|kill|(verb, noun, idiom)|Tiêu diệt
+1|sit|(verb, idiom)|Ngồi
+1|tap|(verb, noun)|TAP
+1|win|(verb, noun)|Thắng
+1|attack|(verb, noun)|tan cong
+1|claim|(verb, noun)|Yêu cầu
+1|drag|(verb, noun, adjective)|ドラッグ
+1|drink|(verb, noun)|Thức uống
+1|guess|(verb, noun, idiom)|Ước tính
+1|pull|(verb, noun)|KÉO
+1|wear|(verb, noun, idiom)|MANG
+1|wonder|(verb, noun, idiom)|ngạc nhiên
+1|count|(verb, noun, adjective)|Số lượng
+1|doubt|(verb, noun, idiom)|nghi ngờ
+1|feed|(verb, noun, idiom)|Cung cấp
+1|impress|(verb, noun)|gây ấn tượng
+1|repeat|(verb, noun)|Repeat
+1|seek|(verb, idiom)|シーク
+1|sing|(verb, noun)|hát
+1|slide|(verb, noun, idiom)|Slide
+1|strip|(verb, noun)|Dải
+1|wish|(verb, noun)|Muốn
+1|collect|(verb, adverb, noun)|THU SAU
+1|combine|(verb, noun)|Kết hợp
+1|command|(verb, noun)|Lệnh
+1|dig|(verb, noun)|Đào
+1|divide|(verb, noun)|分割
+1|hang|(verb, noun, idiom)|treo
+1|hunt|(verb, noun)|săn bắn
+1|march|(verb, noun, idiom)|Tháng 3
+1|mention|(verb, noun, idiom)|Nhắc đến
+1|smell|(verb, noun)|Ngui
+1|survey|(verb, noun)|khảo sát, thăm dò
+1|tie|(verb, noun, idiom)|cà vạt
+1|escape|(verb, noun, adjective)|THOÁT
+1|expose|(verb, idiom)|lộ ra
+1|gather|(verb, noun, idiom)|Quây quần
+1|hate|(verb, noun)|Ghét
+1|repair|(verb, noun)|Sửa
+1|scratch|(verb, noun, adjective)|Vết xước
+1|strike|(verb, noun, adjective)|đình công
+1|employ|(verb, noun)|áp dụng
+1|hurt|(verb, noun)|Hurt
+1|laugh|(verb, noun)|cười
+1|lay|(verb, noun, adjective)|đặt nằm
+1|respond|(verb, noun)|trả lời (1)
+1|split|(verb, noun)|Tách
+1|strain|(verb, noun)|sức căng
+1|struggle|(verb, noun)|Đấu tranh
+1|swim|(verb, noun)|bơi
+1|train|(verb, noun)|tàu
+1|wash|(verb, noun)|rửa
+1|waste|(verb, adjective, noun)|chất độc hại
+1|convert|(verb, noun)|変換する
+1|crash|(verb, noun, adjective)|tai nạn
+1|fold|(verb, noun)|Gập
+1|grab|(verb, noun)|vồ lấy
+1|hide|(verb, noun)|ẩn
+1|miss|(verb, noun)|Cô
+1|permit|(verb, noun)|Cho phép
+1|quote|(verb, noun)|báo giá
+1|recover|(verb, noun)|Khôi phục
+1|resolve|(verb, noun)|giải quyết
+1|roll|(verb, noun)|cuốn
+1|sink|(verb, noun)|Chậu treo tường
+1|slip|(verb, noun)|Trượt
+1|suspect|(verb, noun, adjective)|nghi ngờ
+1|swing|(verb, noun)|lung lay
+1|twist|(verb, noun)|Xoắn
+1|concentrate|(verb, noun)|Tập trung
+1|estimate|(verb, noun)|Chi phí Ước tính
+1|prompt|(verb, noun, adjective)|Nhắc nhở
+1|refuse|(verb, noun)|Bác bỏ
+1|regret|(verb, noun)|Hối tiếc
+1|reveal|(verb, noun)|Tiết lộ
+1|rush|(verb, noun)|Vội vã
+1|shake|(verb, noun)|Shake
+1|shift|(verb, noun)|シフト
+1|shine|(verb, noun)|Tỏa sáng
+1|steal|(verb, noun)|lấy trộm
+1|suck|(verb, noun)|Hút
+1|surround|(verb, noun)|môi trường
+1|bear|(verb, noun)|Gấu
+1|dare|(verb, noun)|Dám
+1|delay|(verb, noun)|Độ trễ
+1|hurry|(verb, noun)|Nhanh
+1|invite|(verb, noun)|Mời
+1|kiss|(verb, noun)|hôn
+1|marry|(verb, interjection)|sự cho phép
+1|pop|(verb, noun, adverb)|Bật lên
+1|pray|(verb, adverb)|Cầu nguyện
+1|pretend|(verb, adjective)|giả vờ
+1|punch|(verb, noun)|Cú đấm
+1|quit|(verb, noun)|thoát
+1|reply|(verb, noun)|trả lời
+1|resist|(verb, noun)|kháng cự
+1|rip|(verb, noun)|Yên nghỉ
+1|rub|(verb, noun)|RUB
+1|smile|(verb, noun)|cười
+1|spell|(verb, noun)|Đánh vần
+1|stretch|(verb, noun)|Kéo dài ra
+1|tear|(verb, noun)|nước mắt
+1|wake|(verb, noun)|Thức dậy
+1|wrap|(verb, noun)|cuốn
+1|was|(past, verb)|là
+1|like|(preposition, verb, conjunction)|thích
+1|even|(adjective, verb, adverb)|Chẵn
+1|film|(noun, verb)|Điện ảnh
+1|water|(noun, verb, adjective)|Nước
+1|been|(past, verb)|đã
+1|well|(adverb, verb, noun)|Cũng
+1|were|(past, verb)|là
+1|example|(noun, verb)|Ví dụ
+1|own|(adjective, verb)|Tự có
+1|study|(noun, verb)|báo cáo
+1|must|(auxiliary verb, verb, adjective)|Phải
+1|form|(noun, verb)|Mẫu
+1|air|(noun, verb)|Hàng không
+1|place|(noun, verb)|Địa điểm
+1|number|(noun, verb)|bộ phận
+1|part|(noun, verb, adverb)|Phần
+1|field|(noun, verb, adjective)|trường
+1|fish|(noun, verb)|cá
+1|process|(noun, verb)|biên tập.
+1|heat|(noun, verb)|Nhiệt năng
+1|hand|(noun, verb)|tay
+1|experience|(noun, verb)|KINH NGHIỆM
+1|job|(noun, verb)|nhiệm vụ
+1|book|(noun, verb)|tài suất api
+1|end|(noun, verb)|Cuối
+1|point|(noun, verb)|điểm
+1|type|(noun, verb)|Loại
+1|value|(noun, verb)|value
+1|body|(noun, verb)|.
+1|market|(noun, verb)|chợ
+1|guide|(noun, verb)|Hướng dẫn
+1|interest|(noun, verb)|quan tâm
+1|state|(noun, verb)|BANG:
+1|radio|(noun, verb)|đài
+1|course|(noun, verb)|khoa-hoc
+1|company|(noun, verb)|công ty
+1|price|(noun, verb)|giá
+1|size|(noun, verb, adjective)|size
+1|card|(noun, verb)|Thẻ
+1|list|(noun, verb)|danh sách
+1|mind|(noun, verb)|TRÍ ÓC
+1|trade|(noun, verb)|thương mại
+1|line|(noun, verb)|Đường
+1|care|(noun, verb)|quan tâm
+1|group|(noun, verb)|nhóm
+1|risk|(noun, verb)|rủi ro
+1|word|(noun, verb, interjection)|sự thảo luận
+1|force|(noun, verb)|lực
+1|light|(noun, verb, adjective)|光
+1|name|(noun, verb, adjective)|Tên
+1|school|(noun, verb)|trường học
+1|amount|(noun, verb)|Thành tiền
+1|order|(noun, verb)|Đơn hàng
+1|practice|(noun, verb)|luyện tập
+1|research|(noun, verb)|nghiên cứu
+1|sense|(noun, verb)|Giác quan
+1|service|(noun, verb)|service
+1|piece|(noun, verb)|Chiếc
+1|web|(noun, verb)|Web
+1|boss|(noun, verb, adjective)|Ông chủ!
+1|sport|(noun, verb)|Thể thao
+1|page|(noun, verb)|trang
+1|term|(noun, verb)|thuật ngữ
+1|test|(noun, verb)|Thử dịch
+1|answer|(noun, verb)|câu trả lời
+1|sound|(noun, verb, adjective)|âm thanh
+1|focus|(noun, verb)|Tiêu điểm
+1|matter|(noun, verb)|vật chất
+1|soil|(noun, verb)|đất
+1|board|(noun, verb)|Bảng
+1|oil|(noun, verb)|dầu mỏ
+1|picture|(noun, verb)|ảnh
+1|access|(noun, verb, adjective)|truy cập
+1|garden|(noun, verb)|vườn cảnh
+1|open|(adjective, verb, noun)|Mở
+1|range|(noun, verb)|DẢI
+1|rate|(noun, verb)|xếp hạng
+1|reason|(noun, verb)|Lý do
+1|according|(adjective, verb)|Theo
+1|site|(noun, verb)|site
+1|demand|(noun, verb)|nhu cầu
+1|exercise|(noun, verb)|tập thể dục
+1|image|(noun, verb)|hình ảnh
+1|case|(noun, verb)|thể hiện
+1|cause|(noun, verb)|gây ra
+1|coast|(noun, verb)|Duyên hải
+1|age|(noun, verb)|Tuối
+1|boat|(noun, verb)|thuyền máy
+1|record|(noun, verb)|記録
+1|result|(noun, verb)|kết quả.
+1|section|(noun, verb)|Mục
+1|building|(noun, verb)|Xây dựng
+1|mouse|(noun, verb)|con chuột
+1|cash|(noun, verb)|Tiền mặt
+1|class|(noun, verb, adjective)|Chi phí vận chuyển
+1|dry|(adjective, verb, noun)|Khô
+1|plan|(noun, verb)|bản vẽ
+1|store|(noun, verb)|cửa hàng
+1|tax|(noun, verb)|Tax
+1|involved|(past, verb)|có tính liên quan
+1|side|(noun, verb)|Bên
+1|space|(noun, verb)|スペース
+1|rule|(noun, verb)|QUY TẮC
+1|weather|(noun, verb)|Thời tiết
+1|figure|(noun, verb)|Hình mẫu
+1|man|(noun, verb, interjection)|nam
+1|model|(noun, verb)|Cấu hình
+1|source|(noun, verb)|nguồn
+1|earth|(noun, verb)|Trái Đất
+1|program|(noun, verb)|Chương trình
+1|design|(noun, verb)|Thiết kế
+1|feature|(noun, verb)|đặc trưng
+1|purpose|(noun, verb)|hàm số
+1|question|(noun, verb)|cau-hoi
+1|rock|(noun, verb)|đá
+1|act|(noun, verb)|Hành động
+1|birth|(noun, verb)|Ngày sinh
+1|dog|(noun, verb)|chó
+1|object|(noun, verb)|オブジェクト
+1|scale|(noun, verb)|Chỉnh
+1|sun|(noun, verb)|mặt trời
+1|fit|(adjective, verb, noun)|FIT
+1|note|(noun, verb)|Lưu ý.
+1|profit|(noun, verb)|lợi nhuận
+1|related|(past, verb)|liên quan
+1|rent|(noun, verb)|cho thuê
+1|speed|(noun, verb)|tốc độ
+1|style|(noun, verb)|スタイル
+1|war|(noun, verb)|Chiến tranh
+1|bank|(noun, verb)|ngân hàng
+1|content|(adjective, verb, noun)|noij
+1|craft|(noun, verb)|Chế tạo
+1|bus|(noun, verb)|xe buýt
+1|exchange|(noun, verb)|Trao đổi
+1|eye|(noun, verb)|mắt
+1|fire|(noun, verb)|lửa
+1|position|(noun, verb)|Đã kết nối
+1|pressure|(noun, verb)|áp suất
+1|stress|(noun, verb)|Stress
+1|advantage|(noun, verb)|lợi thế
+1|benefit|(noun, verb)|Lợi Ích
+1|box|(noun, verb)|khung
+1|complete|(adjective, verb)|Hoàn thành
+1|frame|(noun, verb)|khung
+1|issue|(noun, verb)|xuất bản
+1|limited|(past, verb)|GIỚI HẠN
+1|step|(noun, verb)|Bước
+1|cycle|(noun, verb)|Chu kỳ
+1|face|(noun, verb)|mặt
+1|interested|(past, verb)|quan tâm
+1|metal|(noun, verb)|kim loại
+1|paint|(noun, verb)|màu vẽ
+1|review|(noun, verb)|đánh giá
+1|room|(noun, verb)|phòng
+1|screen|(noun, verb)|Màn hình
+1|structure|(noun, verb)|Cấu trúc
+1|view|(noun, verb)|xem
+1|account|(noun, verb)|tài khoản Úc.
+1|ball|(noun, verb)|quả bóng
+1|concerned|(past, verb)|liên quan
+1|discipline|(noun, verb)|Kỷ luật
+1|ready|(adjective, verb)|có sẵn
+1|share|(noun, verb)|Chia sẻ
+1|balance|(noun, verb)|Cân đối
+1|bit|(noun, verb)|Bit
+1|black|(noun, verb, adjective)|màu đen
+1|bottom|(noun, verb, adjective)|bên dưới
+1|gift|(noun, verb)|quà tặng
+1|impact|(noun, verb)|tác động
+1|machine|(noun, verb)|ô tô
+1|shape|(noun, verb)|Hình dạng
+1|tool|(noun, verb)|ツール
+1|wind|(noun, verb)|gió
+1|address|(noun, verb)|địa chỉ
+1|average|(noun, verb, adjective)|trung bình
+1|career|(noun, verb, adjective)|Nghề nghiệp
+1|culture|(noun, verb)|văn hóa
+1|pot|(noun, verb)|chậu
+1|sign|(noun, verb)|Ký tên
+1|table|(noun, verb)|表
+1|task|(noun, verb)|Hoạt động
+1|condition|(noun, verb)|tình trạng
+1|contact|(noun, verb)|liên hệ
+1|credit|(noun, verb)|Có
+1|egg|(noun, verb)|quả trứng
+1|hope|(noun, verb)|mong
+1|ice|(noun, verb)|băng
+1|network|(noun, verb)|mạng
+1|separate|(adjective, verb, noun)|Sắp xếp
+1|attempt|(noun, verb)|試行
+1|date|(noun, verb)|ngày
+1|effect|(noun, verb)|Ảnh hưởng
+1|link|(noun, verb)|liên kết
+1|perfect|(adjective, verb, noun)|Tuyệt vời
+1|post|(noun, verb, adverb)|bài viết
+1|star|(noun, verb)|sao
+1|voice|(noun, verb)|音声
+1|challenge|(noun, verb, adjective)|Thách thức
+1|friend|(noun, verb)|bạn bè
+1|warm|(adjective, verb)|Ấm áp
+1|brush|(noun, verb)|Bút vẽ
+1|couple|(noun, verb)|Vợ chồng
+1|debate|(noun, verb)|Cuộc tranh luận
+1|exit|(noun, verb)|thoát
+1|experienced|(past, verb)|経験豊富な
+1|function|(noun, verb)|hàm số
+1|lack|(noun, verb)|thiếu sót
+1|plant|(noun, verb)|thực vật
+1|spot|(noun, verb)|Vết đen
+1|summer|(noun, verb)|mùa hạ
+1|taste|(noun, verb)|Vị
+1|theme|(noun, verb)|Chủ đề
+1|track|(noun, verb)|bài hát
+1|wing|(noun, verb)|WING
+1|brain|(noun, verb)|não
+1|button|(noun, verb)|nút bấm
+1|click|(noun, verb)|Nhấp vào
+1|correct|(adjective, verb)|phải
+1|desire|(noun, verb)|khao khát
+1|fixed|(past, verb)|đã sửa
+1|foot|(noun, verb)|chân
+1|gas|(noun, verb)|dung ma
+1|influence|(noun, verb)|Ảnh hưởng
+1|notice|(noun, verb)|Thông báo
+1|rain|(noun, verb)|mưa
+1|wall|(noun, verb)|tường
+1|base|(noun, verb, adjective)|Cơ sở
+1|damage|(noun, verb)|hư hại
+1|distance|(noun, verb)|Khoảng cách:
+1|pair|(noun, verb)|đôi
+1|staff|(noun, verb)|cán bộ
+1|sugar|(noun, verb)|bien duong
+1|target|(noun, verb)|MỤC TIÊU
+1|text|(noun, verb)|Văn bản
+1|author|(noun, verb)|URL tác giả của giao diện gốc
+1|complicated|(past, verb)|Phức tạp
+1|discount|(noun, verb, adjective)|Khuyến mãi
+1|file|(noun, verb)|tập tin
+1|ground|(noun, verb, adjective)|cơ sở
+1|lesson|(noun, verb)|bai-hoc
+1|officer|(noun, verb)|Cán bộ
+1|phase|(noun, verb)|pha
+1|reference|(noun, verb, adjective)|tín hiệu
+1|register|(noun, verb)|dang ky lan dau
+1|secure|(adjective, verb)|Đảm bảo
+1|sky|(noun, verb)|trời
+1|stage|(noun, verb)|pha
+1|stick|(noun, verb)|Dán
+1|title|(noun, verb)|tiêu đề
+1|trouble|(noun, verb)|rắc rối
+1|advanced|(past, verb, adjective)|Nâng cao
+1|bowl|(noun, verb)|cái bát
+1|bridge|(noun, verb)|cầu
+1|campaign|(noun, verb)|chiến dịch
+1|club|(noun, verb)|Câu lạc bộ
+1|edge|(noun, verb, idiom)|Biên
+1|evidence|(noun, verb, idiom)|[Minh chứng]
+1|fan|(noun, verb, idiom)|Quạt
+1|letter|(noun, verb, idiom)|kí tự
+1|lock|(noun, verb, idiom)|khóa
+1|option|(noun, verb)|Lựa Chọn
+1|organized|(past, verb)|được tổ chức.
+1|pack|(noun, verb, adjective)|Đóng gói
+1|park|(noun, verb)|Công viên
+1|quarter|(noun, verb, adjective)|Quý
+1|skin|(noun, verb)|da
+1|sort|(noun, verb)|Sắp xếp
+1|weight|(noun, verb)|trọng lượng
+1|baby|(noun, verb, adjective)|bé
+1|carry|(noun, verb)|Mang
+1|dish|(noun, verb, idiom)|Món ăn
+1|exact|(adjective, verb)|EXACT
+1|factor|(noun, verb)|gene
+1|fruit|(noun, verb)|trái cây
+1|muscle|(noun, verb, adjective)|mô cơ
+1|traffic|(noun, verb)|Giao thông
+1|trip|(noun, verb, idiom)|Chuyến
+1|appeal|(noun, verb)|Kháng cáo
+1|chart|(noun, verb)|Biểu đồ
+1|gear|(noun, verb, adjective)|Thiết bị
+1|land|(noun, verb, idiom)|quốc gia
+1|log|(noun, verb)|SỔ GHI
+1|lost|(adjective, verb, idiom)|Mất
+1|net|(noun, verb)|net
+1|season|(noun, verb, idiom)|mùa
+1|spirit|(noun, verb, idiom)|Tinh thần
+1|tree|(noun, verb, idiom)|cây
+1|wave|(noun, verb, idiom)|Sóng
+1|belt|(noun, verb)|thắt lưng
+1|bench|(noun, verb)|Cung độ vận tải
+1|closed|(past, verb)|Đã đóng
+1|commission|(noun, verb)|Hoa hồng
+1|copy|(noun, verb, idiom)|copy
+1|drop|(noun, verb)|Huỷ
+1|firm|(adjective, verb, adverb)|một cách chắc chắn (adv)
+1|frequent|(adjective, verb)|Thường xuyên
+1|progress|(noun, verb, idiom)|tiến bộ
+1|project|(noun, verb)|ĐỒ ÁN
+1|stuff|(noun, verb)|vật liệu
+1|ticket|(noun, verb, idiom)|vé
+1|tour|(noun, verb)|chuyến du lịch
+1|angle|(noun, verb)|góc
+1|blue|(noun, verb, adjective)|xanh
+1|breakfast|(noun, verb)|Bữa sáng
+1|doctor|(noun, verb)|bac-si
+1|dot|(noun, verb, idiom)|Chấm
+1|dream|(noun, verb, adjective)|Giấc mơ
+1|essay|(noun, verb)| Tiểu luận
+1|father|(noun, verb)|ba
+1|fee|(noun, verb)|Phí
+1|finance|(noun, verb)|Tài chính
+1|juice|(noun, verb, idiom)|nước ép
+1|limit|(noun, verb)|Giới hạn Bộ nhớ WP
+1|luck|(noun, verb, idiom)|May mắn
+1|milk|(noun, verb, idiom)|sữa
+1|mixed|(past, verb)|Hỗn hợp
+1|mouth|(noun, verb, idiom)|miệng
+1|pipe|(noun, verb)|Tẩu
+1|please|(adverb, verb, idiom)|làm ơn
+1|seat|(noun, verb)|ghế
+1|stable|(noun, verb)|Ổn định
+1|storm|(noun, verb, idiom)|bão
+1|team|(noun, verb, adjective)|Team
+1|amazing|(adjective, verb)|kinh ngạc
+1|bat|(noun, verb)|Bộ Dơi
+1|beach|(noun, verb)|Bãi biển
+1|blank|(noun, verb, adjective)|ブランク
+1|busy|(adjective, verb)|Bận
+1|catch|(noun, verb)|bắt lấy
+1|chain|(noun, verb)|Chuỗi
+1|cream|(noun, verb, adjective)|Kem
+1|crew|(noun, verb)|phi hành đoàn
+1|detail|(noun, verb, idiom)|Chi tiết
+1|detailed|(past, verb)|Chi tiết
+1|interview|(noun, verb)|phỏng vấn
+1|kid|(noun, verb, adjective)|trẻ em
+1|mark|(noun, verb, idiom)|Điểm
+1|match|(noun, verb)|MATCH
+1|pain|(noun, verb, idiom)|Đau
+1|pleasure|(noun, verb)|Niềm vui
+1|score|(noun, verb, idiom)|lang
+1|screw|(noun, verb, idiom)|Ốc vít
+1|sex|(noun, verb, idiom)|Giới tính
+1|sharp|(adjective, verb, adverb)|nhọn
+1|shop|(noun, verb, interjection)|shop
+1|shower|(noun, verb, idiom)|vòi hoa sen
+1|suit|(noun, verb, idiom)|bộ đồ
+1|tone|(noun, verb)|tấn
+1|window|(noun, verb)|cửa sổ
+1|wise|(adjective, verb, idiom)|khôn
+1|band|(noun, verb)|Ban nhạc
+1|block|(noun, verb)|Chặn
+1|bone|(noun, verb, adverb)|xương
+1|calendar|(noun, verb)|カレンダー
+1|cap|(noun, verb)|Cap
+1|coat|(noun, verb)|áo khoác
+1|contest|(noun, verb)|Cuộc thi
+1|court|(noun, verb, idiom)|tòa án
+1|cup|(noun, verb)|Cúp
+1|district|(noun, verb)|Quận/Huyện
+1|finger|(noun, verb, idiom)|Ngón tay
+1|garage|(noun, verb)|nhà xe
+1|guarantee|(noun, verb)|bảo lãnh
+1|hole|(noun, verb, idiom)|Lô
+1|hook|(noun, verb, idiom)|Kéo
+1|implement|(noun, verb)|Triển Khai
+1|layer|(noun, verb)|khối:
+1|lecture|(noun, verb)|Bài giảng
+1|lie|(noun, verb, idiom)|nói dối
+1|married|(past, verb, adjective)|tình trạng quan hệ
+1|narrow|(adjective, verb, noun)|thu hẹp
+1|nose|(noun, verb, idiom)|mũi
+1|partner|(noun, verb)|Đối tác
+1|profile|(noun, verb)|profile
+1|respect|(noun, verb)|Tôn trọng
+1|rice|(noun, verb)|gạo
+1|schedule|(noun, verb)|lịch trình
+1|telephone|(noun, verb)|điện thoại
+1|tip|(noun, verb)|Mẹo
+1|bag|(noun, verb)|bao
+1|battle|(noun, verb)|Trận chiến
+1|bed|(noun, verb)|giường ngủ
+1|bill|(noun, verb)|hóa đơn
+1|bother|(noun, verb)|Làm phiền
+1|cake|(noun, verb)|bò hun khói
+1|code|(noun, verb)|tính năng
+1|curve|(noun, verb, idiom)|Cong
+1|dimension|(noun, verb)|Kích thước
+1|ease|(noun, verb)|Dễ
+1|farm|(noun, verb, idiom)|Farm
+1|fight|(noun, verb)|ĐÁNH
+1|gap|(noun, verb)|Khe
+1|grade|(noun, verb)|lớp
+1|horse|(noun, verb, adjective)|con ngựa
+1|host|(noun, verb)|máy chủ
+1|husband|(noun, verb)|chồng
+1|loan|(noun, verb, idiom)|Tiền vay
+1|mistake|(noun, verb, idiom)|lỗi
+1|nail|(noun, verb, idiom)|Móng (động vật)
+1|noise|(noun, verb)|Tiếng ồn
+1|occasion|(noun, verb, idiom)|dịp
+1|package|(noun, verb)|trọn gói
+1|pause|(noun, verb, idiom)|Tạm dừng
+1|phrase|(noun, verb)|Cụm từ
+1|race|(noun, verb)|Đua
+1|sand|(noun, verb, idiom)|bụi
+1|sentence|(noun, verb)|câu.
+1|shoulder|(noun, verb, idiom)|Vai
+1|smoke|(noun, verb, idiom)|Khói
+1|stomach|(noun, verb)|dạ dày
+1|string|(noun, verb, idiom)|chuỗi
+1|surprised|(past, verb)|ngạc nhiên
+1|towel|(noun, verb)|khăn tắm
+1|vacation|(noun, verb)|(period of time +) nghỉ hè
+1|wheel|(noun, verb, idiom)|xe đạp
+1|arm|(noun, verb)|Cánh tay
+1|associate|(noun, verb, adjective)|Liên kết
+1|bet|(noun, verb)|Đặt cược
+1|blow|(noun, verb)|Thổi
+1|border|(noun, verb)|Đường viền
+1|branch|(noun, verb)|CHI NHÁNH
+1|breast|(noun, verb)|Vú
+1|buddy|(noun, verb)|Bạn bè
+1|bunch|(noun, verb)|Bó
+1|chip|(noun, verb)|Chip
+1|coach|(noun, verb, adverb)|huấn luyện
+1|cross|(noun, verb, adjective)|クロス
+1|document|(noun, verb)|Hồ sơ
+1|draft|(noun, verb, adjective)|Bản nháp
+1|dust|(noun, verb)|bão cát
+1|floor|(noun, verb)|Sàn nhà
+1|golf|(noun, verb)|môn đánh golf
+1|habit|(noun, verb)|thói quen
+1|iron|(noun, verb)|sắt
+1|judge|(noun, verb)|Thẩm phán
+1|knife|(noun, verb)|con dao
+1|landscape|(noun, verb)|風景
+1|league|(noun, verb)|liên đoàn
+1|mail|(noun, verb)|Nhập tên đăng nhập hoặc địa chỉ email.
+1|mess|(noun, verb)|Lộn xộn
+1|parent|(noun, verb)|parent
+1|pattern|(noun, verb)|Mẫu
+1|pin|(noun, verb)|ghim
+1|pool|(noun, verb)|プール
+1|pound|(noun, verb)|Bảng Anh
+1|request|(noun, verb)|yêu cầu
+1|salary|(noun, verb)|Lương
+1|shame|(noun, verb)|xấu hổ
+1|shelter|(noun, verb)|nơi trú ẩn
+1|shoe|(noun, verb)|Giày
+1|tackle|(noun, verb)|Giải quyết
+1|tank|(noun, verb)|Xe tăng
+1|trust|(noun, verb)|Tin tưởng
+1|assist|(noun, verb)|trợ giúp
+1|bake|(noun, verb)|Bake
+1|bar|(noun, verb, preposition)|Bar
+1|bell|(noun, verb)|(cái) chuông
+1|bike|(noun, verb)|xe đạp
+1|blame|(noun, verb)|đổ lỗi
+1|brick|(noun, verb)|gạch
+1|chair|(noun, verb)|ghế
+1|closet|(noun, verb, adjective)|tủ quần áo
+1|clue|(noun, verb)|Đầu mối
+1|collar|(noun, verb)|Cổ áo
+1|comment|(noun, verb)|bình luận
+1|conference|(noun, verb)|hội nghị
+1|devil|(noun, verb)|quy su ha
+1|diet|(noun, verb)|CHẾ ĐỘ ĂN KIÊNG:
+1|fear|(noun, verb)|Sợ
+1|fuel|(noun, verb)|Nhiên Liệu
+1|glove|(noun, verb)|găng tay
+1|jacket|(noun, verb)|áo khoác
+1|lunch|(noun, verb)|bữa ăn trưa
+1|monitor|(noun, verb)|BỘ THEO DÕI
+1|mortgage|(noun, verb)|Thế chấp
+1|nurse|(noun, verb)|Y tá
+1|pace|(noun, verb, preposition)|tốc độ
+1|panic|(noun, verb)|hoảng loạn
+1|peak|(noun, verb, adjective)|Peak
+1|provided|(past, verb)|Cung cấp
+1|reward|(noun, verb)|KHEN THƯỞNG
+1|row|(noun, verb)|dòng
+1|sandwich|(noun, verb)|bánh mì kẹp
+1|shock|(noun, verb)|Rung lắc
+1|spite|(noun, verb)|Bất bình
+1|spray|(noun, verb)|Phun bọt
+1|surprise|(noun, verb)|bat ngo
+1|till|(noun, verb)|đến
+1|transition|(noun, verb)|遷移
+1|weekend|(noun, verb)|Cuối tuần
+1|yard|(noun, verb)|Yard
+1|alarm|(noun, verb)|Còi báo động
+1|bend|(noun, verb)|bẻ cong
+1|bicycle|(noun, verb)|xe đạp
+1|bite|(noun, verb)|cắn
+1|blind|(noun, verb, adjective)|Ngày mù
+1|bottle|(noun, verb)|(con) chai (1&amp
+1|cable|(noun, verb)|Cáp
+1|candle|(noun, verb)|Nến
+1|clerk|(noun, verb)|thư ký
+1|cloud|(noun, verb)|đám mây
+1|concert|(noun, verb)|Buổi hòa nhạc
+1|counter|(noun, verb, adverb)|Người đếm
+1|dirty|(adjective, verb)|dơ bẩn
+1|flower|(noun, verb)|hoa
+1|grandfather|(noun, verb)|Ông
+1|harm|(noun, verb)|làm hại
+1|knee|(noun, verb)|chavakano
+1|lawyer|(noun, verb)|Luật sư
+1|load|(noun, verb)|Trọng tải
+1|loose|(adjective, verb)|~Lỏng
+1|mirror|(noun, verb)|gương
+1|neck|(noun, verb)|Cổ
+1|pension|(noun, verb)|Tiền cấp dưỡng
+1|plate|(noun, verb)|cái đĩa
+1|pleased|(past, verb)|vừa lòng
+1|proposed|(past, verb)|Các đề xuất
+1|ruin|(noun, verb)|Hủy hoại
+1|ship|(noun, verb)|Tàu thủy
+1|skirt|(noun, verb)|váy
+1|slice|(noun, verb)|Lát
+1|snow|(noun, verb)|tuyết
+1|stroke|(noun, verb)|đột quỵ
+1|switch|(noun, verb)|chuyển đổi
+1|tired|(past, verb)|Mệt
+1|trash|(noun, verb)|Rác
+1|tune|(noun, verb)|Điều chỉnh
+1|worried|(past, verb)|Lo âu
+1|zone|(noun, verb)|Vùng
+1|anger|(noun, verb)|Tức giận
+1|award|(noun, verb)|Giải thưởng
+1|bid|(noun, verb)|Đấu Thầu
+1|boot|(noun, verb)|Ủng
+1|bug|(noun, verb)|Lỗi #
+1|camp|(noun, verb, adjective)|trại
+1|candy|(noun, verb)|Kẹo
+1|carpet|(noun, verb)|thảm
+1|cat|(noun, verb)|con mèo
+1|champion|(noun, verb)|Quán quân
+1|channel|(noun, verb)|Kênh
+1|clock|(noun, verb)|クロック
+1|comfort|(noun, verb)|Comfort
+1|cow|(noun, verb)|con bò
+1|crack|(noun, verb, adjective)|đứt gãy
+1|disappointed|(past, verb)|thất vọng
+1|empty|(adjective, verb, noun)|trống
+1|engineer|(noun, verb)|Kỹ sư
+1|entrance|(noun, verb)|エントランス
+1|fault|(noun, verb)|lỗi
+1|grass|(noun, verb)|cỏ
+1|guy|(noun, verb)|chàng
+1|highlight|(noun, verb)|Nổi bật
+1|island|(noun, verb)|đảo
+1|joke|(noun, verb)|Mẩu truyện cười
+1|jury|(noun, verb, adjective)|Bồi thẩm đoàn
+1|leg|(noun, verb)|chân
+1|lip|(noun, verb)|Môi
+1|mate|(noun, verb)|Mate
+1|nerve|(noun, verb)|Hệ thần kinh
+1|passage|(noun, verb)|đoạn văn
+1|pen|(noun, verb)|cái bút
+1|pride|(noun, verb)|tự hào
+1|priest|(noun, verb)|LINH MỤC
+1|promise|(noun, verb)|lời hứa
+1|resort|(noun, verb)|Khu nghỉ mát
+1|ring|(noun, verb)|gọi
+1|roof|(noun, verb)|mái nhà
+1|rope|(noun, verb)|dây thừng
+1|sail|(noun, verb)|Buồm
+1|scheme|(noun, verb)|hệ thống
+1|script|(noun, verb)|Kịch bản
+1|slight|(adjective, verb, noun)|Rất ít
+1|smart|(adjective, verb, noun)|Thông minh
+1|sock|(noun, verb)|Bít tất
+1|station|(noun, verb)|trạm
+1|toe|(noun, verb)|Ngón chân
+1|tower|(noun, verb)|Tháp
+1|truck|(noun, verb)|Xe tải
+1|witness|(noun, verb)|NHÂN CHỨNG:

@@ -1,0 +1,6 @@
+1|invertible|science|có thể đảo ngược
+1|non-singular|science|không đặc biệt, không dị thường.
+1|square|science|bình phương
+1|ỉ|science|y mũ
+1|bias|science|sự thiên vị, khuynh hướng, ảnh hưởng.
+1|x|science| x bar, x ngang

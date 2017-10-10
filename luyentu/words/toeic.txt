@@ -1,0 +1,863 @@
+1|Abide by (v)to comply with, to conform|toeic|tuân theo, tuân thủ
+1|Agreement /ə’gri:mənt/(n) a mutual arrangement, a contract|toeic|hợp đồng, giao kèo
+1|Agree /ə’gri:/ (v) agreeable (adj)|toeic|đồng ý, tán thành, bằng lòng, thoả thuận
+1|Assurance /ə’ʃuərəns/ (n) guarantee, confidence|toeic|sự chắc chắn; sự tin chắc; điều chắc chắn, điều tin chắc
+1|Cancel (v)to annul, to call off|toeic|hủy bỏ
+1|Determine /di’tə:min/ (v)to find out, to influence|toeic|định, xác định, định rõ
+1|Engage / in’geidʒ/ (v) to hire, to involve+|toeic|dàn xếp để tuyển dụng một người; thuê một người
+1|Establish /is’tæbli∫/ (v)to institute permanently, to bring about|toeic|lập, thành lập, thiết lập, kiến lập
+1|Obligate / ‘ɔbligei/ (v)to bind legally or morally|toeic|bắt buộc, ép buộc
+1|Obligation /,ɔbli’gei∫n/ (n) obligatory (adj)|toeic|nghĩa vụ, bổn phận
+1|Party (n) a person or group participating in an action or plan the persons or sides|toeic|buổi tiệc, liên hoan concerned in a legal matter|toeic|1 người hoặc 1 nhóm tham gia (một kế hoạch, một hành động..)
+1|Provision /provision/ (n) a measure taken beforehand, a stipulation|toeic|điều khoản
+1|Provider(n) provision
+1|Resolve /ri’zɔlv/ (v)to deal with successfully, to declare|toeic|quyết tâm, ý kiên quyết
+1|Specify /spesi, fai/ (v)to mention explicitly|toeic|chỉ rõ, ghi rõ, định rõ, ghi chú vào phần chi tiết kỹ thuật
+1|Specification(n)|toeic|sự chỉ rõ, sự định rõ
+1|Specific (adj)|toeic|rõ ràng, rành mạch
+Lesson 2 Marketing |toeic|thị trường, nơi tiêu thụ; khách hàng
+1|Attract /ə’trækt/ (v)to draw by appeal|toeic|thu hút, hấp dẫ(n) lôi cuốn
+1|Attraction(n) attractive (adj)
+1|Compare /kəm’peə/ (v)to examine similarities and differences|toeic|+ with (so, đối chiếu;) + to (so sánh)
+1|Comparison n/kəm’pærisn/. comparable /’kɔmpərəbl/(adj)|toeic|có thể so sánh được
+1|Compete /kəm’pi:t/ (v)to strive against a rival|toeic|đua tranh, ganh đua, cạnh tranh
+1|Consume /kən’sju:m/ (v)to absorb, to use up|toeic|dùng, tiêu thụ
+1|Consumer /kən’sju:mə/(n) người tiêu dùng, người tiêu thụ|toeic|hàng hoá, thực phẩm…
+1|consumable /kən’sju:məbl/ (adj)|toeic|có thể ăn được, có thể tiêu thụ được
+1|Convince /kən’vins/ (v)to bring to believe by argument, to persuade|toeic|làm cho tin làm cho nghe theo, thuyết phục
+1|Current (adj) Happening or existing at the present time, (adv) To be on top of things|toeic|hiện tại…
+1|Fad /fæd/ (n) a practice followed enthusiastically for a short time, a craze|toeic|mốt
+1|Inspire /in’spaiə/ (v)|toeic|truyền|toeic|cảm hứng, ý nghĩ…; truyền cảm hứng cho|toeic|ai, gây cảm hứng cho (ai)
+1|Market (v)the course of buying and selling a product,(n) the demand for a product|toeic|giá thị trường; tình hình thị trường
+1|Marketing (n) marketable (adj)
+1|Persuade /pə’sweid/ (v)to move by argument or logic|toeic|làm cho tin; thuyết phục
+1|Productive (adj) constructive, high yield|toeic|sản xuất
+1|Satisfy /’sætisfai/ (v)to make happy|toeic|làm thoả mã(n) làm vừa lòng, đáp ứng (được yêu cầu, điều kiện…)
+Lesson 3|toeic|Warranties /wɔrənti/|toeic|sự bảo đảm
+1|Characteristic /,kæriktə’ristik/ (adj) revealing of individual traits|toeic|riêng, riêng biệt, đặc thù, đặc trưng
+1|Consequence /’kɔnsikwəns/(n) that which follows necessarily|toeic|tầm quan trọng, tính trọng đại
+1|Consider /kən’sidə/ (v)to think about carefully|toeic|cân nhắc, xem xét, suy xét, suy nghĩ
+1|Consideration(n) considerable
+1|Cover (v)to provide protection against|toeic|che, phủ, bao phủ, bao trùm, bao bọc
+1|Expire /iks’paiə/ (v)to come to an end|toeic|mãn hạn kết thúc, hết hiệu lực (luật) mai một, mất đi
+1|Frequently /’fri:kwənt/ (adv) occurring commonly, widespread|toeic|thường xuyên hay xảy ra, có luôn
+1|Imply /im’plai/ (v)to indicate by inference|toeic|ý nói; ngụ ý; bao hàm ý
+1|Promise (v)n. to pledge to do, bring about, or provide|toeic|lời hứa, điều hứa, điều hẹn ước; sự hứa hẹn
+1|Protect (v)to guard|toeic|bảo vệ, sự bảo vệ, chê chở
+1|Protection(n) protective (adj)
+1|Reputation /,repju:’teiʃn/ (n) the overall quality of character|toeic|tiếng tốt, thanh danh, danh tiếng
+1|Reputable (adj) Reputed (adj)|toeic|‘repjutəbl có tiếng tốt, danh giá; đáng kính trọng
+1|Require /ri’kwaiə/ (v)to deem necessary or essential |toeic|đòi hỏi, yêu cầu
+1|Requirement(n) requisite (adj)
+1|Vary /’veəri/ (v)to be different from another, to change|toeic|làm cho khác nhau, thay đổi, biến đổi
+Lesson 4|toeic|Business planning
+1|Address (v)to direct to the attention of|toeic|địa chỉ, chuyển đi tới
+1|Avoid /ə’vɔid/ (v)to stay clear of, to keep from happening|toeic|tránh, tránh xa
+1|Demonstrate /’demənstreit/ (v)to show clearly and deliberately, to present by example|toeic|chứng minh, giải thích, bày tỏ, biểu lộ, làm thấy rõ
+1|Demonstration(n) demonstrative (adj)
+1|Develop /di’veləp/ (v)to expand, progress, or improve|toeic|phát triển mở mang, mở rộng, khuếch trương, làm cho phát đạt
+1|Development(n) developer(n)
+1|Evaluate /i’væljueit/ (v)to determine the value or impact of|toeic|ước lượng , định giá
+1|Evaluation(n) evaluator(n)
+1|Gather /’gæðə/ (v)to accumulate, to conclude|toeic|tập hợp lại, tụ họp lại, kéo đến
+1|Offer (v)to propose, to present in order to meet a need or satisfy a requirement|toeic|đưa ra đề nghị
+1|Primary /’praiməri/ (adj) Most important, first in a list, series, or sequence|toeic|chủ yếu, chính, bậc nhất
+1|Risk (n) the chance of loss or damage|toeic|sự rủi ro, sự nguy hiểm
+1|Strategy /’strætidʤi/ (n) a plan of action|toeic|chiến lược
+1|Strategize(n) strategic (adj)
+1|Strong (adj) powerful, economically or financially sound|toeic|mạnh khỏe, bền vững
+1|Substitute /’sʌbstitju:t/ (v)to take the place of another|toeic|thế, thay thế
+Lesson 5|toeic|Conferences /’kɔnfərəns/ hội nghị
+1|Accommodate /ə’kɔmədeit/ (v)to fit, to provide with something needed|toeic|điều tiết, làm cho thích nghi, làm cho phù hợp
+1|Accommodation(n) accommodating (adj)
+1|Arrangement /ə’reindʤmənt/ n , the plan or organization|toeic|sự sắp xếp, sự sắp đặt, cái được sắp xếp, cái được sắp đặt
+1|Association /ə,sousi’eiʃn/ (n) an organization of persons or groups having a common interest|toeic|hội, hội liên hiệp; đoàn thể, công ty
+1|Attend /ə’tend/ (v) to go to, to pay attention to|toeic|dự, có mặt
+1|Attendee(n), attendance(n)
+1|Get in touch (v) to make contact with|toeic|giữ lien lạc
+1|Hold (v) to accommodate; to conduct|toeic|tổ chức, tiến hành
+1|Location /lou’keiʃn/ (n) a position or site|toeic|vị trí
+1|Overcrowded /’ouvə’kraud/ a, too crowded|toeic|kéo vào quá đông, dồn vào quá đông
+1|Register (v) to record|toeic|đăng ký
+1|Register(n) registration(n)
+1|Select (v) to choose from a group|toeic|chọn lựa chọn
+1|Selection(n) selective (adj)sự lựa chọn
+1|Session (n) a meeting buổi họp, kỳ họp, khóa học
+1|Take part in (v) to join or participate|toeic|tham gia, tham dự
+Lesson 6|toeic|computers
+1|Access (v) to obtai(n) to gain entry|toeic|truy cập, đường vào
+1|Access(n) accessible (adj)
+1|Allocate/’æləkeit/ (v) to designate for a specific purpose|toeic|chỉ định, chia phần
+1|Compatible /kәm’pætәbl/ a, able to function together|toeic|tương tác, thích ứng
+1|Delete (v) to remove; to erase|toeic|xóa
+1|Display (n) what is visible on a monitor; (v) to show|toeic|trình bày, trưng bày
+1|Duplicate /´dju:plikit/ (v) to produce something equal; to make identical|toeic|bản sao, gấp đôi
+1|Duplicate(n) duplication (n)
+1|Fail (v) not to succeed; not to work correctly|toeic|trượt, không thành công
+1|Failure(n) fallible (adj)
+1|Figure out (v) to understand , to solve|toeic|chỉ ra, hiểu ra
+1|Ignore (v) not to notice; to disregard|toeic|bỏ qua, lờ đi
+1|Search (v) to look for; (n) investigation|toeic|tìm kiếm, tìm hiểu
+1|Shot down (v) to turn off; to cease operation|toeic|đóng lại, ngừng lại
+1|Warn (v) to alert; to tell about a danger or problem|toeic|cảnh báo
+1|Warning(n) warning (adj
+Lesson 7 Office
+1|Affordable (adj) able to be paid for; not too expensive|toeic|hợp lý (giá cả)
+1|As needed (adv) as necessary|toeic|cần thiết
+1|Be in charge of (v) to be in control or command of|toeic|có trách nhiệm về…, nghĩa vụ về ..
+1|Capacity (n) the ability to contain or hold; the maximum that something can hold|toeic|sức chứa, khả năng
+1|Durable (adj) sturdy, strong, lasting|toeic|lâu bền
+1|Initiative (n) the first step; an active role|toeic|sáng kiến
+1|Initiate (v) initiation(n)
+1|Physical (adj) perceived by the senses|toeic|vật chất, điều gì đó liên quan đến tự nhiên
+1|Provider (n) a supplier|toeic|nhà cung cấp
+1|Provide (v) provision(n)
+1|Recur (v) to occur again or repeatedly|toeic|tái diễn tái hiện
+1|Recurrence(n) recurring (adj)
+1|Reduction (n) a lessening , a decrease|toeic|thu nhỏ, giảm bớt
+1|Reduce (v) reducible (adj)
+1|Stay on top of (v) to know what is going on; to know the latest information|toeic|cập nhật
+1|Stock (n) a supply; (v) to keep on hand|toeic|dự trữ, cổ phần
+Lesson 8|toeic|Office Procedures
+1|Appreciate (v) to recognize, understand the importance of; to be thankful for|toeic|đánh giá cao
+1|Appreciation(n) appreciated (adj)
+1|Be exposed to (v) to become aware of; to gain experience in|toeic|được biết về…, được mở mang đầu óc về…
+1|Bring in (v) to hire or recruit; to cause to appear|toeic|dẫn tới, mang tới
+1|Casual (adj) informal|toeic|thân mật, không nghi thức
+1|Code (n) rules of behavior|toeic|bộ luật, quy luật
+1|Glimpse (n) a quick look|toeic|lướt qua, thoáng qua
+1|Made of (v) to consist of |toeic|tạo nên
+1|Out of (adj) no longer having, missing|toeic|hết, mất
+1|Outdated (adj) obsolete; not currently in use|toeic|hết hạn
+1|Practice (n) method of doing something|toeic|tập luyện
+1|Practice (v) practical (adj)|toeic|củng cố, gia cố
+1|Reinforce (v) to strengthe(n) support|toeic|củng cố, gia cố
+1|Reinforcement(n) reinforcing gerund
+1|Verbal (adj) oral|toeic|bằng lời nói
+1|Verbalize (v) verbally (adv)
+Lesson 9|toeic|Electronics|toeic|điện tử
+1|Disk (n) an object used to store digital information|toeic|đĩa máy tính
+1|Facilitate (v) to make easier|toeic|làm cho dễ dàng, thuận tiện
+1|Network (n) an interconnected group or system|toeic|mạng lưới
+1|Popularity (n) the state of being widely admired, sought|toeic|tính đại chúng, phổ biến
+1|Popularize (v) popular (adj)
+1|Process (n) a series of operations or actions to bring about a result|toeic|quy trình
+1|Replace (v) to put back in a former place or position|toeic|thay thế
+1|Replacement(n) replaceable (adj)
+1|Revolution (n) a sudden or momentous change in a situation|toeic|cuộc cách mạng, quay vòng
+1|Revolutionized (v) revolutionary (adj)
+1|Sharp (adj) abrupt or acute; smart|toeic|sắc nét
+1|Skills (n) developed ability|toeic|kỹ năng
+1|Software (n) the programs for a computer|toeic|phần mềm
+1|Storage (n) the safekeeping of goods or information|toeic|kho, sự dự trữ
+1|Store (v)(n) dự trữ, cất trữ, cửa hàng
+1|Technical (adj) special skill or knowledge|toeic|Kỹ thuật
+Lesson 10 Correspondence|toeic|quan hệ thư từ
+1|Assemble (v) to put together; to bring together|toeic|thu thập, lắp ráp
+1|Beforehand (adv) early, in advance|toeic|sớm, trước
+1|Complicated (adj) not easy to understand|toeic|phức tạp
+1|Complication(n) complicated (adj)
+1|Courier (n) a , a messenger|toeic|người chuyển phát, đưa thư
+1|Express (adj) fast and direct|toeic|chuyển phát nhanh
+1|Fold (v) to bend paper|toeic|phủ, bao bọc, gấp lại
+1|Layout (n) a format; the organization of material on a page|toeic|Sự bố trí, bố cục
+1|Mention (v) to refer to; (n) something read or written|toeic|đưa ra, đề cập đến
+1|Mention (n) mentionable (adj)
+1|Petition (n) a formal, written request; (v) to make a formal request|toeic|lời thỉnh cầu, đề nghị
+1|Proof (v) to look for errors|toeic|bằng chứng
+1|Proofreader(n) proofing gerund.Người hiệu đính, hiệu đính viên
+1|Registered (adj) recorded and tracked|toeic|đã vào sổ, đã đăng ký
+1|Registration(n) registered (adj)
+1|Revise (v) to rewrite|toeic|sửa lại, bản sửa
+Lesson 11|toeic|Job Advertising and Recruiting
+1|Abundant /ə´bʌndənt/ (adj) plentiful, in large quantities; (n) a large number|toeic|nhiều, thừa thãi,
+1|Accomplishment /ə’kɔmpliʃmənt/ (n) an achievement, a success |toeic|việc đã hoàn thành, thành quả, thành tựu, thành tích
+1|Accomplish /ə’kɔmpliʃ/ (v) hoàn thành, làm xong, làm trọn
+1|Accomplished (adj)
+1|Bring together (v) to joi(n) to gather|toeic|gom lại; nhóm lại, họp lại
+1|Candidate /’kændidit/ (n) one being considered for a positio(n) office|toeic|Người dự thi; thí sinh
+1|Come up with (v) to pla(n) to invent, to think of|toeic|ý định
+1|Commensurate (adj) in proportion to, corresponding, equal to|toeic|(+ to, with) bằng kích cỡ với
+1|Match (n) a fit, a similarity|toeic|vừa, khớp
+1|Profile (n) a group of characteristics or traits|toeic|Tiểu sử sơ lược; mô tả sơ lược
+1|Qualifications /,kwalifi’kei/ (n) requirements, qualities, or abilities needed for something|toeic|Phẩm chất, năng lực,
+1|Qualify /’´kwɔli¸fai/ (v) :Đủ tư cách, khả năng, điều kiện
+1|Qualified (adj) :Đủ tư cách, khả năng, điều kiện
+1|Recruit /ri’kru:t/ (v) to attract people to join an organization of a cause|toeic|tuyển dụng
+1|Recruitment(n) recruiter(n)|toeic|sư tuyển dụng, tuyển trạch viên
+1|Submit /səb´mit/ (v) to present for consideration|toeic|biện hộ
+1|Submission(n) sự đệ trình, sự nộp
+1|Time-consuming (adj) taking up a lot of time|toeic|cần nhiều thời gian
+Lesson 12|toeic|Applying and Interviewing|toeic|xin việc và phng vấn
+1|Ability (n) a skill, a competence|toeic|khả năng
+1|Apply (v) nộp (đơn xin việc)
+1|Applicant(n) application(n)người nộp đơn xin việc
+1|Background (n) a person’s experience|toeic|kinh nghiệm
+1|Be ready for (v) to be prepared|toeic|sẵn sàng cho…
+1|Call in (v) to request|toeic|yêu cầu, ,mời tới
+1|Confidence (n) a belief in one’s ability|toeic|tự tin
+1|Confident (adj) Confidently (adv)|toeic|tự tin
+1|Constantly (adj) on a continual basis, happening all the time|toeic|liên tục, luôn luôn không đổi
+1|Expert (n) a specialist|toeic|nhà chuyên môn chuyên sâu, thành thạo
+1|Expertise(n) expert (adj)
+1|Follow up (v) to take additional steps, to continue|toeic|tiếp tục, tiếp theo
+1|Hesitate (v) to pause, to be reluctant|toeic|do dự, lưỡng lự
+1|Present (v)to introduce, to show, to offer for consideration|toeic|trình bày, giới thiệu
+1|Presentation(n) presentable (adj)
+1|Weakness (n) a fault, a quality lacking strength|toeic|điểm yếu
+Lesson 13 Hiring and Training|toeic|tuyển dụng và đào tạo
+1|Conduct (v) to hold, to take place, to behave|toeic|hướng dẫn, chỉ đạo
+1|Generate (v) to create, to produce|toeic|sinh ra
+1|Hire (v) to employ, to offer a job or position|toeic|thuê, mướn
+1|Hire (n) hiring gerund|toeic|thuê, tuyển dụng
+1|Keep up with (v) to stay equal with|toeic|giữ cân bằng
+1|Look up to (v) to admire, to think highly of|toeic|Khâm phục, ngyưỡng mộ
+1|Mentor (n) a person who guides|toeic|người cố vấn
+1|On track (adj) on schedule|toeic|Theo dõi
+1|Reject (v) to turn dow(n) to say no|toeic|từ chối
+1|Rejection(n) rejecting gerund
+1|Set up (v) to establish, to arrange; a , arranged|toeic|thiết lập, tạo dựng
+1|Success (n) reaching a goal|toeic|thành công
+1|Succeed (v) successful (adj)
+1|Training (n) the preparation or education for a specific job|toeic|đào tạo
+1|Trainer(n) trainee(n)
+1|Update (v) to make current. (n) the latest information|toeic|cập nhật
+Lesson 14|toeic|Salaries and benefits|toeic|lương và trợ cấp
+1|Basis (n) the main reason for something, a base or foundation|toeic|nền tảng, cơ bản
+1|Be aware of (v)to be conscious of, to be knowledgeable about|toeic|am hiểu về
+1|Benefits (n) the advantages provided to a employee in addition to salary|toeic|tiền trợ cấp
+1|Benefit (v) giúp ích cho
+1|Beneficial (adj)|toeic|có ích, có lợi
+1|Compensate (v)to pay, to make up for.bồi thường, đền bù
+1|Compensation(n) sự đền bù, sự bồi thường
+1|Compensatory (adj)
+1|Delicate (adj) sensitive, (adv) With sensitivity|toeic|nhạy bén, khéo léo
+1|Eligible (adj) able to participate in something, qualified|toeic|đủ tư cách, thích hợp
+1|Flexible (adj) not rigid, able to change easily|toeic|, dễ sai khiến dễ uốn nắn
+1|Negotiate (v)to talk for the purpose of reaching an agreement especially on prices or contracts|toeic|đàm phán, thương lượng
+1|Negotiation(n) negotiator(n)
+1|Raise (n) an increase in salary|toeic|sự tăng lương
+1|Retire (v)to stop working, to withdraw from a business or profession|toeic|nghỉ hưu
+1|Retirement(n) retired (adj)
+1|Vested (adj) Absolute, authorized|toeic|được quyền, được phép
+1|Wage (n) the money paid for work done, usually hourly|toeic|tiền công, tiền lương
+Lesson 15|toeic|Promotions, Pensions and Awards
+1|Achieve (v) to succeed , to reach a goal|toeic|giành được, hoàn thành
+1|Achievement(n) achiever(n)
+1|Contribute (v) to add to, to donate, to give|toeic|đóng góp, góp phần
+1|Contribution(n) contributor(n)
+1|Dedication (n) a commitment to something|toeic|cống hiến
+1|Dedicate (v) dedicated (adj)
+1|Look forward to (v) to anticipate, to be eager for something to happen|toeic|chờ đợi, mong đợi
+1|Looked to (v) to depend on , to rely on|toeic|trông chờ vào, phụ thuộc vào
+1|Loyal (adj) faithful, believing in something or somebody|toeic|trung thành
+1|Merit (n) experience, high quality|toeic|xuất sắc
+1|Obvious (adj) easy to see or understand|toeic|rõ ràng, hiển nhiên
+1|Productive (adj) useful, getting a lot done|toeic|năng suất, khả năng làm việc
+1|Promote (v) to give someone a better job; to support, to make known|toeic|đề đạt
+1|Promotion(n) promoter(n)
+1|Recognition (n) credit, praise for doing something well|toeic|sự công nhận sự thừa nhận
+1|Value (n) worth|toeic|đáng giá
+Lesson 16 |toeic|Shopping
+1|Bargain (n) something offered or acquired at a price advantageous to the buyer|toeic|mặc cả
+1|Bear (v) to have a tolerance for, to endure|toeic|chịu đựng
+1|Behavior (n) the manner of one’s action|toeic|cách ứng xử, đối xử
+1|Checkout (n) the act, time, or place of checking out, as at a hotel or a supermarket|toeic|thanh toán, quầy thanh toán
+1|Comfort (n) a condition or feeling of pleasurable ease, well-being, and contentment|toeic|thỏai mái, dễ dàng
+1|Comfortable (adj) comfortably (adv)
+1|Expand (v) to increase the size, volume, quantity, or scope of; to enlarge|toeic|nới rộng
+1|Expansion(n) expanded (adj)
+1|Explore (v) to investigate systematically|toeic|thăm dò, khảo sát
+1|Exploration(n) exploratory (adj)
+1|Item (n) a single article or unit|toeic|mặt hàng
+1|Mandatory (adj) required or commanded, obligatory|toeic|bắt buộc
+1|Merchandise (n) items available in stores|toeic|hàng hóa mua bán
+1|Strict (adj) precise. exact|toeic|chặt chẽ
+1|Strictness(n) strictly (adv)
+1|Trend (n) the current style|toeic|xu hướng, xu thế
+Lesson 17|toeic|Ordering Supplies|toeic|phiếu tiếp tế
+1|Diverse (adj) different; made up of distinct qualities|toeic|đa dạng
+1|Diversify (v) diversity(n)|toeic|đa dạng hóa
+1|Enterprise (n) a business; a large project:
+1|Công trình dự án lớn
+1|Essential (adj) indispensable, necessary|toeic|cần thiết
+1|Everyday (adj) commo(n) ordinary|toeic|thông thường, thông dụng
+1|Function (v) to perform tasks|toeic|chức năng, trách nhiệm
+1|Function(n) functional (adj)
+1|Maintain (v) to continue, to support, to sustain|toeic|duy trì
+1|Maintainability(n) maintainable (adj)
+1|Obtain (v) to acquire|toeic|đạt được, có được
+1|Prerequisite (n) something that is required or necessary as a prior condition|toeic|điều kiện ưu tiên
+Quality (n) a distinguishing characteristic|toeic|chất lượng
+1|Smooth (adj) without difficulties; deliberately polite and agreeable in order to win favor|toeic|êm thấm, suôn sẻ
+1|Smooth out (v)
+1|Smoothly adv|toeic|làm cho suôn sẻ
+1|Source (n) the origin|toeic|nguồ(n) nguồn gốc
+1|Stationery (n) writing paper and envelopes|toeic|đồ dùng văn phòng
+Lesson 18|toeic|Shipping|toeic|Vận tải, chở hàng
+1|Accurate (adj) exact; errorless|toeic|đúng, chính xác
+1|Accuracy(n) accurately (adv)
+1|Carrier (n) a person or business that transports passengers or goods|toeic|người hoặc một hãng vận chuyển
+1|Catalog (adj) a list or itemized display; (v) to make an itemized list of |toeic|sách danh mục chi tiết
+1|Fulfill (v) to finish completely|toeic|hoàn thành (công việc, nhiệm vụ)
+1|Fulfilling gerund fulfillment(n)|toeic|sự hoàn thành
+1|Integral (adj) necessary for completion|toeic|cần thiết, ko thể thiếu
+1|Inventory (n) goods in stock; an itemized record of these goods|toeic|Kiểm kê (hàng hóa)
+1|Minimize (v) to reduce, to give less importance to|toeic|giảm tới mức tối thiểu
+1|Minimal (adj) minimum(n)|toeic|tối thiểu
+1|On hand (adj) available|toeic|sẵn sàng, sẵn có
+1|Remember (v) to think of again|toeic|nhớ, nhớ lại
+1|Ship (v) to transport; to send|toeic|vận chuyển
+1|Shipper(n) shipment(n)|toeic|việc gửi hàng
+1|Sufficient (adj) as much as is needed|toeic|vừa đủ
+1|Supply (v) to make available for use|toeic|cung cấp
+Lesson 19 Invoices |toeic|Hóa đơn
+1|Charge (n) an expense or a cost; (v) to demand payment|toeic|thu phí
+1|Compile (v) to gather together from several sources|toeic|thu thập
+1|Customer (n) one who purchases a commodity or service|toeic|khách hàng
+1|Discount (n) a reduction in price; to reduce in price|toeic|giảm giá
+1|Efficient (adj) acting or producing effectively with a minimum of waste|toeic|có hiệu lực, hiệu quả
+1|Estimate (v) to approximate the amount or value of something; to form am opinion about something|toeic|ước lượng. định giá
+1|Estimation(n) estimating gerund
+1|Impose (v) to establish or apply as compulsory; to force upon others|toeic|áp đặt, ép buộc, bắt ai phải làm gì đó
+1|Imposition(n) imposing (adj)|toeic|đánh (thuế ai đó)
+1|Mistake (n) an error or a fault|toeic|lỗi
+1|Mistaken (v) (adj)
+1|Order (n) a request made to purchase something ; (v) to command or direct|toeic|đơn đặt hàng
+1|Prompt adj being on time or punctual, carried out without delay,(n) a reminder or a cue|toeic|nhanh chóng
+1|Promptness(n) prompt (v)
+1|Rectify (v)to set right or correct|toeic|chỉnh sửa
+1|Terms (n) conditions|toeic|điều khỏan
+Lesson 20|toeic|Inventory|toeic|kiểm kê hoàng hóa
+1|Adjust (v)to change in order to match or fit, to cause to correspond|toeic|điều chỉnh, dàn xếp
+1|Adjustment(n) adjustable (adj)
+1|Automatic (adj) Operating independently|toeic|tự động
+1|Automation(n) automatically (adv)
+1|Crucial (adj) extremely significant or important|toeic|chủ yếu
+1|Discrepancy (n) a divergence or disagreement|toeic|sự bất đồng, bất hòa
+1|Disturb (v)to interfere with, to interrupt|toeic|làm phiền
+1|Disturbance(n) disturbingly (adv)|toeic|làm rối loạ(n) gây cản trở
+1|Liability (n) an obligation a responsibility|toeic|trách nhiệm pháp lý
+1|Reflect (v)to given back a likeness|toeic|phản ánh, tương ứng với
+1|Reflection(n) reflector(n)
+1|Run (v)to operate|toeic|chạy, hoạt động
+1|Scan (v)to look over quickly|toeic|xem lướt, xem qua
+1|Subtract (v)to take away, to deduct|toeic|trừ đi, khấu trừ
+1|Tedious (adj) tiresome by reason of length, slowness, or dullness, boring|toeic|chán ngắt, buồn tẻ
+1|Verify (v)to prove the truth of|toeic|Xác minh, kiểm lại
+Lesson 21|toeic|Banking|toeic|Ngành ngân hàng
+1|Accept (v)to receive, to respond favorably|toeic|đồng ý, chấp thuận
+1|Acceptance(n) acceptable (adj)
+1|Balance (n) the remainder, (v) to compute the difference between credits and debits of an account.Số dư (tài khoản)
+1|Borrow (v)to use temporarily|toeic|vay mượn
+1|Cautious (adj) Careful, wary|toeic|thận trọng
+1|Deduct (v)to take away from a total, to subtract|toeic|khấu trừ
+1|Deductible(n) deduction(n)
+1|Dividend (n) a share in a distribution|toeic|tiền lãi cổ phần
+1|Down payment (n) an initial partial payment|toeic|sự trả trước 1 phần khi mua hàng
+1|Mortgage (n) the amount due on a property, (v) to borrow money with your house as collateral.cầm cố, thế chấp
+1|Restriction (n) a limitation|toeic|giới hạn,hạn chế
+1|Restrict (v) restricted (adj)
+1|Signature (n) the name of a person written by the person|toeic|chữ ký
+1|Sign(n) (v)
+1|Take out (v)withdraw, remove|toeic|rút tiền
+1|Transaction (n) a business deal|toeic|giao dịch
+Lesson 22|toeic|Accounting|toeic|thanh toán
+1|Accounting (n) the recording and gathering of financial information for a company|toeic|sự thanh toán tính toán
+1|Accountant (n) account(n)|toeic|kế toán
+1|Accumulate (v)to gather, to collect|toeic|tích lũy, lũy kế
+1|Accumulation(n) accumulated (adj)
+1|Asset (n) something of value|toeic|tài sản
+1|Audit (n) a formal examination of financial records, (v) to examine the financial|toeic|kiểm toán
+1|Budget (n) a list of probable expenses and income for a given period|toeic|ngân quỹ, ngân sách
+.
+1|Budget (v) ghi vào ngân sách budgetary (adj)
+1|Build up (n) to increase over time:
+1|Sự tăng cường
+1|Client (n) a customer|toeic|khách hàng
+1|Debt (n) something owed, as in money or goods|toeic|khỏan nợ
+1|Outstanding (adj) still due, not paid or settled|toeic|còn tồn tại, chưa giải quyết xong, chưa trả nợ
+1|Profitable (adj) advantageous, beneficial|toeic|có sinh lời
+1|Profit (v)(n)|toeic|lợi nhuận thu hồi
+1|Reconcile (v)to make consistent|toeic|đành chấp nhận cam chịu
+1|Turnover (n) the number of times a product is sold and replaced or an emloyee leaves and another employee is hired|toeic|doanh số, doanh thu
+Lesson 23|toeic|Investments|toeic|đầu tư
+1|Aggressive (adj) competitive, assertive|toeic|lấn sân xâm chiếm
+1|Attitude (n) a felling about something or someone|toeic|thái độ, quan điểm
+1|Commitment (n) a promise|toeic|thỏa thuậ(n) thỏa ước, cam kết
+1|Commit (v) noncommittal (adj)
+1|Conservative (adj) cautious, restrained|toeic|bảo thủ, thận trọng
+1|Fund (n) an amount of money for something specific, v to provide money for|toeic|nguồn tiền quỹ dự trữ
+.
+1|Invest (v)to put money into a business or activity with the hope of making more money, to put effort into something|toeic|đầu tư
+1|Investment(n) investor(n)
+1|Long-term (adj) involving or extending over a long period|toeic|dài hạn
+1|Portfolio (n) a list of investments|toeic|danh mục vốn đầu tư
+1|Pull out (v)to withdraw, to stop participating,(n) a withdrawal, removal|toeic|rút tiền rút lui
+1|Resource (n) assets, valuable things|toeic|nguồn
+1|Return (n) the amount of money gained as profit|toeic|tiền thu về, tiền lãi
+1|Returns (n) returnable (adj)
+1|Wise (adj) Knowledgeable, able to offer advice based on experience|toeic|ttừng trải hiểu biết nhiều, khôn ngoan sáng suốt
+.
+1|Wisdom(n) wisely (adv)
+Lesson 24|toeic|Taxes|toeic|nộp thuế
+1|Calculate (v)to figure out, to compute|toeic|tính toán
+1|Calculation (n) calculator (n)
+1|Deadline (n) a time by which something must be finished|toeic|hạn cuối
+1|File (v)to enter into public record,(n) a group of documents or information about a person or an event|toeic|sắp xếp, sắp đặt tài liệu
+1|Fill out (v)to complete|toeic|hoàn tất, hoàn thành
+1|Give up (v)to quit, to stop|toeic|đầu hàng, tạm dừng, tạm ngưng
+1|Joint (adj) together, shared|toeic|tham gia
+1|Owe (v)to have a debt. to be obligated to pay|toeic|nợ
+1|Owner(n) owing gerund
+1|Penalty (n) a punishment, a consequence|toeic|khoản tiền phạt
+1|Penalize (v) penal (adj)
+1|Prepare (v)to make ready|toeic|chuẩn bị
+1|Preparation(n) preparatory (adj)
+1|Refund (n) the amount paid back, (v) to give back|toeic|trả lại, hoàn trả
+1|Spouse (n) a husband or wife|toeic|vợ hoặc chồng
+1|Withhold (v)to keep from. to refrain from|toeic|từ chối, ngăn cản, cản trở
+Lesson 25|toeic|Financial Statements|toeic|báo cáo tài chính
+1|Desired (adj) Wished or longed for|toeic|mong đợi, mong ước, khao khát
+1|Desire(n) (v)
+1|Detail (v)to report or relate minutely or in particulars|toeic|chi tiết, tiểu tiết, khía cạnh nhỏ
+1|Forecast (n) a prediction of a future event .(v) to estimate or calculate in advance|toeic|dự đoá(n) dự báo trước
+1|Level (n) a relative position or rank on a scale|toeic|mức độ, hạng
+1|Overall (adj) regarded as a whole, general|toeic|bao gồm, tòan bộ
+1|Perspective (n) a mental view or outlook
+1|Projected (adj) estimated, or predicted based or present data|toeic|dự án, kế hoạch
+1|Project(n) (v)
+1|Realistic (adj) Tending to or expressing an awareness of things as they really are|toeic|có óc thực tế
+1|Reality(n) realistic (adj) |toeic|thực tế, thực tại
+1|Target (v)to establish as a goal,(n) a goal|toeic|mục tiêu
+1|Translation (n) the act or process of translating|toeic|bản dịch, bài dịch
+1|Translate (v) translatable (adj)
+1|Typical (adj) conforming to a type|toeic|đặc thù, đặc trưng, tiêu biểu
+1|Yield (n) an amount produced, (v) to produce a profit|toeic|lợi nhuận lợi tức
+Lesson 26|toeic|Property and department|toeic|cơ quan quản lý bât động sản
+1|Adjacent (adj) next to|toeic|ngay cạnh, liền kề
+1|Collaboration (n) the act pf working with someone|toeic|hợp tác, cộng tác
+1|Collaborate (v) collaboration(n)
+1|Concentrate (v)to focus, to think about|toeic|trọng tâm, tập trung
+1|Conducive (adj) contributing to, leading to|toeic|có ích, có lợi
+1|Disrupt (v)to interrupt, to disturb|toeic|phá vỡ, quấy rối
+1|Disruption(n) disruptive (adj)
+1|Hamper (v)to impede or interfere|toeic|ngăn trở, cản trở
+1|Inconsiderate (adj) rude, impolite|toeic|thiếu chu đáo, quan tâm
+1|Lobby (n) an anteroom, foyer, or waiting room|toeic|hành lang, sảnh chờ, vận động hành lang
+1|Move up (v)to advance, improve position|toeic|tiến lên
+1|Open to (adj) receptive to, vulnerable|toeic|tiếp thu, dùng được cho ai đó
+1|Opt (v)to choose, to decide on|toeic|chọn lựa
+1|Option(n) optimal (adj)|toeic|vật được cho(n) điều được chonj
+1|Scrutinize (v)to look at carefully and closely|toeic|xem xét kỹ lưỡng, cẩn thận
+1|Scrutiny(n) inscrutable (adj)
+Lesson 27|toeic|Board Meetings and committees|toeic|cuộc họp hội đồng quản trị và ủy ban
+1|Adhere to (v)to follow, to pay attention to|toeic|tuân thủ
+1|Agenda (n) a list of topics to be discussed|toeic|những vấn đề, công viềc phải bàn tại cuộc hợp
+1|Bring up (v)to introduce a topic|toeic|giới thiệu, đưa ra
+1|Conclude (v)to stop, to come to a decision|toeic|kết luận, kết thúc
+1|Conclusion(n) conclusive (adj)|toeic|sự kết thúc, sự quyết định
+1|Go ahead (v)to proceed with,(n) permission to do something|toeic|tiếp tục, tiến triển
+1|Goal (n) objective, purpose|toeic|mục tiêu, mục đích
+1|Lengthy (adj) long in time, duratio(n) or distance|toeic|dài dòng
+1|Matter (n) an item, issue, topic of interest|toeic|vấn đề, chủ đề
+1|Periodically (adv) from time to time|toeic|định kỳ
+1|Period(n) periondic (adj)
+1|Priority (n) something of importance, something that should be done before other things|toeic|ưu tiên
+1|Prioritize (v) prior (adj)
+1|Progress (n) a movement forward, (v) to move forward on something, especially work or a project|toeic|sự tiến bộ, sự tiến lên
+1|Progression(n) progressive (adj) sự tiến tới
+1|Waste (a)(v) not to use wisely,(n) not worthwhile.|toeic|lãng phí, không giá trị
+Lesson 28 Quality control|toeic|kiểm soát chất lượng
+1|Brand (n) an identifying mark or label, a trademark|toeic|nhãn nhãn hiệu
+1|Conform (v)to match specifications or qualities|toeic|làm cho phù hợp
+1|Defect (n) an imperfection or flaw|toeic|nhược điểm
+1|Defect (n) defective (adj)
+1|Enhance (v)to make more attractive or valuable|toeic|tăng, nâng cao
+1|Garment (n) an article of clothing|toeic|áo quần
+1|Inspect (v)to look at closely, to examine carefully or officially|toeic|kiểm tra, thanh tra
+1|Inspection(n) inspector(n)
+1|Perceive (v)to notice, to become aware of, to see|toeic|nhận thức, lĩnh hội
+1|Perception(n) perceptive (adj)|toeic|sự nhận biết, mẫn cảm
+1|Repel (v)to keep away, to fight against|toeic|đẩy xa, khước từ
+1|Repellent(n) (adj)
+1|Take back to return something, to withdraw or retract|toeic|lấy lại, kéo lại
+1|Throw out (v)to dispose of|toeic|vứt đi, bỏ đi
+1|Uniform (adj) consistent in form or appearance|toeic|không thay đổi về tính cáh hay hình thức
+1|Wrinkle (n) a crease, ridge, or furrow, especially in skin or fabric|toeic|nếp nhăn
+Lesson 29|toeic|Product Development|toeic|phát triển sản phẩm
+1|Anxious (adj) Worried|toeic|lo âu, băn khoăn
+1|Anxiety(n) anxiously (adv)|toeic|mối lo âu
+1|Ascertain (v)to discover, to find out for certain|toeic|tìm hiểu một cách chắc chắn
+1|Assume (v)to take upon oneself, to believe to be true|toeic|cho rằng, thừa nhận
+1|Assumed (adj) assumption(n)
+1|Decade (n) a period of ten years|toeic|thập kỷ
+1|Examine (v)to interrogate, to scrutinize|toeic|xem xét chi tiết
+1|Experiment (v)to try out a new procedure or idea,(n) a test or trial|toeic|thí nghiệm, cuộc thử nghiệm
+1|Experimentation(n) experimental (adj)
+1|Logical (adj) formally valid, using orderly reasoning|toeic|hợp lý, có lý
+1|Research (n) the act of collecting in formation about a particular subject|toeic|nghiên cứu
+1|Responsibility (n) task|toeic|bổn phậ(n) trách nhiệm
+1|Responsible (adj) responsibly (adv)
+1|Solve (v)to find a solutio(n) explanatio(n) or answer|toeic|giải quyết, làm sáng tỏ một vấn đề
+1|Supervisor (n) an administrator in charge|toeic|người giám sát
+1|Systematic (adj) Methodical in procedure, organized|toeic|có phương pháp, hệ thống
+Lesson 30|toeic|Renting and Leasing|toeic|thuê và cho thuê
+1|Apprehensive (adj) anxious about the future|toeic|e ngại, sợ
+1|Apprehend (v) apprehension(n)
+1|Circumstance (n) a conditio(n) a situation|toeic|tình thế, tình huống
+1|Condition (n) the state of something, a requirement|toeic|điều kiện
+1|Conditional (adj) condition (v)
+1|Due to prep. because of|toeic|bởi, nguyên nhân dẫn đến cái gì
+1|Fluctuate (v)to go up and dow(n) to change|toeic|dao động, thay đổi bất thường
+1|Fluctuation(n) fluctuating gerund.|toeic|sự giao động
+1|Get out of (v)to escape, to exit|toeic|rời khỏi
+1|Indicator (n) a sig(n) a signal|toeic|chỉ dẫ(n) chỉ định
+1|Indicate (v) indication(n)
+1|Lease (n) a contract to pay to use property for an amount of time, (v) to make a contract to use property|toeic|hợp đồng cho thuê
+1|Lock into (v)to commit, to be unable to change|toeic|thỏa thuận ko thay đổi
+1|Occupancy (n) the state of being or living in a certain place|toeic|sở hữu, chiếm hữu
+1|Option (n) a choice, an alternative|toeic|sự lựa chọn
+1|Subject to (adj) under legal power, dependent|toeic|tùy thuộc vào cái gì đó, dựa theo cái gì đó
+Lesson 31|toeic|Selecting a Restaurant|toeic|chọn lựa nhà hàng
+1|Appeal (adj), to be attractive or interesting|toeic|sự hấp dẫn thích thú
+1|Arrive (v), to reach a destination|toeic|tới mộy nơi
+1|Compromise (n) a settlement of differences in which each side makes concessions |toeic|sự thỏa hiệp, thỏa ước
+1|Daring (adj), to have the courage required|toeic|táo bạo, liều lĩnh
+1|Familiar (adj), often encountered or seen; common|toeic|tương tự
+1|Guide (n) one who leads, directs, or gives advice|toeic|người hướng dẫn
+1|Guidance(n), guidable (adj),
+1|Majority (n) the greater number or part|toeic|phần lớn đa số
+1|Mix (v), to combine or blend into one mass;(n), a combination|toeic|trộn lẫ(n) hòa lẫn
+1|Mixture(n), mixable (adj)
+1|Rely (v), to have confidence in; to depend on|toeic|tin cậy vào, dựa vào
+1|Reliability(n), reliable (adj)
+1|Secure (v), to get possession of; to obtain|toeic|bảo đảm
+1|Subjective (adj), particular to a given person; highly personal; not objective|toeic|chủ quan
+1|Suggest (v), to offer for consideration or action|toeic|gợi ý
+1|Suggestion(n), suggestible (adj),|toeic|sự đề nghị, có thể đề nghị được
+Lesson 32|toeic|Eating out|toeic|ăn bên ngoài
+1|Basic (adj), serving as a starting point or basis|toeic|cơ bản, căn bản
+1|Complete (adj), having all necessary or normal parts, components, or steps|toeic|hoàn thành
+1|Completion(n), completely (adv), sự hoàn thành, hoàn thành
+1|Excite (v), to arouse an emotion|toeic|kích động
+1|Excitement(n), exciting (adj),
+1|Flavor (n) a distinctive taste|toeic|vị ngọt, mùi thơm phảng phất
+1|Forget (v), to be unable to remember|toeic|quên
+1|Forgetful (adj), forgettable (adj),
+1|Ingredient (n) an element in a mixture|toeic|thành phần
+1|Judge (v), to form an opinion|toeic|đánh giá
+1|Mix-up (n) a confusion; (v), to confuse|toeic|lẫn lộn, bối rối
+1|Patron (n) a customer, especially a regular customer|toeic|khách hàng quen
+1|Predict (v), to state, tell about, or make known in advance|toeic|dự đoá(n) dự báo
+1|Prediction(n), predictable (adv),
+1|Random (adj), having no specific patter(n) purpose, or objective|toeic|ngẫu nhiê(n) tình cờ
+1|Remind (v), to cause to remember|toeic|nhắc nhở
+Lesson 33:
+1|Ordering Lunch|toeic|gọi món ăn trưa
+1|Burdensome (adj), of or like a burden; onerous|toeic|phiền toái
+1|Common (adj), widespread, frequent, usual|toeic|thông thường, phổ biến
+1|In common(n), commonly
+1|Delivery (n) the act of conveying or delivering|toeic|giao hàng
+1|Elegant (adj), exhibiting refined, tasteful beauty|toeic|thanh lịch, trang nhã
+1|Elegance(n), elegantly (adv),
+1|Fall to (v), to become one’s responsibility|toeic|bắt đầu ăn
+1|Impress (v), to affect strongly, often favorably|toeic|ấn tượng
+1|Impression(n), impressionable (adj),
+1|Individual (adj), by or for one person; special; particular|toeic|cá nhân, riêng lẻ
+1|Individualize (v), individually (adv),
+1|List (n) a series of names, words, or other items; (v), to make a list|toeic|danh sách
+1|Multiple (adj), having, relating to , or consisting of more than one part|toeic|nhiều, phức tạp
+1|Narrow (v), to limit or restrict; (adj), limited|toeic|chật hẹp, hạn chế
+1|Pick up (v), to take on passengers or freight|toeic|đón|toeic|(ai đó)
+1|Settle (v), to make compensation for, to pay; to choose|toeic|định cư, ổn định
+Lesson 34|toeic|Cooking as a career|toeic|Nghề nấu ăn
+1|Accustom to (v), to become familiar with, to become used to|toeic|làm quen với cái gì
+1|Apprentice (n) a student worker in a chosen field (v),tập sự, người mới vào nghề
+1|Apprenticeship(n),
+1|Culinary (adj), relating to the kitchen or cooking|toeic|việc bếp núc
+1|Demanding (adj), requiring much effort or attention|toeic|Đòi hỏi khắt khe
+1|Draw (v), to cause to come by attracting|toeic|kéo, lôi kéo
+1|Incorporate (v), to unite one thing with something else already in existence|toeic|sát nhập chặt chẽ
+1|Incorporation(n), incorporating gerund.,
+1|Influx (n) a flowing in|toeic|dòng chảy vào
+1|Method (n) a procedure|toeic|phương pháp, cách thức
+1|Methodology(n), methodical (adj),
+1|Outlet (n) a means of release or gratificatio(n) as for energies, drives, or desires|toeic|lối ra, lối thoát
+1|Profession (n) an occupation requiring considerable training and specialized study|toeic|nghề nghiệp
+1|Professional (adj), professionally (adv),chuyên nghiệp
+1|Relinquish (v), to let go; to surrender|toeic|từ bỏ
+1|Theme (n) an implicit or recurrent idea; a motif|toeic|chủ đề, đề tài
+Lesson 35|toeic|Events|toeic|sự kiền
+1|Assist (v), to give help or support to|toeic|trợ giúp, trợ lý
+1|Assistance(n), assistant(n)|toeic|sự giúp đỡ, người giúp việc
+1|Coordinate (v), to adjust or arrange parts to work together|toeic|sắp xếp, sẳp đặt
+1|Dimension (n) a measure of width, height, or length|toeic|kích thước
+1|Exact (adj), characterized by accurate measurements or inferences|toeic|chính xác
+1|General (adj), involving only the main feature rather than precise details|toeic|hầu hết, phổ biến
+1|Generalize (v), generally (adv),|toeic|diễn tả chung chung
+1|Ideal (adj), imaginary; existing as a perfect model|toeic|quan niệm, tưởng tượng, mẫu hình lý tưởng
+1|Idealize (v), ideally (adv)|toeic|lý tưởng hóa, theo lý tưởng
+1|Lead time (n) the time between the initial stage of a project and the appearance of results|toeic|khoảng thời gian giữa lúc bắt đầu và lúc hoàn thành một quá trình sx mới
+1|Plan (n) a scheme for making something happen; (v), to formulate a scheme
+1|Proximity (n) the state, quality, sense, or fact of being near or next to; closeness|toeic|sự gần gũi
+1|Regulation (n) rules, laws, or controls; (v), to control|toeic|sự điều chỉnh, qui tắc, điều lệ
+1|Regulate (v), regulatory (adj),
+1|Site (n) a place or setting|toeic|vị trí, địa điểm
+1|Stage (v), to exhibit or present |toeic|trình diễn
+Lesson 36|toeic|General Travel|toeic|Du lịch tổng quan
+1|Agency (n) an establishment engaged in doing business|toeic|đại lý
+1|Announcement (n) a public notification|toeic|thông cáo, thông báo
+1|Announce (v), announcer(n),
+1|Beverage (n) a drink other than plain water|toeic|đồ uống, thức uống
+1|Blanket (n) a covering for keeping warm, especially during sleep; any full coverage; (v), to cover uniformly|toeic|mền chăn
+1|Board (v), to enter a boat, plane, or train; to furnish to see the roads lên tàu
+1|Onboard (adj),trên tàu
+1|Claim (v), to take as rightful; to retrieve|toeic|đòi hỏi, quyền yêu sách
+1|Delay (v), to postpone until a later time;(n), the period of time during which one is delayed (n),|toeic|trì hoãn
+1|Embark (v), to go onboard a flight or ship; to begin|toeic|lên tàu
+1|Itinerary (n) a proposed rout for a journey, showing dates and means of travel|toeic|lịch trình bay
+1|Prohibit (v), to forbid by authority or to prevent|toeic|ngăn cấm, ngăn chặn
+1|Valid (adj), having legal efficacy or correctness|toeic|hiệu lực
+1|Validate (v), validation(n),
+Lesson 37|toeic|Airlines|toeic|hàng không
+1|Deal with (v), phrase, to attend to; mange; to see to|toeic|bàn về cái gì, thỏa thuận cái gì
+1|Destination (n) the place to which one is going or directed|toeic|điểm đến
+1|Distinguish (v), to make noticeable or different] |toeic|nhận ra, nhận biết
+1|Distinguishable (adj), distinguishably (adv),|toeic|có thể nhận ra
+1|Economical (adj), intended to save money, time, or effort|toeic|tiết kiệm
+1|Economy(n), economize (v),sự tiết kiệm
+1|Equivalent (adj), equal|toeic|tương đương
+1|Excursion (n) a pleasure trip; a trip at a reduced fare|toeic|chuýen thăm quan
+1|Expensive (adj), marked by high prices|toeic|đắt
+1|Expense(n), expensively (adv),|toeic|chi phí
+1|Extend (v), to make longer; to offer|toeic|keó dài, dành cho
+1|Prospective (adj), likely to become or be|toeic|về sau, sắp tới
+1|Situation (n) the combination of circumstances at a given moment|toeic|vị trí, tình thế
+1|Substantial (adj), considerable in importance, value degree amount, or extent|toeic|đáng kể, quan trọng
+1|Substance(n), substantially (adv),trọng yếu, quan trọng
+1|System (n) a functionally related group of elements|toeic|hệ thống
+Lesson 38|toeic|Trains|toeic|Tàu hỏa
+1|Comprehensive (adj), covering broadly; inclusive|toeic|bao gồm, bao hàm
+1|Comprehensiveness(n), comprehensively (adv),toàn diện
+1|Deluxe (adj), noticeably luxurious|toeic|thuộc loại sang trọng, xa xỉ
+1|Directory (n), a book or collection of information or directions|toeic|danh mục, danh bạ
+1|Duration (n) the time during which something lasts|toeic|khoảng thời gian
+1|Entitle (v), to allow or qualify|toeic|cho quyền làm gì
+1|Fare (n) the money paid for transportation|toeic|tiền xe, tiền vé
+1|Offset (v), to counterbalance|toeic|đền bù, bù đắp
+1|Operate (v), to perform a function|toeic|hoạt động
+1|Operation(n), operational (adj),sự hoạt động
+1|Punctual (adj), prompt|toeic|đúng giờ
+1|Punctuality(n), punctually (adv),tính đúng giờ
+1|Relatively (adv), somewhat|toeic|tương đối, vừa phải
+1|Remainder (n) the remaining part|toeic|phần còn lại
+1|Remote (adj), far removed|toeic|xa xôi, tách biệt
+1|Remoteness(n), remotely (adv),sự xa xôi, rất xa
+Lesson 39|toeic|Hotels|toeic|khách sạn
+1|Advance / əd’vɑ:ns/ (n), a move forward, advance in something|toeic|sự cải tiến
+1|Chain / t∫ein/ (n) a group of enterprises under a single control|toeic|dãy, chuỗi, loạt. các công việc kinh doanh do 1 người làm chủ
+1|Check in (v), to register at a hotel; to report one’s presence|toeic|đăng ký ở khách sạn sự đăng ký đi máy bay
+1|Confirm (v), to validate |toeic|xác nhận; chứng thực
+1|Confirmation(n), confirmed (adj),
+1|Expect (v), to consider probable or reasonable|toeic|đoán trước, liệu trước
+1|Expectation(n), expectant (adj),
+1|Housekeeper (n) someone employed to do domestic work|toeic|quản gia
+1|Notify (v), to report|toeic|thông báo, cho biết
+1|Preclude (v), to make impossible; to rule out|toeic|ngăn cản
+1|Quote (v), to give exact information on;(n), a quotation|toeic|trích dẫn
+1|Quotation(n), quotable (adj),|toeic|lời trích dẫn
+1|Rate (n) the payment or price according to a standard|toeic|giá|toeic|cả
+1|Reserve (v), to set aside|toeic|dự trữ, dự phòng, để dành
+1|Reservation (n) in reserve(n),|toeic|đặt chỗ trước
+1|Service (n) useful functions|toeic|dịch vụ
+Lesson 40|toeic|Car Rentals|toeic|cho thuê xe
+1|Busy (adj), engaged in activity|toeic|bận
+1|Coincide (v), to happen at the same time|toeic|xảy ra trùng khớp, đồng thời
+1|Coincidence(n), coincidentally (adv),|toeic|trùng hợp ngẫu nhiên
+1|Confusion (n) a lack of clarity, order, or understanding|toeic|nhầm lẫ(n) bối rối
+1|Contact (v), to get in touch with|toeic|liên hệ với ai
+1|Disappoint (v), to fail to satisfy the hope, desire, or expectation of|toeic|làm thất vọng
+1|Intend (v), to have in mind|toeic|dự định
+1|Intention(n), intent (adj),
+1|License (n) the legal permission to do or own a specified thing|toeic|cấp phép, giấy phép
+1|Nervous (adj), easily agitated or distressed; uneasy or apprehensive|toeic|hồi hộp, lo lắng
+1|Nervousness(n), nervously (adv),
+1|Optional (adj), not compulsory or automatic|toeic|tùy ý, ko bắt buộc
+1|Tempt (v), to be inviting or attractive to|toeic|lôi kéo, xúc giục
+1|Temptation(n), tempting (adj),
+1|Thrill (n) the source or cause of excitement or emotion|toeic|rùng mình, rùng rợn li kỳ
+1|Tier (n) a rank or class dãy, tầng, lớp
+Lesson 41|toeic|Movies|toeic|Phim ảnh
+1|Attain (v), to achieve|toeic|đạt được, giành được
+1|Attainment(n), attainable (adj),
+1|Combine (v), to come together|toeic|kết hợp, phối hợp
+1|Continue (v), to maintain without interruption|toeic|tiếp tục
+1|Continuation(n), continual (adj),
+1|Description (n) a representation in words or pictures|toeic|sự mô tả, diễn tả
+1|Describe (v), descriptive (adj),
+1|Disperse (v), to spread widely, to scatter|toeic|phân tán
+1|Entertainment (n) a diverting performance or activity|toeic|sự giải trí
+1|Entertain (v), entertaining (adj),
+1|Influence (v), to alter or affect|toeic|ảnh hưởng, tác động
+1|Range (n) the scope|toeic|phạm vi, trình độ, lĩnh vực
+1|Release (v), to make available to the pubic; to give permission for performance|toeic|công bố, phát hành
+1|Represent (v), to typify|toeic|đóng, diễn kịch
+1|Separate (adj), detached; kept apart|toeic|tách bạch, tách tiêng
+1|Successive (adj), following in order|toeic|liên tục liên tiếp
+Lesson 42
+1|Theater|toeic|nhà hát
+1|Acting (n) the series of events that form the plot of a story or play|toeic|thủ vai, diễn xuất
+1|Approach (v)to go near; to come close to in appearance or quality;(n), a way or means of reaching something|toeic|tiếp cậ(n) lại gần
+1|Approachable (adj), approach(n),
+1|Audience (n) the spectators at a performance|toeic|khán giả
+1|Create (v), to produce through artistic or imaginative effort|toeic|sáng tạo
+1|Creation(n), creative (adj),
+1|Dialogue (n) a conversation between two or more persons|toeic|giai thoại, hội thoại
+1|Element (n) fundamental or essential constituent|toeic|yếu tố, nguyên tố
+1|Experience (n) an event or a series of events participated in or lived through (v),chi tiết
+1|Experienced (adj),
+1|Occur (v), to take place; to come about|toeic|xuất hiệ(n) nảy ra
+1|Perform (v), to act before an audience, to give a public presentation of|toeic|diễn xuát
+1|Performance(n), performer(n),|toeic|biểu diê(n) trình diễn
+1|Rehearse (v), to practice in preparation for a public performance; to direct in rehearsal|toeic|Diễn tập
+1|Review (n) a critical estimate of a work or performance; (v), writing a criticism of a performance|toeic|sự phê bình, lời phê bình
+1|Sold out (adj), having all tickets or accommodations completely sold, especially ahead of time; (v), to sell all the tickets|toeic|hết vé
+Lesson 43|toeic|Music|toeic|âm nhạc
+1|Available (adj), ready for use; willing to serve|toeic|sẵn sàng để dùng
+1|Broad (adj), covering a wide scope|toeic|rộng rãi, rõ ràng
+1|Category (n) a division in a system of classification; a general class of ideas|toeic|hạng, loại
+1|Categorize (v), categorical (adj),phân loại xác thực
+1|Disparate (adj), fundamentally distinct or different|toeic|khác loại
+1|Divide (v), to separate into parts|toeic|phân chia
+1|Favorite (adj), preferred|toeic|ưa thích
+1|Favorable (adj), favorably (adv),
+1|Instinct (n) an inborn pattern that is a powerful motivation|toeic|bản năng
+1|Preference (n) someone or something liked over another or others|toeic|sự ưa thích, thích cái gì hơn
+1|Prefer (v), preferential (adj),
+1|Reason (n) the basis or motive for a action; an underlying fact or cause|toeic|lý do
+1|Relaxation (n) the act of reacting or the state of being relaxed; refreshment of body or mind|toeic|thư giãn
+1|Relax (v), relaxed (adj),
+1|Taste (n) the ability to discern what is excellent or appropriate|toeic|sở thích,thị hiếu
+1|Urge (v), to advocate earnestly; a., a natural desire|toeic|thúc giục, giục giã
+Lesson 44|toeic|Museums|toeic|Bảo tàng
+1|Acquire (v), to gain possession of; to get by one’s own efforts|toeic|đạt được, thu được
+1|Admire (v), to regard with pleasure; to have esteem or respect for|toeic|Khâm phục, hâm mộ
+1|Collection (n) a group of objects or works to be see(n) studied, or kept together|toeic|bộ sưu tập
+1|Collect (v), collector(n),
+1|Criticism (n) an evaluatio(n) especially of literary or other artistic works|toeic|sự phê bình, bình phẩm
+1|Criticize (v), phê bình critic(n),|toeic|nhà phê bình
+1|Express (v), to give an opinion or depict emotion|toeic|bày tỏ, biểu lộ tình cảm
+1|Fashion (n) the prevailing style or custom|toeic|thời trang
+1|Leisure (n) freedom from time-consuming duties; free time|toeic|thời gian rảnh rỗi
+1|Respond (v), to make a reply; to react|toeic|hồi âm, phúc đáp
+1|Response(n), responsive (adj),|toeic|sự trả lời
+1|Schedule (n) a list of times of events; (v), to enter on a schedule|toeic|lịch trình, kế hoạch làm việc
+1|Significant (adj), meaningful; having a major effect; important|toeic|quan trọng, đáng kể
+1|Specialize (v), to concentrate on a particular activity|toeic|chuyên môn hóa
+1|Specialist(n), specialized (adj),chuyên gia
+1|Spectrum (n) a range of related qualities, ideas, or activities|toeic|sự phân bổ theo tính chất, số lượng, hành vi
+Lesson 45|toeic|Media|toeic|Phương tiện truyền thông
+1|Assignment (n) (v), something, such as a task, that is assigned|toeic|nhiệm vụ, công việc
+1|Choose (v), to select one thing over another|toeic|lựa chọn
+1|Choice(n), choosy (adj),
+1|Constant (n) something that is unchanging or invariabletrung thành, chung thủy
+1|Constitute (n) to be the elements or parts of|toeic|tạo thành, thành lập, thiết lập
+1|Decisive (adj), characterized by decision and firmness|toeic|dứt khoát
+1|Disseminate (v), to scatter widely; to distribute|toeic|truyền bá phổ biến
+1|Impact (n) a strong, immediate impression|toeic|ảnh hưởng, sự tác động
+1|In depth (adj), in complete detail; thorough|toeic|tỷ mỉ, cẩn thận chu đáo
+1|Investigative (adj), specializing in uncovering and reporting hidden information|toeic|điều tra
+1|Investigation(n), investigate (v),
+1|Link (n) an association; a relationship|toeic|liên kết
+1|Subscribe (v), to receive a periodical regularly on order|toeic|đặt mua một cái gì đó định kỳ
+1|Subscription(n), subscribers(n),|toeic|sự mua báo dài hạ(n) sự thuê bao điện thoại
+1|Thorough (adj), exhaustively complete|toeic|tỉ mỉ, chu đáo
+1|Thoroughness(n), thoroughly (adv),
+Lesson 46|toeic|Doctor’s Office|toeic|phòng khám
+1|Annual (adj), yearly|toeic|xảy ra hàng năm
+1|Appointment (n) arrangements for a meeting; a position in a profession|toeic|cuộc hẹn
+1|Assess (v), to determine the value or rate of something|toeic|ước định, định lượng
+1|Assessment(n), assessable (adj),
+1|Diagnose (v), to recognize a disease; to analyze the nature of something|toeic|chẩn đoán
+1|Diagnosis(n) diagnostic (adj), lời chẩn đoán, chẩn đoán
+1|Effective (adj), producing the desired effect; being in effect|toeic|ảnh hưởng
+1|Instrument (n) a tool for precise work; the means whereby something is achieved|toeic|điều trị
+1|Manage (v), to handle; to deal with; to guide|toeic|giải quyết, xoay sở
+1|Prevent (v), to keep from happening; to hinder|toeic|chống lại, phòng chống
+1|Prevention(n), preventive
+1|Recommend (v), to present as worthy; to endorse|toeic|giới thiệu
+1|Recommendation(n), recommendable (adj),
+1|Record (v), to set down in writing;(n), a official copy of documents|toeic|ghi lại, lưu lại
+1|Refer (v), to direct for treatment or information; to mention|toeic|chỉ định, liên quan đến
+1|Serious (adj), weighty|toeic|nghiêm trọng
+Lesson 47|toeic|Dentist’s office|toeic|Phòng Nha sĩ
+1|Aware /ə’weə/ (adj), having knowledge|toeic|có kiến thức hoặc nhận thức về ai/cái gì
+1|Catch up (v), to bring up to date
+1|Distraction /dis’træk∫n/ (n) the act of being turned away from the focus|toeic|sự làm sao lãng, sự làm lãng đi, sự làm đứt quãng|toeic|mạch tư tưởng, công việc đang làm…
+; sự lãng trí, sự đãng trí; điều xao lãng
+1|Distract (v)|toeic|làm sao lãng, làm lãng đi, làm lãng trí, làm rối bời, làm rối trí
+1|Distracted (adj)
+1|Encouragement /in’kʌridʒmənt/ (n) inspiration or support|toeic|niềm động viên
+1|Evident (adj), easily seen or understood; obvious |toeic|hiển nhiên rành rành
+1|Evidence(n), evidently (adv),
+1|Habit (n) a customary manner or practice|toeic|thói quen tập quán
+1|Habitual (adj), habitually (adv),
+1|Illuminate /i’lu:mineit/ (v), to provide or brighten with light|toeic|chiếu sáng, rọi sáng, soi sáng
+1|Irritate /’iriteit/ (v), to chafe or inflame, to bother|toeic|kích thích; làm tấy lê(n) làm rát
+1|Irritation(n), irritable (adj),
+1|Overview /’ouvəvju :/ (n) a summary; a survey; a quick look |toeic|sự miêu tả chung nhưng ngắn gọn; cái nhìn khái quát; tổng quan
+1|Position /pə’zi∫n/ (n) the right or appropriate place|toeic|vị trí
+1|Regularly /’regjuləri/ (adv), occurring at fixed intervals|toeic|ở những quãng cách hoặc thời gian đều đặn; cách đều nhau
+1|Restore (v), to bring back to an original condition|toeic|Khôi phục lại
+Lesson 48|toeic|Health Insurance|toeic|sự bảo hiểm sức khoẻ
+1|Allow /ə’lau/ (v), to let do or happen; to permit|toeic|cho, cấp cho, trợ cấp, cấp phát
+1|Allowance(n), allowable (adj),
+1|Alternative /ɔ:l’tə:nətiv/ (n) the choice between two mutually exclusive possibilities|toeic|sự lựa chon (một trong hai)
+1|Alternate (v), alternatively (adv),
+1|Aspect /’æspekt/ (n) a feature element; an appearance|toeic|vẻ, bề ngoài; diện mạo
+1|Concern /kən’sə:n/ (v), to be of interest or importance to |toeic|lo lắng, băn khoăn; quan tâm
+1|Emphasize|toeic|/’emfəsaiz/ (v), to stress|toeic|nhấn mạnh
+1|Emphasis(n), emphatic (adj),
+1|Incur (v), to acquire or come into|toeic|gánh chịu, chịu lấy
+1|Personnel (n) a group of employees or workers|toeic|cán bộ, nhân viên
+1|Policy (n) a set of rules and regulations|toeic|những điều khoản của hợp đồng bảo hiểm
+1|Portion (n) a section or quantity within a larger thing; a part of a whole|toeic|phân chia, khẩu phần
+1|Regardless (adv), in spite of|toeic|bất chấp, không đếm xỉa tới, không chú ý tới
+1|Salary (n) a fixed compensation paid regularly for work done; one’s pay|toeic|lương
+1|Suitable (adj), appropriate to a purpose or an occasion|toeic|thích hợp với
+1|Suit (v) Hợp với, suitably (adv),
+Lesson 49|toeic|Hospitals|toeic|tổ chức từ thiện tổ chức cứu tế
+1|Admit /əd’mit/ (v), to permit to enter|toeic|hứa được, nhận được, có đủ chỗ cho
+1|Admittance(n), admission(n),
+1|Authorization /,ɔ:θərai’zeiʃn/(n), the act of sanctioning|toeic|sự cho quyề(n) sự cho phép
+1|Designate /’dezignit/ (v), to indicate or specify|toeic|chỉ rõ, định rõ
+1|Designation(n), designator(n),
+1|Escort /eskɔ:k 1|is’kɔ:t/ (n) a person accompanying another to guide or protect|toeic|người bảo vệ; người dẫn đường; người đi theo
+1|Identify /ai’dentifai/ (v), to ascertain the name or belongings of|toeic|đồng nhất hoá, coi như nhau
+1|Identifiable (adj), identification(n),
+1|Missing (n)|toeic|người mất tích
+1|Permit /’pə:mit/ (v), to allow|toeic|cho phép
+1|Permissible (adj), permission(n),
+1|Pertinent /’pɔ:tinənt/ (adj), having relevance to the matter at hand|toeic|thích hợp, thích đáng, đúng chỗ
+1|Procedure /procedure/ (n) a series of steps taken to accomplish an end |toeic|thủ tục
+1|Result /ri’zʌlt/ (n) an outcome|toeic|kết quả
+1|Statement /’steitmənt/ (n) an accounting showing an amount due; a bill|toeic|sự bày tỏ, sự trình bày, sự phát biểu
+1|Usual /’ju|toeic|u l/ (adj), ordinary, expected|toeic|thường, thông thường, thường lệ, thường dùng, dùng quen
+Lesson 50|toeic|Pharmacy /’fɑ:məsi/|toeic|Dược khoa
+1|Consult /kən’sʌlt/ (v), to seek advice or information of|toeic|hỏi ý kiế(n) tham khảo
+1|Consultation(n), consultative (adj),
+1|Control /kən’troul/ (v), to exercise authoritative or dominating influence|toeic|kiểm tra, kiểm soát, thử lại
+1|Convenient /kən’vi:njənt/ (adj), suited or favorable to one’s purpose; easy to reach|toeic|tiện lợi, thuận lợi; thích hợp
+1|Convenience(n), conveniently (adv),
+1|Detect /di’tekt/ (v), to discover or ascertain|toeic|dò ra, tìm ra, khám phá ra, phát hiện ra
+1|Detection(n), detectable (adj),
+1|Factor /’fæktə/n., a contribution to an accomplishment, a result, or a process|toeic|nhân tố
+1|Interaction /,intər’ækʃn/ (n) an influence; a mutual activity|toeic|tác động qua lại
+1|Limit (n) the point beyond which something cannot proceed|toeic|giới hạn, hạn độ
+1|Monitor (v), to keep track of|toeic|giám sát
+1|Potential /pə’tenʃəl/ (adj), capable of being but not ye in existence; possible|toeic|tiềm năng
+1|Sample /’sɑ:mpl/ (n) a portio(n) piece, or segment that is representative of a whole|toeic|mẫu, mẫu hàng
+1|Sense /sens/n., a judgment; an intellectual interpretation|toeic|khả năng phán đoán
+1|Volunteer /,vɔlən’tiə/ (n) one who performs a service without pay; (v), to perform as a volunteer|toeic|người tình nguyện người xung phong
+1|Volunteerism(n), voluntary (adj)|toeic|tình nguyện

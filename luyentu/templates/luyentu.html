@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+<script type="text/javascript">
+	function send_requests(key){
+		if (key==13){
+			document.getElementById('submit').click();
+		}
+	}
+	function en_enter(key){
+		if (key==13){
+			document.getElementById('input_vi').focus();
+		}
+	}
+</script>
+
+</head>
+<body>
+{% load staticfiles %}
+<script type="text/javascript" src="{% static 'js/jquery.min.js' %}?aaa={{param.now}}"></script>
+<script type="text/javascript" src="{% static 'js/javascript.js' %}?aaa={{param.now}}"></script>
+<link rel="stylesheet" type="text/css" href="{% static 'css/style.css'%} ?lmasd={{param.now}}">
+
+<style type="text/css">
+	.categories{
+		position: absolute;
+		top: 10%;
+		left: 5%;
+		width: 12%;
+		height: 50%;
+		background: pink;
+		padding: 10px 10px;
+		overflow-y: scroll;
+	}
+	.checkbox{
+		margin-bottom: 10px;
+	}
+</style>
+
+<div id="categories" class="categories">
+	{% for category in param.categories %}
+		<input id="{{category}}" type="checkbox" name="{{category}}" class="checkbox" title="{{category}}">
+		<label for="{{category}}">{{category}}</label>
+		<br>
+	{% endfor%}
+</div>
+
+
+<div class="history-fd">
+	<!--history-->
+	<table class="table-histoty" id="table-histoty">
+		
+	</table>
+</div>
+
+<div class="n0w-word">
+	<p class="dskfnl-lks923">Nghĩa của từ:</p>
+	<label class="word-ldfgl" id="word"></label>
+</div>
+
+<div class="form-kn9a">
+		<div class="symbol-shell">
+			<span class="shell-goa9">>>>&nbsp;&nbsp;</span>
+		</div>
+		<div class="textbox-center">
+			<input id="input_en" name="en" class="input-kdfg93" tabindex="1" autofocus onkeypress="en_enter(event.keyCode)">
+			<input name="vi" id="input_vi" class="input-kdfg93" tabindex="2" onkeypress="send_requests(event.keyCode)">
+		</div>
+		<div class="submit-div">
+			<input id="submit" class="button-dfgs" type="button" name="send" value="Gửi" tabindex="3">
+		</div>
+</div>
+
+</body>
+</html>
